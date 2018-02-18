@@ -1,0 +1,155 @@
+<?php include_once 'asset/admin-ajax.php'; ?>
+<?php echo message_box('success'); ?>
+<?php echo message_box('error'); ?>
+
+<div class="row">
+    <div class="col-sm-12 wrap-fpanel" data-offset="0">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <div class="panel-title">
+                    <span>
+                        <strong><?php echo $this->language->form_heading()[18] ?></strong>
+                    </span>
+                </div>
+            </div>
+            <!-- Table -->
+
+            <table class="table table-bordered table-hover" id="dataTables-example">
+                <thead>
+                    <tr>
+                        <th class="col-sm-1">ID</th>
+                        <th>Full Name</th>
+                        <th>Gross Salary</th>
+                        <th>Deductions</th>
+                        <th>Net Salary</th>
+                        <th>Emp Type</th>
+                        <th class="col-sm-1">Details</th>
+                        <th>Action</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    <?php if (!empty($emp_salary_info)):foreach ($emp_salary_info as $v_emp_salary): ?>                    
+                            <tr>
+                                <td><?php echo $v_emp_salary->employment_id; ?></td>
+                                <td><?php echo $v_emp_salary->first_name . ' ' . $v_emp_salary->last_name ?></td>
+                                <td><?php 
+								$allowances = 0;
+								//global Allowance
+								if (!empty($global_allow_deduct)): 
+									foreach($global_allow_deduct as $glob_allow)
+									{
+										//print_r($glob_allow);exit;
+										if(!empty($glob_allow->allow_name))
+										{
+											if($glob_allow->allow_amt_type == "per")
+											{
+												if (!empty($v_emp_salary->basic_salary)) {
+													$amt = (($v_emp_salary->basic_salary * $glob_allow->allow_amt)/100);
+												}
+												else
+												{
+													$amt = $glob_allow->allow_amt;
+												}
+											}
+											else
+											{
+												$amt = $glob_allow->allow_amt;
+											}
+											$allowances += $amt;
+										}
+									}
+								endif; 
+								
+								//extra allowance
+								if (!empty($v_emp_salary->extra_allowance)): 
+									$extra_allow = explode('<-->',$v_emp_salary->extra_allowance);
+									unset($extra_allow[count($extra_allow)-1]);
+									foreach($extra_allow as $ex_al)
+									{
+										$desc = explode("=",$ex_al);
+										$allowances += $desc[1];
+									}
+								endif;
+								
+								echo $gross = $v_emp_salary->basic_salary +  $allowances?></td>
+                                <td><?php
+								
+								$deductions = 0;
+								//global Deductions
+								if (!empty($global_allow_deduct)): 
+									foreach($global_allow_deduct as $glob_deduct)
+									{
+										//print_r($glob_deduct);exit;
+										if(!empty($glob_deduct->did_name))
+										{	
+											if($glob_deduct->did_amt_type == "per")
+											{
+												if (!empty($v_emp_salary->basic_salary)) {
+													$amt = (($v_emp_salary->basic_salary * $glob_deduct->did_amt)/100);
+												}
+												else
+												{
+													$amt = $glob_deduct->did_amt;
+												}
+											}
+											else
+											{
+												$amt = $glob_deduct->did_amt;
+											}
+											$deductions += $amt;
+										}
+									}
+								endif; 
+								
+								//extra allowance
+								if (!empty($v_emp_salary->extra_deduction)): 
+								
+									$extra_deduct = explode('<-->',$v_emp_salary->extra_deduction);
+									
+									unset($extra_deduct[count($extra_deduct)-1]);
+									foreach($extra_deduct as $ex_al)
+									{
+										$desc = explode("=",$ex_al);
+										$deductions += $desc[1];
+									}
+								endif; 
+								
+								if($v_emp_salary->basic_salary >= 10000)
+								{
+									$pay_tax = $v_emp_salary->payroll_tax_deduction;
+								}
+								else
+								{
+									$pay_tax = '0.000';
+								}
+								echo $deduction = $deductions + $v_emp_salary->social_security + $pay_tax + $v_emp_salary->nhi_deduction + $v_emp_salary->spouse_nhi_deduction ?></td>
+                                <td><?php echo $gross - $deduction ?></td>
+                                <td><?php
+                                    if ($v_emp_salary->employment_type == 1) {
+                                        echo 'Provision';
+                                    } else {
+                                        echo 'Permanent';
+                                    }
+                                    ?></td>
+                                <td><?php echo btn_view('admin/payroll/view_salary_details/' . $v_emp_salary->employee_id); ?></td>
+                                <td>
+                                    <?php echo btn_edit('admin/payroll/manage_salary_details/' . $v_emp_salary->employee_id . '/' . $v_emp_salary->designations_id); ?>                                    
+                                </td>
+                            </tr>                
+                        <?php endforeach; ?>
+                    <?php endif; ?>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(function() {
+        $('#date').datepicker({
+            autoclose: true,
+            format: "yyyy-mm-dd",
+        });
+    });
+</script>

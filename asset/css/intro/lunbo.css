@@ -1,0 +1,49 @@
+.container {
+    width: 800px;
+    margin-left: 21px;
+    margin-top: 50px;
+}
+
+.hub-slider {
+    position: relative;
+}
+
+.hub-slider ul {
+    list-style: none;
+}
+
+.hub-slider ul li {
+    width: 1123px;
+    height: 639px;
+    background: #add8e6;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-size: cover;
+}
+.hub-slider ul li:nth-child(1){
+    background-image: url("../../img/intro/1.jpg");
+}
+.hub-slider ul li:nth-child(2){
+    background-image: url("../../img/intro/2.jpg");
+}
+.hub-slider ul li:nth-child(3){
+    background-image: url("../../img/intro/3.jpg");
+}
+.hub-slider ul li:nth-child(4){
+    background-image: url("../../img/intro/4.jpg");
+}
+.hub-slider-controls {
+    position: absolute;
+    top: 0;
+    z-index: 1000;
+}
+
+.hub-slider-arrow {
+    width: 40px;
+    height: 40px;
+    border: none;
+    background: #41AEE7;
+    color: #fff;
+    font-weight: bold;
+}

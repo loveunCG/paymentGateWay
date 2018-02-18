@@ -1,0 +1,63 @@
+<?php include_once 'asset/admin-ajax.php'; ?>
+<?php echo message_box('success'); ?>
+<?php echo message_box('error'); ?>
+
+<div class="row margin">   
+</div>
+<div class="row">
+    <div class="col-sm-12">
+        <div class="wrap-fpanel">
+            <div class="panel panel-default" data-collapsed="0">
+                <div class="panel-heading">
+                    <div class="panel-title">
+                        <strong><?php echo "Add Account" //$this->language->from_body()[10][7] ?></strong>
+                    </div>
+                </div>
+                <div class="panel-body">
+                    <form id="form" action="<?php echo base_url(); ?>admin/payroll/save_account/<?php
+                        if (!empty($cpf_info->id)) {
+                            echo $cpf_info->id;
+                        }
+                        ?>" method="post" class="form-horizontal form-groups-bordered">
+                        <div class="form-group">
+                            <label for="field-1" class="col-sm-3 control-label">Account Name<span class="required">*</span></label>
+                            <div class="col-sm-5">
+                                <input type="text" class="form-control" required name="acname" value="<?php
+                                    if (!empty($cpf_info->acname)) {
+                                        echo $cpf_info->acname;
+                                    }
+                                    ?>" >
+                            </div>
+                        </div>
+                        <div class="form-group" id="border-none">
+                            <label for="field-1" class="col-sm-3 control-label">
+                                <?php //echo $this->language->from_body()[14][1] ?>
+                                <?php echo "Group Name" ?> 
+                            </label>
+                            <div class="col-sm-5">
+                                <select name="group_id" id="group_name" class="form-control" >
+                                    <option value="">Select Group...</option>  
+                                    <?php if (!empty($group_info)): ?>
+                                        <?php foreach ($group_info as $v_group) : ?>
+                                            <option value="<?php echo $v_group->id; ?>" 
+                                            <?php
+                                            if (!empty($group_id)) {
+                                                echo $v_group->id == $group_id ? 'selected' : '';
+                                            }
+                                            ?>><?php echo $v_group->acgpname ?></option>                            
+                                                <?php endforeach; ?>
+                                            <?php endif; ?>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group margin">
+                            <div class="col-sm-offset-3 col-sm-5">
+                                <button type="submit" id="sbtn" class="btn btn-primary"><?php echo!empty($calendar_details->ID) ? 'Update' : 'Save' ?></button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>        
+        </div>            
+    </div> 
+	

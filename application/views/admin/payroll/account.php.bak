@@ -1,0 +1,55 @@
+<?php include_once 'asset/admin-ajax.php'; ?>
+<?php echo message_box('success'); ?>
+<?php echo message_box('error'); ?>
+
+<div class="row margin">
+    <div class="col-sm-9">
+        <h4 class="pull-left"><?php echo anchor('admin/payroll/add_account/', '<i class="fa fa-plus"></i>'.  "Add Account"); ?></h4>        
+    </div>
+</div>
+    
+<div class="col-md-12">
+    <div class="tab-content">
+        <div>
+            <div class="wrap-fpanel">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <div class="panel-title">
+                            <strong><i class="fa fa-minus-square"></i> <?php echo "Manage Account" //$this->language->form_heading()[28] ?></strong>
+                        </div>
+                    </div>
+                    <!-- Table -->
+                    <table class="table table-bordered table-hover" id="dataTables-example">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Account</th>
+                                <th>Code</th>
+                                <th>Group Name</th>
+                                <th>Account Type</th>
+                                <!--<th>Debit</th>
+                                <th>Credit</th>
+                                -->
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <?php $i=1;foreach($funds as $fund){ ?>
+                            <tr>
+                                <td><?php echo $i; ?></td>
+                            	<td><?php echo $fund['id']; ?></td>                     
+                                <td><?php echo $fund['acname']; ?></td>
+                                <td><?php echo $fund['acgpname']; ?></td>
+                                <td><?php echo $fund['acgptype']; ?></td>
+                               <!-- <td><?php //echo $fund['acdramt']; ?></td>
+                                <td><?php //echo $fund['accramt']; ?></td> -->
+                                <td><?php echo btn_edit('admin/payroll/add_account/'.$fund['id']); ?>  <?php echo btn_delete('admin/payroll/delete_account/' . $fund['id']); ?> </td>
+                            </tr>
+                            <?php $i++; } ?>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

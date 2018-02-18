@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteCond $1 !^(index\.php|dbadmin\.php|site|BackOffice_Mobile_Time_Clock|monofont\.ttf|consus|upload|sessions|fckeditor|public|tmp|img|asset|robots\.txt\.html)
+RewriteRule ^(.*)$  /jiuyoufu/index.php?/$1 [L]
+
+#RewriteEngine on
+#RewriteCond %{HTTP_HOST} ^(.*)\.vihrms\.com
+#RewriteCond $1 !^(index\.php|dbadmin\.php|site|monofont\.ttf|consus|upload|sessions|fckeditor|public|tmp|img|asset|robots\.txt)
+#RewriteRule ^(.*)$ index.php [L]
