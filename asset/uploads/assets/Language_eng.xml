@@ -1,0 +1,622 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fontdataroot>
+ 
+  <eng>
+    <testdeviceid>12345670211</testdeviceid>
+    <title>WORLD GO</title>
+    <list4>	Tutorial	</list4>
+    <list5>	Practice	</list5>
+    <list6>	Battle Game	</list6>
+    <list7>	Option	</list7>
+    <list8>	Game Setup	</list8>
+    <list9>	Game Start	</list9>
+    <list10>	Practice don't save your record.&#10;Let's play online battle game if you want to save your record.	</list10>
+    <list11>	Select First	</list11>
+    <list12>	Select GameRule	</list12>
+    <list13>	NoScore Game	</list13>
+    <list14>	8Score Game	</list14>
+    <list15>	Basic Rule	</list15>
+    <list16>	Use Joker	</list16>
+    <list17>	Auto Change First	</list17>
+    <list18>	Draw Game	</list18>
+    <list19>	Bonus Money	</list19>
+    <list20>	Doubling Payment	</list20>
+    <list21>	Continues Calling	</list21>
+    <list22>	Throw	</list22>
+    <list23>	Win	</list23>
+    <list24>	Kong	</list24>
+    <list25>	Pung	</list25>
+    <list26>	Chow	</list26>
+    <list27>	Rich	</list27>
+    <list28>	Pass	</list28>
+    <list29>	East	</list29>
+    <list30>	South	</list30>
+    <list31>	West	</list31>
+    <list32>	North	</list32>
+    <list33>	East	</list33>
+    <list34>	South	</list34>
+    <list35>	West	</list35>
+    <list36>	North	</list36>
+    <list37>	Chapter	</list37>
+    <list38>	Stage	</list38>
+    <list39>	Wind	</list39>
+    <list40>	confirm	</list40>
+    <list41>	World Mahjong	</list41>
+    <list42>	Chinese Mahjong	</list42>
+    <list43>	Practice Game	</list43>
+    <list44>	Total Score	</list44>
+    <list45>	Yet not a situation to display a recommended strategy.	</list45>
+    <list46>	Most of the recommended strategies plaque is shown on the right.	</list46>
+    <list47>	Settlement Amount	</list47>
+    <list48>	Lost Score	</list48>
+    <list49>	Prev Game Draw	</list49>
+    <list50>	Hand Joker	</list50>
+    <list51>	Final Score	</list51>
+    <list52>	Score	</list52>
+    <list53>	Game Result	</list53>
+    <list54>	Game Result(Score Amount )	</list54>
+    <list55>	No Money	</list55>
+    <list56>	Basic Score	</list56>
+    <list57>	.	</list57>
+    <list58>	Continue	</list58>
+    <list59>	Go to Main	</list59>
+    <list60>	Finish Practice	</list60>
+    <list61>	Practice don't save your record. Let's play online battle game if you want to save your record.	</list61>
+    <list62>	Comming Soon	</list62>
+    <list63>	I'm First Login	</list63>
+    <list64>	Already Join.	</list64>
+    <list65>	I don't know. Check my username.	</list65>
+    <list66>	Duplicate Check	</list66>
+    <list67>	Agree	</list67>
+    <list68>	Join And Login	</list68>
+    <list69>	Cancel and return	</list69>
+    <list70>	input your username	</list70>
+    <list71>	This game use device unique as your login account.&#10;If you delete this app and reinstall, You must use old nickname.	</list71>
+    <list72>	now connecting....	</list72>
+    <list73>	Connection failed.	</list73>
+    <list74>	Connection Succeed.	</list74>
+    <list75>	go to main by lost connection.	</list75>
+    <list76>	input in 2~12 characters.	</list76>
+    <list77>	The username is already in use	</list77>
+    <list78>	Duplicate Check	</list78>
+    <list79>	Available username	</list79>
+    <list80>	input username	</list80>
+    <list81>	You must agree to proceed	</list81>
+    <list82>	If you have forgotten your username, you can register a new	</list82>
+    <list83>	regist new	</list83>
+    <list84>	join Match	</list84>
+    <list85>	My Itempack	</list85>
+    <list86>	Mission	</list86>
+    <list87>	Ranking	</list87>
+    <list88>	Shop	</list88>
+    <list89>	Friend	</list89>
+    <list90>		</list90>
+    <list91>		</list91>
+    <list92>	Complete	</list92>
+    <list93>	GameMoney	</list93>
+    <list94>	Item	</list94>
+    <list95>	Random Mahjong tile	</list95>
+    <list96>	payments	</list96>
+    <list97>	Rewards	</list97>
+    <list98>		</list98>
+    <list99>	My Rank	</list99>
+    <list100>	Money Rank	</list100>
+    <list101>	Rating Rank	</list101>
+    <list102>	Ranking	</list102>
+    <list103>	UserName	</list103>
+    <list104>	Money	</list104>
+    <list105>	Ranking Point	</list105>
+    <list106>	more View	</list106>
+    <list107>	View Title	</list107>
+    <list108>	You can get Money if you make title by using item combination.	</list108>
+    <list109>	You can get new tile by compounding tiles.	</list109>
+    <list110>	retry	</list110>
+    <list111>	cancel	</list111>
+    <list112>	not enough tile.	</list112>
+    <list113>	no title. Refill by tiles.	</list113>
+    <list114>	network error. Retry	</list114>
+    <list115>	recommand	</list115>
+    <list116>	no tile to recommand	</list116>
+    <list117>	combination	</list117>
+    <list118>	compound	</list118>
+    <list119>	my items.	</list119>
+    <list120>	It's not work. refill tiles.	</list120>
+    <list121>	help	</list121>
+    <list122>	The current score is	</list122>
+    <list123>	.	</list123>
+    <list124>		</list124>
+    <list125>		</list125>
+    <list126>		</list126>
+    <list127>		</list127>
+    <list128>		</list128>
+    <list129>		</list129>
+    <list130>		</list130>
+    <list131>		</list131>
+    <list132>		</list132>
+    <list133>	Per Score	</list133>
+    <list134>	Minimum Money	</list134>
+    <list135>	Target Money	</list135>
+    <list136>	GameRule	</list136>
+    <list137>	Won	</list137>
+    <list138>	more	</list138>
+    <list139>	ScoreGame	</list139>
+    <list140>		</list140>
+    <list141>	No admittance	</list141>
+    <list142>	retry	</list142>
+    <list143>	Certification	</list143>
+    <list144>	Certification succeed.	</list144>
+    <list145>	Certification failed	</list145>
+    <list146>		</list146>
+    <list147>		</list147>
+    <list148>	Your Item	</list148>
+    <list149>		</list149>
+    <list150>	count	</list150>
+    <list151>	agree	</list151>
+    <list152>	View Terms	</list152>
+    <list153>	Join Member	</list153>
+    <list154>	Find ID	</list154>
+    <list155>	ID don't match	</list155>
+    <list156>	now connecting...	</list156>
+    <list157>	Buy	</list157>
+    <list158>	Error to connect.	</list158>
+    <list159>	You can not proceed because not connect. Check the network, please proceed again.	</list159>
+    <list160>	Price	</list160>
+    <list161>	Paid	</list161>
+    <list162>	First Open	</list162>
+    <list163>	Joker	</list163>
+    <list164>		</list164>
+    <list165>	Game Over	</list165>
+    <list166>	Next is	</list166>
+    <list167>	do you want continue ?	</list167>
+    <list168>	You can't continue game because not enough money.	</list168>
+    <list169>	Gift 	</list169>
+    <list170>	Prev Money	</list170>
+    <list171>	Cur Money	</list171>
+    <list172>	Continue	</list172>
+    <list173>	Failed to join member.	</list173>
+    <list174>		</list174>
+    <list175>	win	</list175>
+    <list176>		</list176>
+    <list177>	Current	</list177>
+    <list178>	Contact us	</list178>
+    <list179>	Go to Main	</list179>
+    <list180>	Exit	</list180>
+    <list181>	Sound	</list181>
+    <list182>	Voice	</list182>
+    <list183>	do you go title ?	</list183>
+    <list184>	Exit program ?	</list184>
+    <list185>	Notice	</list185>
+    <list186>	no rank	</list186>
+    <list187>	Get Money	</list187>
+    <list188>		</list188>
+    <list189>		</list189>
+    <list190>		</list190>
+    <list191>		</list191>
+    <list192>		</list192>
+    <list193>		</list193>
+    <list194>		</list194>
+    <list195>		</list195>
+    <list196>		</list196>
+    <list197>	Notice	</list197>
+    <list198>	Failed to buy	</list198>
+    <list199>	You can not proceed with the purchase does not connect to the server. Please proceed again after checking the network.	</list199>
+    <list200>	The purchase process has failed.	</list200>
+    <list201>	Has succeeded in purchasing the item.	</list201>
+    <list202>		</list202>
+    <list203>		</list203>
+    <list204>		</list204>
+    <list205>		</list205>
+    <list206>		</list206>
+    <list207>		</list207>
+    <list208>		</list208>
+    <list209>		</list209>
+    <list210>		</list210>
+    <list211>	You can not access the server version is not appropriate. Do you want to go to the download page to update the program?	</list211>
+    <list212>	Tile Needed to win	</list212>
+    <list213>	Remaining Tile Count	</list213>
+    <list214>	Previous game is not over properly.	</list214>
+    <list215>	more than if you get the abnormal connection. You will be blocked today.	</list215>
+    <list216>	count	</list216>
+    <list217>	You have exceeded the limit access.	</list217>
+    <list218>	Today's access is blocked.	</list218>
+    <list219>	Please connect again tomorrow.	</list219>
+    <list220>	checking of the server currently.	</list220>
+    <list221>	Please connect again after a while.	</list221>
+    <list222>	Permanent blocked users.	</list222>
+    <list223>	No Call Game	</list223>
+    <list224>	if your get the throw tile. Score	</list224>
+    <list225>	comming soon	</list225>
+    <list226>	free match	</list226>
+    <list227>	battle match	</list227>
+    <list228>	add rule	</list228>
+    <list229>	&#160;joining	</list229>
+    <list230>	setup score	</list230>
+    <list231>	no call game don't call Chow, Pung, Kong.	</list231>
+    <list232>	more can enter.	</list232>
+    <list233>	&#160;user connected	</list233>
+    <list234>		</list234>
+    <list235>		</list235>
+    <list236>		</list236>
+    <list237>		</list237>
+    <list238>		</list238>
+    <list239>	waiting	</list239>
+    <list240>	please wait.	</list240>
+    <list241>		</list241>
+    <list242>		</list242>
+    <list243>		</list243>
+    <list244>		</list244>
+    <list245>	ready	</list245>
+    <list246>	waiting	</list246>
+    <list247>	game start	</list247>
+    <list248>	delayed	</list248>
+    <list249>		</list249>
+    <list250>	free charge	</list250>
+    <list251>	have charged	</list251>
+    <list252>	free money	</list252>
+    <list253>	today	</list253>
+    <list254>	max	</list254>
+    <list255>	&#160;join room	</list255>
+    <list256>	&#160;out room	</list256>
+    <list257>	please wait.	</list257>
+    <list258>	game start	</list258>
+    <list259>	Chow	</list259>
+    <list260>	Pung	</list260>
+    <list261>	Kong	</list261>
+    <list262>	Rich	</list262>
+    <list263>	Win	</list263>
+    <list264>	computer	</list264>
+    <list265>	&#160;is	</list265>
+    <list266>		</list266>
+    <list267>		</list267>
+    <list268>	multiple	</list268>
+    <list269>	is lost connection.	</list269>
+    <list270>	Title Score	</list270>
+    <list271>	Bonus Score	</list271>
+    <list272>	Mission Score	</list272>
+    <list273>	Mission Multiple	</list273>
+    <list274>	you use all free charge today.	</list274>
+    <list275>	The game will start in a few minutes.	</list275>
+    <list276>	Quit the game and press the Exit To exit.	</list276>
+    <list277>	The moneys less than the minimum amount you can not go to the next game.	</list277>
+    <list278>	Please use the store or a free charge.	</list278>
+    <list279>	Exit	</list279>
+    <list280>	go to Shop	</list280>
+    <list281>	Exit&#10;Reserve	</list281>
+    <list282>	Reserved	</list282>
+    <list283>	On	</list283>
+    <list284>	Off	</list284>
+    <list285>	available joining	</list285>
+    <list286>	more	</list286>
+    <list287>	less	</list287>
+    <list288>	only	</list288>
+    <list289>	Commission	</list289>
+    <list290>		</list290>
+    <list291>		</list291>
+    <list292>		</list292>
+    <list293>		</list293>
+    <list294>		</list294>
+    <list295>		</list295>
+    <list296>		</list296>
+    <list297>		</list297>
+    <list298>	Complete certification	</list298>
+    <list299>		</list299>
+    <list300>		</list300>
+    <list301>		</list301>
+    <list302>		</list302>
+    <list303>		</list303>
+    <list304>		</list304>
+    <list305>		</list305>
+    <list306>		</list306>
+    <list307>		</list307>
+    <list308>		</list308>
+    <list309>		</list309>
+    <list310>		</list310>
+    <list311>		</list311>
+    <list312>		</list312>
+    <list313>		</list313>
+    <list314>		</list314>
+    <list315>		</list315>
+    <list316>		</list316>
+    <list317>		</list317>
+    <list318>	game over	</list318>
+    <list319>	this game	</list319>
+    <list320>	multiple game	</list320>
+    <list321>	draw game	</list321>
+    <list322>	game commision	</list322>
+    <list323>	payments	</list323>
+    <list324>	get	</list324>
+    <list325>	loss	</list325>
+    <list326>	congratulation	</list326>
+    <list327>		</list327>
+    <list328>	weekly ranking 	</list328>
+    <list329>	total ranking	</list329>
+    <list330>	money ranking	</list330>
+    <list331>	big ranking	</list331>
+    <list332>	title ranking	</list332>
+    <list333>	kill ranking	</list333>
+    <list334>	to rank the amount earned this we.	</list334>
+    <list335>	to rank the highest score made by targeting one person.	</list335>
+    <list336>	to rank high title this week.	</list336>
+    <list337>	to rank you made all-in user count	</list337>
+    <list338>	한국어	</list338>
+    <list339>	中國語	</list339>
+    <list340>	にほんご	</list340>
+    <list341>	English	</list341>
+    <list342>	잠시만 기다려주세요.	</list342>
+    <list343>	请耐心等待。	</list343>
+    <list344>	しばらくお待ちください。	</list344>
+    <list345>	Please Wait.	</list345>
+    <list346>	My Infomation	</list346>
+    <list347>	Introduce Battle Game	</list347>
+    <list348>	The game is only played between users.&#10;Between user and computer, Money is calculated as 1/100.&#10;Between user and user, Money is calculated as specified.</list348>
+    <list349>	Money can not enter enough.	</list349>
+    <list350>	After game there is a network problem occurred. Do not go to the next game and moved to the lobby.	</list350>
+    <list351>	in view game.	</list351>
+    <list352>	You can purchase gold mahjong tile.	</list352>
+    <list353>	You can exchange gold mahjong tile.	</list353>
+    <list354>	gold mahjong tile	</list354>
+    <list355>	( VAT included )	</list355>
+    <list356>	Purchase on.	</list356>
+    <list357>	Would you like to buy?	</list357>
+    <list358>	Won	</list358>
+    <list359>	gold tile	</list359>
+    <list360>	not enough gold mahjong tile.	</list360>
+    <list361>	you can change with gold tile	</list361>
+    <list362>	&#160;to item tile	</list362>
+    <list363>	&#10;and game money	</list363>
+    <list364>	.	</list364>
+    <list365>	if your make title with item tile .&#10;You get a money per score.	</list365>
+    <list366>	Are you sure you want to exchange?	</list366>
+    <list367>	exchange	</list367>
+    <list368>	Exchange finished	</list368>
+    <list369>	No Score Game	</list369>
+    <list370>	8 Score Game	</list370>
+    <list371>	beginner	</list371>
+    <list372>	lowlevel	</list372>
+    <list373>	amateur	</list373>
+    <list374>	midlevel	</list374>
+    <list375>	semipro	</list375>
+    <list376>	highlevel	</list376>
+    <list377>	pro	</list377>
+    <list378>	national team	</list378>
+    <list379>	world class	</list379>
+    <list380>	champion	</list380>
+    <list381>	Exit the spectator to a network problem and has been moved to the lobby.	</list381>
+    <list382>		</list382>
+    <list383>		</list383>
+    <list384>		</list384>
+    <list385>		</list385>
+    <list386>		</list386>
+    <list387>		</list387>
+    <list388>		</list388>
+    <list389>		</list389>
+    <list390>		</list390>
+    <list391>		</list391>
+    <list392>		</list392>
+    <list393>		</list393>
+    <list394>		</list394>
+    <list395>		</list395>
+    <list396>		</list396>
+    <list397>		</list397>
+    <list398>	The maximum amount per user is	</list398>
+    <list399>	.	</list399>
+
+
+    <list400>	Honor winds Dragon	</list400>
+    <list401>	Big four winds	</list401>
+    <list402>	Big three dragons	</list402>
+    <list403>	All green	</list403>
+    <list404>	Nine gates	</list404>
+    <list405>	Four quads	</list405>
+    <list406>	Chained seven pairs	</list406>
+    <list407>	Thirteen orphans	</list407>
+    <list408>	joker kong	</list408>
+    <list409>	All Terminals	</list409>
+    <list410>	Little Four Winds	</list410>
+    <list411>	Little Three Dragons	</list411>
+    <list412>	All Honor	</list412>
+    <list413>	Four Concealed Pungs	</list413>
+    <list414>	Pure Terminal Chows	</list414>
+    <list415>	Quadruple Chow	</list415>
+    <list416>	Four Pure Shifted Pungs	</list416>
+    <list417>	Four Pure Shifted Chows	</list417>
+    <list418>	Three Kongs	</list418>
+    <list419>	All Terminals and Honors	</list419>
+    <list420>	Seven Pairs	</list420>
+    <list421>	Greater Honors and Knitted Tiles	</list421>
+    <list422>	All Even Pungs	</list422>
+    <list423>	Full Flush	</list423>
+    <list424>	Pure Triple Chow	</list424>
+    <list425>	Pure Shifted Pungs	</list425>
+    <list426>	Upper Tiles	</list426>
+    <list427>	Middle Tiles	</list427>
+    <list428>	Lower Tiles	</list428>
+    <list429>	Pure Straight	</list429>
+    <list430>	Three-Suited Terminal Chows	</list430>
+    <list431>	Pure Shifted Chows	</list431>
+    <list432>	All Fives	</list432>
+    <list433>	Triple Pung	</list433>
+    <list434>	Three Concealed Pungs	</list434>
+    <list435>	Lesser Honors and Knitted Tiles	</list435>
+    <list436>	Knitted Straight	</list436>
+    <list437>	Upper Five	</list437>
+    <list438>	Lower Five	</list438>
+    <list439>	Three Winds	</list439>
+    <list440>	Mixed Straight	</list440>
+    <list441>	Reversible Tiles	</list441>
+    <list442>	Mixed Triple Chow	</list442>
+    <list443>	Mixed Shifted Pungs	</list443>
+    <list444>	Two Concealed Kongs	</list444>
+    <list445>	All Pungs	</list445>
+    <list446>	Half Flush	</list446>
+    <list447>	Mixed Shifted Chows	</list447>
+    <list448>	All Types	</list448>
+    <list449>	Two Dragons	</list449>
+    <list450>	Mixed Shifted 4 pungs	</list450>
+    <list451>	Outside Hand	</list451>
+    <list452>	Two Melded Kongs	</list452>
+    <list453>	Mixed Shifted 4 Chows	</list453>
+    <list454>	Mixed Shifted 3 pungs	</list454>
+    <list455>	Dragon Pung	</list455>
+    <list456>	All Chows	</list456>
+    <list457>	SaGuiIl	</list457>
+    <list458>	Double Pung	</list458>
+    <list459>	Two Concealed Pungs	</list459>
+    <list460>	Concealed Kong	</list460>
+    <list461>	All Simples	</list461>
+    <list462>	2 mixed Shifted 3 Chows	</list462>
+    <list463>	Jokerless	</list463>
+    <list464>	Mixed strait	</list464>
+    <list465>	Pure Double Chow	</list465>
+    <list466>	Mixed Double Chow	</list466>
+    <list467>	Short Straight	</list467>
+    <list468>	Two Terminal Chows	</list468>
+    <list469>	Pung of Terminals or Honors	</list469>
+    <list470>	Melded Kong	</list470>
+    <list471>	One Voided Suit	</list471>
+    <list472>	No honor	</list472>
+    <list473>	two, five or eight pair	</list473>
+    <list474>	one or nine pair	</list474>
+    <list475>	Chiken hand	</list475>
+    <list476>	Last Tile Claim	</list476>
+    <list477>	Last Tile Draw	</list477>
+    <list478>	Out with Replacement Tile	</list478>
+    <list479>	Robbing the Kong	</list479>
+    <list480>	Melded Hand	</list480>
+    <list481>	Fully Concealed Hand	</list481>
+    <list482>	Tile Hog	</list482>
+    <list483>	Prevalent Wind	</list483>
+    <list484>	Seat Wind	</list484>
+    <list485>	Concealed Hand	</list485>
+    <list486>	Edge Wait	</list486>
+    <list487>	Closed Wait	</list487>
+    <list488>	Single Wait	</list488>
+    <list489>	Self-drawn	</list489>
+    <list490>	Flower or Season Tile	</list490>
+    <list491>	Bloom	</list491>
+    <list492>	Four Season Tile	</list492>
+    <list493>	Four Flower Tile	</list493>
+    <list494>	First Open tile Pung	</list494>
+    <list495>	Continues Calling	</list495>
+    <list496>		</list496>
+    <list497>		</list497>
+    <list498>		</list498>
+    <list499>		</list499>
+    <list500>		</list500>
+    <list501>	Honor winds Dragon	</list501>
+    <list502>	Big four winds	</list502>
+    <list503>	Big three dragons	</list503>
+    <list504>	All green	</list504>
+    <list505>	Nine gates	</list505>
+    <list506>	Four quads	</list506>
+    <list507>	Chained seven pairs	</list507>
+    <list508>	Thirteen orphans	</list508>
+    <list509>	joker kong	</list509>
+    <list510>	All Terminals	</list510>
+    <list511>	Little Four Winds	</list511>
+    <list512>	Little Three Dragons	</list512>
+    <list513>	All Honor	</list513>
+    <list514>	Four Concealed Pungs	</list514>
+    <list515>	Pure Terminal Chows	</list515>
+    <list516>	Quadruple Chow	</list516>
+    <list517>	Four Pure Shifted Pungs	</list517>
+    <list518>	Four Pure Shifted Chows	</list518>
+    <list519>	Three Kongs	</list519>
+    <list520>	All Terminals and Honors	</list520>
+    <list521>	Seven Pairs	</list521>
+    <list522>	Greater Honors and Knitted Tiles	</list522>
+    <list523>	All Even Pungs	</list523>
+    <list524>	Full Flush	</list524>
+    <list525>	Pure Triple Chow	</list525>
+    <list526>	Pure Shifted Pungs	</list526>
+    <list527>	Upper Tiles	</list527>
+    <list528>	Middle Tiles	</list528>
+    <list529>	Lower Tiles	</list529>
+    <list530>	Pure Straight	</list530>
+    <list531>	Three-Suited Terminal Chows	</list531>
+    <list532>	Pure Shifted Chows	</list532>
+    <list533>	All Fives	</list533>
+    <list534>	Triple Pung	</list534>
+    <list535>	Three Concealed Pungs	</list535>
+    <list536>	Lesser Honors and Knitted Tiles	</list536>
+    <list537>	Knitted Straight	</list537>
+    <list538>	Upper Five	</list538>
+    <list539>	Lower Five	</list539>
+    <list540>	Three Winds	</list540>
+    <list541>	Mixed Straight	</list541>
+    <list542>	Reversible Tiles	</list542>
+    <list543>	Mixed Triple Chow	</list543>
+    <list544>	Mixed Shifted Pungs	</list544>
+    <list545>	Two Concealed Kongs	</list545>
+    <list546>	All Pungs	</list546>
+    <list547>	Half Flush	</list547>
+    <list548>	Mixed Shifted Chows	</list548>
+    <list549>	All Types	</list549>
+    <list550>	Two Dragons	</list550>
+    <list551>	Mixed Shifted 4 pungs	</list551>
+    <list552>	Outside Hand	</list552>
+    <list553>	Two Melded Kongs	</list553>
+    <list554>	Mixed Shifted 4 Chows	</list554>
+    <list555>	Mixed Shifted 3 pungs	</list555>
+    <list556>	Dragon Pung	</list556>
+    <list557>	All Chows	</list557>
+    <list558>	SaGuiIl	</list558>
+    <list559>	Double Pung	</list559>
+    <list560>	Two Concealed Pungs	</list560>
+    <list561>	Concealed Kong	</list561>
+    <list562>	All Simples	</list562>
+    <list563>	2 mixed Shifted 3 Chows	</list563>
+    <list564>	Jokerless	</list564>
+    <list565>	Mixed strait	</list565>
+    <list566>	Pure Double Chow	</list566>
+    <list567>	Mixed Double Chow	</list567>
+    <list568>	Short Straight	</list568>
+    <list569>	Two Terminal Chows	</list569>
+    <list570>	Pung of Terminals or Honors	</list570>
+    <list571>	Melded Kong	</list571>
+    <list572>	One Voided Suit	</list572>
+    <list573>	No honor	</list573>
+    <list574>	two, five or eight pair	</list574>
+    <list575>	one or nine pair	</list575>
+    <list576>	Chiken hand	</list576>
+    <list577>	Last Tile Claim	</list577>
+    <list578>	Last Tile Draw	</list578>
+    <list579>	Out with Replacement Tile	</list579>
+    <list580>	Robbing the Kong	</list580>
+    <list581>	Melded Hand	</list581>
+    <list582>	Fully Concealed Hand	</list582>
+    <list583>	Tile Hog	</list583>
+    <list584>	Prevalent Wind	</list584>
+    <list585>	Seat Wind	</list585>
+    <list586>	Concealed Hand	</list586>
+    <list587>	Edge Wait	</list587>
+    <list588>	Closed Wait	</list588>
+    <list589>	Single Wait	</list589>
+    <list590>	Self-drawn	</list590>
+    <list591>	Flower or Season Tile	</list591>
+    <list592>	Bloom	</list592>
+    <list593>	Four Season Tile	</list593>
+    <list594>	Four Flower Tile	</list594>
+    <list595>	First Open tile Pung	</list595>
+    <list596>	Continues Calling	</list596>
+    <list597>		</list597>
+    <list598>		</list598>
+    <list599>		</list599>
+    <list600>		</list600>
+    <list601>		</list601>
+
+
+
+
+
+
+
+
+
+
+  </eng>
+
+
+</fontdataroot>
+
+

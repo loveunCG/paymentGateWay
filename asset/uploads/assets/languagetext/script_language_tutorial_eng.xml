@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fontdataroot>
+  <eng>
+    <list1>	About Mahjong </list1>
+    <list2>	중국마작 소개 </list2>
+    <list3>	최고마작 소개 </list3>
+
+    <list4>	마작이 처음입니다 </list4>
+    <list5> ( 여기까지 이해하고 연습게임을 즐겨주세요. 마작이 재미있어 집니다 ) </list5>
+    <list6>	다른 마작에 대해 알지만 중국마작은 처음입니다	</list6>
+    <list7>	( 중국마작에 대해 좀더 알고 싶으신 분만 ) </list7>
+    <list8>	중국마작은 잘 알지만 이 어플에 대해 알고 싶습니다 </list8>
+    <list9>	( 최고의 마작 게임 진행방법을 알려드립니다 ) </list9>
+
+    <list10> Mahjong! Is Difficult ? </list10>
+    <list11> Type of Mahjong Tile </list11>
+    <list12> Mean of Wind( East, South, West, North ) </list12>
+    <list13> Getting, Throwing, Receiving and melding </list13>
+    <list14> Strait and Triple </list14>
+    <list15> Open and Hidden(Concealed) </list15>
+    <list16> Way of Closing Game </list16>
+    <list17> 중국마작과 일본마작의 차이 </list17>
+    <list18> 국표룰과 로컬룰 </list18>
+    <list19> 8점마작과 무점마작	 </list19>
+    <list20> 절(节)과 보(步) </list20>
+    <list21> 승리시 계산 방법</list21>
+    <list22> 조합룡(组合龙)과 파생전략</list22>
+    <list23> 독특한 마작 룰과 전략 </list23>
+    <list24> 게임턴의 안내	 </list24>
+    <list25> 게임버튼의 안내	 </list25>
+    <list26> 혼패(조커패)룰의 적용	 </list26>
+    <list27> 추천전략이란?	 </list27>
+    <list28> 하단의 숫자표시 </list28>
+    <list29> 미션과 아이템에 대해서	 </list29>
+    <list30> 족보를 보는 다양한 방법 </list30>
+    <list31> No </list31>
+    <list32> If you read this turorial and play some practice games.</list32>
+    <list33> You must understand the original mahjong's essence. </list33>
+    <list34> Mahjong is very fun and easy game though it is unfamiliar. </list34>
+    <list35> It is aged game like Go.</list35>
+    <list36> let's learn how to play original Mahjong. </list36>
+    <list37> Mahjong use a unique tile in style. Let's look 27 Number Tiles at first.  </list37>
+    <list38> Chinese Mahjong Tiles means man. and The Number on the tile means ages( like thirty, fouties ) so Expression to get tile is like to get person. </list38>
+    <list39> [WAN tile] </list39>
+    <list40> [TIAO tile] </list40>
+    <list41> [TONG tile] </list41>
+    <list42> let's look 7 Word tiles( or called as Honor Tiles ). </list42>
+    <list43> Mahjong use total 144 tiles. ( 136 game tiles and 8 bonus flower tiles )</list43>
+    <list44> 8 flower tiles don't use in game process. It just use for bonus score. </list44>
+    <list45> [Wind tile]</list45>
+    <list46> [Dragon tile)] </list46>
+    <list47> [Flower tile]  </list47>
+    <list48> Wind tiles is consisted East, South, West, North.  Dragon tiles is consisted White, Green and Red Dragon. </list48>
+    <list49> Game sequence is in progress to a counterclockwise direction from East Wind. </list49>
+    <list50> There is a close relationship and direction indication in Mahjong.</list50>
+    <list51> It is expressed The First Player seat at EastGate.  So East Player start first and play South, West, North in order.	 </list51>
+    <list52> When also expressed as above it will be the basis of their own	 </list52>
+    <list53> Left door</list53>
+    <list54> Across door </list54>
+    <list55> Right door </list55>
+    <list56> Home </list56>
+    <list57> The above expression as first player is my left, My Wind is South.</list57>
+    <list58> Mahjong game is consisted by chapter and stage like this. </list58>
+    <list59> East Chapter East Stage </list59>
+    <list60> East Chapter South Stage</list60>
+    <list61> East Chapter West Stage</list61>
+    <list62> East Chapter North Stage</list62>
+    <list63> South Chapter East Stage</list63>
+    <list64> South Chapter South Stage</list64>
+    <list65> South Chapter West Stage</list65>
+    <list66> South Chapter North Stage</list66>
+    <list67> West Chapter East Stage</list67>
+    <list68> West Chapter South Stage</list68>
+    <list69> West Chapter West Stage</list69>
+    <list70> West Chapter North Stage</list70>
+    <list71> North Chapter East Stage</list71>
+    <list72> North Chapter South Stage</list72>
+    <list73> North Chapter West Stage</list73>
+    <list74> North Chapter North Stage</list74>
+    <list75> Chapter Wind is Significant in game but Stage is Meaningless. </list75>
+    <list76> In Mahjong. Wind use to Chapter name or Player's direction. </list76>
+    <list77> Mahjong is making game a [ finishing shape ] with tiles.  </list77>
+    <list78> First Player have 14 tiles and another have 13 tiles in start. </list78>
+    <list79> Player have 14 tiles win a game by calling [Win(Hoo)] if the tiles is made [ finishing shape ]. </list79>
+    <list80> If the player don't make [ finishing shape ] with 14 tiles. he must throw a tile to bottom to show other players. ( Throwing ) </list80>
+    <list81> At this time. if others can take this tile if he can make [ receive condition ] with this tile.  ( Receiving ) </list81>
+    <list82> Getting Player have 14 tiles again. if the player don't make [ finishing shape ], he must throw a tile again. </list82>
+    <list83> if Any Player can't to take the tile. the tile set to bottom </list83>
+    <list84> Mahjong have a process when a player win to get [ finishing shape ] with tiles. </list84>
+    <list85> Next Contents >> You can do ( Melding ) by receiving other's tile. </list85>
+    <list86> (Throw) </list86>
+    <list87> (Receive) </list87>
+    <list88> (Next Player get a tile from Wall) </list88>
+    <list89> if anyone can be [ receive condition ] </list89>
+    <list90> Next Player after throw player get a tile from Wall. ( Getting ) </list90>
+    <list91> Tiles have been build on table by 2 columns 19 lines at start. It is called [ Wall Tile ] ( simply Wall ) </list91>
+    <list92> At First, all player get 13 tiles and next East Player get a more tile.  Getting Action from the Wall is called ( Getting ) </list92>
+    <list93> (Nobody can receive) </list93>
+    <list94> (Receiving) can not always but just can at next situation. </list94>
+    <list95> 3 strait Number tiles combination is called Strait(順) </list95>
+    <list96> when you make Strait with tile that previous player throw, you can receive the tile with calling CHOW ( chinese pronunciation ). </list96>
+    <list97> ( let's look example ) </list97>
+    <list98>  </list98>
+    <list99> 3 Same Tile ( Number or Word ) combination is called Triple(刻). </list99>
+    <list100>	 when you make Triple with tile that previous player throw, you can receive the tile with calling PUNG( or PEONG )( chinese pronunciation ). </list100>
+    <list101>	 (Receiving) situation 2</list101>
+    <list102>	 (Receiving) situation 3</list102>
+    <list103>	 if you get 4 same tiles, you can (melding)</list103>
+    <list104>	 when you have 3 same tile, if any player throw the tile, you can receive the tile with calling KONG and build it on 3 tiles. ( chinese pronunciation ). ( Receving and melding )</list104>
+    <list105>	 though KONG use 4 tile, it is handled like Gak because it just have 3 array.</list105>
+    <list106>	 CHOW can be made by just previous player's tile, PUNG and KONG can be made any player's tile.</list106>
+    <list107>	 When Several player at the same time can do calling, KONG and PUNG can have priority than CHOW.</list107>
+    <list108>	 When Several player at the same time can do calling same CHOW, KONG and PUNG. Next turn player in order can have priority than other player. </list108>
+    <list109>	 if you have 4 same tiles in your hand. you can call KONG anytime at your turn. At this time because a tile decrease, you must get a tile from Wall. </list109>
+    <list110>	 if you call CHOW, PUNG or KONG by receiving other's, you must set the tiles at you front. because other player knows it.</list110>
+    <list111>	 Opened tile can't use again.</list111>
+    <list112>	 The status of tiles is called Opened.</list112>
+    <list113>	 Contrary, if you get a tile from the Wall and make triple, strait, pair in your hand. the status of tiles is hidden from other.</list113>
+    <list114>	 like this, The status of tiles is called Hidden( or Concealed ).</list114>
+    <list115>	 It's called Opened KONG if you make a KONG by receiving.</list115>
+    <list116>	 It's called Hidden KONG if you make a KONG by getting. You must set Upside down.</list116>
+    <list117>  	 CHOW, PUNG is made 3 tiles bundle. KONG is made 4 tiles but handled like 3 tiles bundle. </list117>
+    <list118>	 This 3 tile like strait or triple is called Combination.</list118>
+    <list119>	 [ finishing shape ] in Mahjong is made 4 Combinations and 1 pair with 14 tiles.</list119>
+    <list120>  	 [ finishing shape ] is made by a full combination of strait, triple, pair with all tiles. ( we will introduse [ special shape ] later. ) </list120>
+    <list121>  	 but you can't win though you made [ finishing shape ]. Additionally, your must complete [ Scores conditions ] .</list121>
+    <list122>	 [ special shape ] is all over basic score, so you can win by getting [ special shape ].</list122>
+    <list123>	 if you can't make [ finishing shape ] after calling. you must throw a tile. </list123>
+    <list124>	 Open Status tile</list124>
+    <list125>	 Hidden Status tile</list125>
+    <list126>	 Throwed tile</list126>
+    <list127>	 Received tile</list127>
+    <list128>	 Open KONG</list128>
+    <list129>	 Hidden( Concealed ) KONG</list129>
+    <list130>	 Other Player know or don't know is expressed Open(melded) and Hidden(Concealed). </list130>
+    <list131>	 You can win by calling WIN if you make[ finishing shape ]. </list131>
+    <list132>	 It mean that you must have 8 more scores with [ finishing shape ]. </list132>
+    <list133>	 you can win just with [ finishing shape ]. Because of Chinese Mahjong give to you called [8 score title: zero score finish] if you have zero score when you have [ finishing shape ]. </list133>
+    <list134>	 if you can win by receiving other's tile, you can have a most priority than CHOW, PUNG, KONG.</list134>
+    <list135>	 1. 7 pairs type</list135>
+    <list136>	 2. 13 essence tile</list136>
+    <list137>	 3. lonly tile type</list137>
+    <list138>	 14 tiles can make 7 pairs.</list138>
+    <list139>	 13 tiles ( All Number Tile 1, 9 and All Word tile ) and any tile's pair. </list139>
+    <list140>	 Combination of  each Word tile and each other number tile 147, 258, 369 </list140>
+    <list141>	 this is special [ finishing shape ] type. </list141>
+    <list142>	 First Open tile PUNG, Joker multiply... </list142>
+    <list143>	 </list143>
+    <list144>	 look again just game tiles. </list144>
+    <list145>	 Number Tile reads as 1 Wan, 3 Tiao, 6 Tong . </list145>
+    <list146>	 [you can call CHOW by just previous player's]</list146>
+    <list147>	 [ Priorities : PUNG = KONG > CHOW ]</list147>
+    <list148>	 [ if East throw, South have priority. if West throw, North have priority.] </list148>
+    <list149>	 [8 Score Rule]</list149>
+    <list150>	 [No Score Rule]</list150>
+    <list151>	 You have learned about Majhong basically. </list151>
+    <list152>	 do you remember [tile type] [Wind] [CHOW,PUNG,KONG] [Open, Hidden] [Getting, Getting Tail] [4Combination 1Pair]? </list152>
+    <list153>	 Let's play a Practice Game.</list153>
+    <list154>	 The game rules are a few not explained yet. If you're wondering, click [score introduce button] on the top at practice game screen. All is in it. </list154>
+    <list155>	 ## [Getting] and  [Getting from tail] ## </list155>
+    <list156>	 We explained that (Getting) is to get from Wall. </list156>
+    <list157>	 The Getting Action from Wall is two types. It is strictly separated in Mahjong. </list157>
+    <list158>	 First : Getting is action to get Front side of Wall at MY TURN.</list158>
+    <list159>	 Second : Getting from tail is action to get Rear side of Wall after Hidden KONG.</list159>
+    <list160>	 It is divided according to get where at offline game.</list160>
+
+    <list200>  자신의 턴이 되면 자신의 바람에 해당하는 동청룡, 남주작, 서백호, 북현무의 이미지가 밝아집니다. </list200>
+    <list201>	 게임의 버튼은 각각 상황에 맞게 활성화 되어 오른쪽에서 나타났다가 사라집니다.</list201>
+    <list202>	 강 또는 치의 경우에는 여러가지 선택 중에 골라야 하는 상황이 발생할 수 있습니다 .이때에는 해당 버튼을 누르는 것이 아니고 해당 버튼 위에 나타나는 패의 조합형태를 버튼처럼 누르면 됩니다.</list202>
+    <list203>  게임이 시작되면 벽패중에서 첫번째 패를 한개 뒤집습니다. 이 패를 표지패라 하고 이 표지패의 다음 차례의 패가 혼패(조커패)가 됩니다.</list203>
+    <list204>	 혼패는 항상 나의 패의 오른쪽 끝으로 정렬이 되며 버리거나 치, 펑,깡을 받을 수는 없습니다. 다만 혼패가 4개가 되는 경우 혼패로 깡을 만들 수는 있습니다.</list204>
+    <list205>	 혼패를 잘 사용하면 게임에 유리하지만 반대로 혼패를 여러 개 가지고 있을때 상대방이 이기면 혼패를 가지고 있는 만큼의 배수로 머니를 지급해야만 합니다.(혼패박)</list205>
+    <list206>	 화면의 하단에는 현재 가지고 있는 패에서 최대 4개의 패만 교환하면 화료가 가능할 시점에 한하여 추천 전략이 표시됩니다.</list206>
+    <list207>	 추천전략으로 얻을수 있는 점수와 가장 높은 족보가 오른쪽에 표시됩니다.</list207>
+    <list208>  하얀색 삼각형의 아래에 있는 패가 해당 족보를 나기 위해서 얻어야만 하는 패이며 오른쪽 하단에는 버릴 패를 추천합니다. </list208>
+    <list209>	 마작패의 하단에 있는 숫자 표시는 바닥에 버려진 패와 상대방이 앞에 내려놓은 패에 자신이 가지고 있는 패를 합하여 자신을 기준으로 개수를 확인할 수 있는 패의 숫자를 표현합니다.</list209>
+    <list210>	 이 숫자를 이용하여 어떤 패를 우선적으로 버릴것인가를 추리할 수 있습니다.</list210>
+    <list211>	 예컨데 어떤 글자패의 숫자가 4이면서 자신의 손안에 1개밖에 없을때 글자패와 관련된 족보를 노리는것이 아니라면 이 글자패는 아무런 가치가 없는 패이므로 우선적으로 버리는 것이 좋습니다.</list211>
+    <list212>  결과 화면에서 나오는 족보의 이름은 버튼으로 되어있어 해당 족보의 내용이 궁금할 때 누르면 좀더 자세한 족보의 정보가 나옵니다. </list212>
+    <list213>  게임중 궁금한 족보가 있다면 상단에 리스트 버튼을 눌러서 최고마작의 모든 족보를 점수별로 또는 외우기 쉬운 유형별로 자세히 볼수 있습니다. </list213>
+    <list214>	 1. 족보갯수의 차이</list214>
+    <list215>	 일본마작이 30여개의 족보로 되어있다면 중국마작은 90여개의 족보로 이루어져 있습니다. </list215>
+    <list216>	 2. 족보 점수 방식의 차이</list216>
+    <list217>	 일본마작이 부(副)와 판(判)이라는 점수방식을 사용하는 반면에 중국은 족보별로 번(番)이라는 점수방식을 사용합니다. </list217>
+    <list218>	 3. [리치]의 존재여부</list218>
+    <list219>	 일본마작에서는 1개의 패만 더 받으면 날수 있는 상태를 [청패](聽牌:팅파이)상태라고 부르고 이 때 리치(立直)를 외치면 부가점수를 얻을 수 있는데 반해 중국마작에는 리치(立直)가 존재하지 않습니다. 이 특징 때문에 일본마작을 국제적으로는 (리치마작)이라고 부릅니다.</list219>
+    <list220>	 4. 금액 계산 방식의 차이 </list220>
+    <list221>	 일본마작에서는 선(先)이 승리를 했는가 아닌가에 따라서 지급하는 금액이 달라집니다. 중국마작에서는 버린 패로 화료를 했는가? 자모를 해서 화료 했는가에 따라서 지급받는 금액이 달라집니다.</list221>
+    <list222>	 5. 도라패와 부가판의 여부</list222>
+    <list223>	 중국마작에는 도라패와 부가판 등이 존재하지 않습니다. ( 보다 자세한 내용은 리치마작을 참조하세요 ) </list223>
+    <list224>	 수십 가지 형태의 마작을 통일시키기 위해 중국 정부에서 공식적으로 규칙을 통합하여 만든 마작룰입니다.</list224>
+    <list225>  이렇게 표준화시킨 국표마작 외에도 다른 마작들에서 공통적으로 사용되고 있는 재미있고 의미있는 규칙들( 이른바 로컬룰 )이 다수 존재합니다.  </list225>
+    <list226>	 최고의 마작은 국표룰을 기본으로 하여 다양한 로컬룰을 추가하여 만들어 졌습니다.</list226>
+    <list227>	 8점마작은 [종료모양] + [8점]을 만들기 </list227>
+    <list228>  8점마작은 프로기사들의 대회에서 사용하는 방식으로 중국마작을 가장 재미있게 즐길 수 있는 점수 조건입니다. 또한 이 [점수조건]을 변경하는 것만으로 게임의 난이도를 조절할 수 있습니다. </list228>
+    <list229>  마작의 난이도를 결정짓는 요소는</list229>
+    <list230>	 온라인에서 뿐만 아니라 오프라인에서도 마작을 처음 접하는 사람들을 위하여 [무점마작]부터 시작하게 됩니다. 무점마작을 통해 4조1짝의 기본형태를 만드는 연습을 충분히 하신 후에 높은 점수의 족보에 도전해 보는 것이 마작의 재미를 느끼는 지름길이 될것입니다.</list230>
+    <list231>	 무점마작은 [종료모양]만 만들기 </list231>
+    <list232>	 [종료모양]을 만들면서 [점수조건]을 채우는 것입니다. </list232>
+    <list233>  중국마작은 숫자패를 이용한 족보가 일본 마작에 비하여 매우 다양합니다. </list233>
+    <list234>	 상당수의 족보에 절(节), 보(步)가 들어있는 것이 많은데 그 의미를 알면 중국마작의 다양한 족보를 이해하는데 도움이 될 수 있습니다.</list234>
+    <list235>	 절(节)은 숫자로 된 펑이 하나씩 증가하는 것을 의미합니다.</list235>
+    <list236>	 삼절(三节) </list236>
+    <list237>	 보(步)는 숫자로 된 치가 일정하게 증가하는 것을 의미합니다. </list237>
+    <list238>	 치의 값이 하나씩 또는 두개씩 증가할 수 있습니다.</list238>
+    <list239>	 사절(四节)</list239>
+    <list240>	 절(节)과 보(步)는 높이다 라는 의미의 고(高)와 같이 붙여서 절고(节高), 보고(步高)로 사용하기도 합니다.</list240>
+    <list241>	 삼보(三步)</list241>
+    <list242>	 사보(四步)</list242>
+    <list243>	 중국마작은 화료시점에 마지막 패가 가져오기를 통해서 승리를 했느냐 다른 사람이 버린패를 받아서 승리를 했는가에 따라 점수 계산이 달라집니다</list243>
+    <list244>	 벽패에서 가져오는 행위를 자모(自摸:쯔모)라고 하고 자모한 패를 가지고 암강(杠)을 만들고 추가로 받은 패를 보패라고 합니다. 자모로 승리하였느냐 보패로 승리하였느냐 아니면 다른 사람이 받은 패로 승리하였는가에 따라 점수계산이 달라집니다.</list244>
+    <list245>	 가져오기로 승리한 경우( 자모(自摸)와 보패 모두 해당 ) </list245>
+    <list246>	 다른 사람이 버린 패로 승리한 경우</list246>
+    <list247>	 배판이란 이전 판이 유국(일명 나가리)이 된 경우 2배,3배로 점차 증가하여 곱하여 계산하는 것을 말합니다. </list247>
+    <list248>	 ( 기본점수 + 족보점수 + 보너스 점수 ) X 배판 </list248>
+    <list249>	 ( 기본점수 + 보너스 점수 ) X 배판 </list249>
+    <list250>	 일본마작에는 없는 족보중에 가장 독특한 것이 바로 [조합룡]이라는 족보입니다.</list250>
+    <list251>	 [조합룡]은 각기 다른 패로 147, 258, 369를 이루는 것으로 위의 세가지의 경우 외에는 없습니다. 연달아 이어지지 않는 숫자들의 조합이라는 특징을 가지고 있습니다.</list251>
+    <list252>	 조합룡은 손 안의 패가 치를 이루기 어려울때 고려해 볼만한 전략입니다. </list252>
+    <list253>	 1. [강상개화](杠上开花)에 대해서 </list253>
+    <list254>	 암강을 만든 후 받은 보패로 [종료모양]을 이루면 만들어지는 족보입니다. 이것을 이용해 회심의 반격을 하는 전략을 세울 수 있습니다. </list254>
+    <list255>	 2. [창강화](抢杠和)에 대해서 </list255>
+    <list256>	 창강화란 상대방이 펑 위에 강을 하려는 패를 빼앗아서 화료를 하는 것을 말합니다. </list256>
+    <list257>	 3. [리치](立直)에 대해서 </list257>
+    <list258>	 리치란 자신의 턴에서 1개의 패만 더 맞으면 [종료조건]이 되는 경우 패를 버리면서 다른 사람들에게 이를 알리는 행위를 말합니다. (원카드와 유사함) </list258>
+    <list259>	 4. 기본적인 마작의 전략</list259>
+    <list260>	 [국표마장:86개족보] + [로컬룰:14개족보] </list260>
+    <list261>	 이 외에도 진행방법의 세부적인 차이가 있으나 앞서 설명한 마작의 기초사항들을 대부분 유사하게 적용된다고 볼 수 있습니다. </list261>
+    <list262>	 [국표마장](国标麻将) </list262>
+    <list263>	 최고마작[100개의 족보] </list263>
+    <list264>	 1. 리치마작에서 파생된 룰 </list264>
+    <list265>	 2. 혼패(조커패) 사용으로 인해 파생된 룰 </list265>
+    <list266>	 3. 기존 족보로부터 확장된 룰 </list266>
+    <list267>	 4. 게임의 재미를 위해 추가된 보너스 룰 </list267>
+    <list268>	 리치, 천화, 인화, 지화 등 </list268>
+    <list269>	 혼강, 무혼 등 </list269>
+    <list270>	 모든 사람에게  </list270>
+    <list271>	 패를 버린 사람에게  </list271>
+    <list272>	 다른 사람에게 </list272>
+    <list273>	 [조합룡]도 억지로 만들려면 어렵습니다. 조합룡을 이루는 패중에서 몇개가 부족하다면 글자패를 추가하여 전략을 수정하는 것도 좋습니다.  </list273>
+    <list274>	 글자패를 다양하게 가지고 있으면서 조합룡의 패가 부족하다면 부고(不靠)를 기본 전략으로 삼는 것도 좋은 방법입니다. </list274>
+    <list275>	 조합룡의 9개와 글자패 7개를 더해 16개의 패중에서 2개를 제외한 14개를 모으면 부고(不靠)가 완성됩니다. </list275>
+    <list276>	 글자패 7개를 모두 모으면 칠성부고(七星不靠)라고 하고 글자패가 1개라도 부족하면 전부고(全不靠)라고 합니다.</list276>
+    <list277>	 적절한 시점에 암강을 선언하고 추가패를 받습니다. </list277>
+    <list278>	 추가로 받은 패로 [종료모양]만 만들게 되면 [강상개화]라는 8점의 족보가 되므로 8점마작에서는 다른 족보가 없어도 일격의 [승리조건]이 되는 것입니다. </list278>
+    <list279>	 벽패가 많이 남지 않은 상태에서 바닥에 버려진 패의 정보 등을 계산하고 확률을 고려하여 적당한 때에 사용하는 것이 기본전략 입니다. </list279>
+    <list280>	 위 처럼 자신의 턴에 동일한 4개의 패를 들고 있습니다. </list280>
+    <list281>	 손안에 4개의 패가 있을 때에 암강은 선언해도 되고 선언하지 않아도 됩니다. 즉 자신이 원하는 때에 선언할 수 있습니다.</list281>
+    <list282>	 자신이 만든 펑과 동일한 패를 자모한 경우에는 펑위에 자모받은 패를 올려서 명강을 만들 수 있습니다. </list282>
+    <list283>	 자모로 받은 패를 강(杠)위에 올려서 패를 보여주는 경우 버린 패로 화료를 할 수 있는 것과 동일하게 취급합니다. </list283>
+    <list284>	 즉 다른 사람이 자모를 하여 펑을 강으로 만들려는 패로 자신이 [종료조건]을 만들 수 있다면 이 패를 빼앗아서 화료를 선언할 수 있습니다. 이를 [창강화](抢杠和) 라고 합니다.   </list284>
+    <list285>	 창강화도 8점의 족보로서 다른 족보 없이도 8점 화료를 할 수 있는 일격의 한발입니다. </list285>
+    <list286>	 상대방의 패상태  </list286>
+    <list287>	 나의 패상태  </list287>
+    <list288>	 순서 1 : 상대방이 자모받은 패가 펑과 동일합니다.  </list288>
+    <list289>	 순서 2 : 펑을 강으로 업그레이드 합니다. </list289>
+    <list290>	 순서 3 : 이 패로 [종료모양]을 만들 수 있다면 빼앗아서 화료할 수 있습니다.  </list290>
+    <list291>	 자모패 </list291>
+    <list292>	 창강( 강위에 올리는 패를 빼앗음 ) </list292>
+    <list293>	 다른 플레이어들에게 주의를 주는 대신에 4점의 점수를 미리 획득함으로서 [화료조건]을 만드는데에 유리합니다. </list293>
+    <list294>	 [주의]리치는 치펑강을 하나도 하지 않은 상태에서만 가능하고 리치를 하고 나면 다음턴 부터 가져온 패만 버려야 하며 다른 패를 버릴 수는 없습니다. </list294>
+    <list295>	 리치를 하려고 패를 버릴때 이 패를 다른 사람이 치,펑,깡을 받으면 리치는 성립되지 않습니다. 단 다음턴에서 또 시도할 수는 있습니다. </list295>
+    <list296>	 발패나 9통중에 하나를 버리고 1개의 패만 맞으면 나는 상황 </list296>
+    <list297>	 패를 버리면서 리치를 선언할 수 있다 </list297>
+    <list298>	 자모패 </list298>
+    <list299>	 자모패 </list299>
+
+    <list300>	 CHOW </list300>
+    <list301>	 PUNG </list301>
+    <list302>	 PAIR </list302>
+    <list303>	 KONG </list303>
+    <list304>	 WIN(Hwa)</list304>
+    <list305>	 혼삼보, 혼사보, 혼삼절 등 </list305>
+
+    <list310> 미션은 버튼 형태로 출력되어 누르면 자세한 족보의 정보가 출력됩니다 </list310>
+    <list311> 챌린지모드에서는 게임이 시작되면 미션족보가 4개 주어집니다. </list311>
+    <list312> 미션을 완성하면 완성한 미션마다 랜덤한 마작패를 1개씩 아이템으로 지급합니다. 족보이외에도 32점이상의 족보를 완성하면 해당 족보마다 마작패를 지급합니다. </list312>
+    <list313> 이렇게 모인 마작패는 아이템메뉴에서 사용할 수 있습니다.</list313>
+    <list314> 아이템메뉴에서는 아이템으로 모은 마작패를 이용하여 족보를 만들면 족보의 점수를 유저의 레벨에 따라 금액을 지급합니다</list314>
+    <list315> 마작패 아이템은 게임과 미션, 상점을 통해서 획득 할 수 있습니다</list315>
+    <list316> 추천족보에서도 해당 추천족보를 누르면 해당 족보의 내용을 볼 수 있습니다 </list316>
+
+  </eng>
+  
+</fontdataroot>
+
+

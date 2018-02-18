@@ -1,0 +1,620 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fontdataroot>
+	  
+	<chn>
+    <testdeviceid>12345670213</testdeviceid>
+    <title></title>
+    <list4>	使用指南	</list4>
+    <list5>	练习模式	</list5>
+    <list6>	挑战模式	</list6>
+    <list7>	环境设定	</list7>
+    <list8>	游戏设定	</list8>
+    <list9>	游戏开始	</list9>
+    <list10>	练习模式只进行一场游戏。&#10;进入挑战模式可以与更强的对手进行游戏并且可以通过任务和排名尝试各种游戏的趣味性。                                                                     	</list10>
+    <list11>	选庄	</list11>
+    <list12>	选择率	</list12>
+    <list13>	无番麻将	</list13>
+    <list14>	八番麻将	</list14>
+    <list15>	基本规则	</list15>
+    <list16>	使用混牌	</list16>
+    <list17>	自动换庄	</list17>
+    <list18>	流局条件	</list18>
+    <list19>	标牌碰	</list19>
+    <list20>	混牌抗	</list20>
+    <list21>	连续吃碰杠	</list21>
+    <list22>	扔	</list22>
+    <list23>	和	</list23>
+    <list24>	杠	</list24>
+    <list25>	碰	</list25>
+    <list26>	吃	</list26>
+    <list27>	立直	</list27>
+    <list28>	放弃	</list28>
+    <list29>	东	</list29>
+    <list30>	南	</list30>
+    <list31>	西	</list31>
+    <list32>	北	</list32>
+    <list33>	東	</list33>
+    <list34>	南	</list34>
+    <list35>	西	</list35>
+    <list36>	北	</list36>
+    <list37>	卷	</list37>
+    <list38>	局	</list38>
+    <list39>	风	</list39>
+    <list40>	确认	</list40>
+    <list41>	世界麻将	</list41>
+    <list42>	国标麻将	</list42>
+    <list43>	练习模式	</list43>
+    <list44>	总分	</list44>
+    <list45>	还无法明示推荐战略。	</list45>
+    <list46>	右侧表示的牌是完成推荐战略所要扔的牌。	</list46>
+    <list47>	核算金额	</list47>
+    <list48>	所失分数	</list48>
+    <list49>	流局倍局	</list49>
+    <list50>	混牌抗倍局	</list50>
+    <list51>	最终金额	</list51>
+    <list52>	分数	</list52>
+    <list53>	游戏结果	</list53>
+    <list54>	游戏结果（分数计算）	</list54>
+    <list55>	没有金额	</list55>
+    <list56>	基本分数是	</list56>
+    <list57>	分	</list57>
+    <list58>	继续练习	</list58>
+    <list59>	回到主页	</list59>
+    <list60>	结束练习	</list60>
+    <list61>	练习游戏没有积分。简单加入会员后请享受能够体验道具、排名、任务、故事模式的挑战模式。	</list61>
+    <list62>	开发中	</list62>
+    <list63>	第一次加入	</list63>
+    <list64>	已经加入	</list64>
+    <list65>	不清楚。确认加入与否	</list65>
+    <list66>	重复确认	</list66>
+    <list67>	同意	</list67>
+    <list68>	加入后登录	</list68>
+    <list69>	取消后返回	</list69>
+    <list70>	输入用户名	</list70>
+    <list71>	本游戏不收集会员的个人情报，&#10;但是只能一机一用户名，&#10;删除游戏重新设置时必须输入同一用户名。&#10;游戏内商品只能通过该手机平台帐户购买。&#10;只要设定了用户名登录时不会再提问。	</list71>
+    <list72>	正在连接服务器。。。	</list72>
+    <list73>	连接失败	</list73>
+    <list74>	连接成功	</list74>
+    <list75>	由于断线返回主菜单	</list75>
+    <list76>	输入2~12字以内	</list76>
+    <list77>	此用户名已使用	</list77>
+    <list78>	请确认用户名是否重复	</list78>
+    <list79>	可以使用	</list79>
+    <list80>	请输入用户名	</list80>
+    <list81>	请选择同意	</list81>
+    <list82>	忘记用户名可以重新登录	</list82>
+    <list83>	重新登录	</list83>
+    <list84>	参加大会	</list84>
+    <list85>	我的道具	</list85>
+    <list86>	任务	</list86>
+    <list87>	排名	</list87>
+    <list88>	商店	</list88>
+    <list89>	朋友	</list89>
+    <list90>		</list90>
+    <list91>		</list91>
+    <list92>	成功达成	</list92>
+    <list93>	游戏币	</list93>
+    <list94>	道具	</list94>
+    <list95>	随机麻将	</list95>
+    <list96>	支付  张	</list96>
+    <list97>	得到奖赏	</list97>
+    <list98>	名	</list98>
+    <list99>	我的排名	</list99>
+    <list100>	游戏币排名	</list100>
+    <list101>	高手排名	</list101>
+    <list102>	排名	</list102>
+    <list103>	用户名	</list103>
+    <list104>	游戏币	</list104>
+    <list105>	排名积分	</list105>
+    <list106>	继续看	</list106>
+    <list107>	查看番种	</list107>
+    <list108>	组合道具做成番种就会补偿游戏币	</list108>
+    <list109>	组合道具获得新的道具	</list109>
+    <list110>	重新进行	</list110>
+    <list111>	取消	</list111>
+    <list112>	牌数不够	</list112>
+    <list113>	无法和牌，请重新组合	</list113>
+    <list114>	因网络问题无法进行	</list114>
+    <list115>	受到推荐	</list115>
+    <list116>	没有可推荐的牌	</list116>
+    <list117>	组合	</list117>
+    <list118>	合成	</list118>
+    <list119>	我的道具	</list119>
+    <list120>	无法合成，请重新组合	</list120>
+    <list121>	帮助	</list121>
+    <list122>	现在	</list122>
+    <list123>	分	</list123>
+    <list124>		</list124>
+    <list125>		</list125>
+    <list126>		</list126>
+    <list127>		</list127>
+    <list128>		</list128>
+    <list129>		</list129>
+    <list130>		</list130>
+    <list131>		</list131>
+    <list132>		</list132>
+    <list133>	一分为多少	</list133>
+    <list134>	最少入场金额	</list134>
+    <list135>	目标金额	</list135>
+    <list136>	游戏规则	</list136>
+    <list137>	元	</list137>
+    <list138>	以上	</list138>
+    <list139>	分麻将	</list139>
+    <list140>		</list140>
+    <list141>	无法入场	</list141>
+    <list142>	重试	</list142>
+    <list143>		</list143>
+    <list144>		</list144>
+    <list145>		</list145>
+    <list146>		</list146>
+    <list147>		</list147>
+    <list148>	保有道具	</list148>
+    <list149>		</list149>
+    <list150>	个	</list150>
+    <list151>	同意	</list151>
+    <list152>	看条约	</list152>
+    <list153>	加入会员	</list153>
+    <list154>	寻找用户名	</list154>
+    <list155>	用户名不一致	</list155>
+    <list156>	服务器连接中	</list156>
+    <list157>	购买	</list157>
+    <list158>	连接错误	</list158>
+    <list159>	无法连接。&#10;请确认网络状态。	</list159>
+    <list160>	购买价格	</list160>
+    <list161>	支付游戏币	</list161>
+    <list162>	标牌	</list162>
+    <list163>	混牌	</list163>
+    <list164>		</list164>
+    <list165>	游戏结束	</list165>
+    <list166>	下一把是	</list166>
+    <list167>	。继续吗？ 	</list167>
+    <list168>	游戏币不够无法继续进行游戏。	</list168>
+    <list169>	道具礼物	</list169>
+    <list170>	之前金额	</list170>
+    <list171>	现有金额	</list171>
+    <list172>	继续	</list172>
+    <list173>	会员加入失败	</list173>
+    <list174>		</list174>
+    <list175>	胜	</list175>
+    <list176>		</list176>
+    <list177>	现在	</list177>
+    <list178>	客服中心	</list178>
+    <list179>	回到主页	</list179>
+    <list180>	结束游戏	</list180>
+    <list181>	效果音	</list181>
+    <list182>	语音	</list182>
+    <list183>	回到主画面吗？	</list183>
+    <list184>	结束程序吗？	</list184>
+    <list185>	公告	</list185>
+    <list186>	没有排名	</list186>
+    <list187>	获得金额	</list187>
+    <list188>		</list188>
+    <list189>		</list189>
+    <list190>		</list190>
+    <list191>		</list191>
+    <list192>		</list192>
+    <list193>		</list193>
+    <list194>	万	</list194>
+    <list195>	亿	</list195>
+    <list196>	兆	</list196>
+    <list197>	通知	</list197>
+    <list198>	购买失败	</list198>
+    <list199>	无法连接服务器不能进行购买。请确认网络状态后重新进行。	</list199>
+    <list200>	购买失败	</list200>
+    <list201>	道具购买成功	</list201>
+    <list202>		</list202>
+    <list203>		</list203>
+    <list204>		</list204>
+    <list205>		</list205>
+    <list206>		</list206>
+    <list207>		</list207>
+    <list208>		</list208>
+    <list209>		</list209>
+    <list210>		</list210>
+    <list211>	服务器版本不一致，无法连接。为了系统升级要移动到下载页面吗？	</list211>
+    <list212>	和牌所需牌	</list212>
+    <list213>	(剩余牌数)	</list213>
+    <list214>	上一把没有正常结束。	</list214>
+    <list215>	回以上非正常结束时，今日将无法连接。	</list215>
+    <list216>	回	</list216>
+    <list217>	超过了连接限定人数。	</list217>
+    <list218>	今日将无法连接。	</list218>
+    <list219>	请明日重新连接。	</list219>
+    <list220>	现在服务器正在检点中。	</list220>
+    <list221>	请稍后再连接。	</list221>
+    <list222>	是永久提名的用户。	</list222>
+    <list223>	门前游戏	</list223>
+    <list224>	如果收取别人扔的牌	</list224>
+    <list225>	现准备中	</list225>
+    <list226>	自由赛	</list226>
+    <list227>	对抗赛	</list227>
+    <list228>	追加规则	</list228>
+    <list229>	名参加中	</list229>
+    <list230>	番数设定	</list230>
+    <list231>	门前游戏是？无法吃碰杠的游戏。	</list231>
+    <list232>	以上可以入场。	</list232>
+    <list233>	人的连接	</list233>
+    <list234>		</list234>
+    <list235>		</list235>
+    <list236>		</list236>
+    <list237>		</list237>
+    <list238>		</list238>
+    <list239>	等候入场	</list239>
+    <list240>	请稍等…	</list240>
+    <list241>		</list241>
+    <list242>		</list242>
+    <list243>		</list243>
+    <list244>		</list244>
+    <list245>	布局准备中	</list245>
+    <list246>	正在等候入场	</list246>
+    <list247>	开始游戏	</list247>
+    <list248>	入场在延迟	</list248>
+    <list249>		</list249>
+    <list250>	免费充值	</list250>
+    <list251>	免费充值成功	</list251>
+    <list252>	支付游戏币	</list252>
+    <list253>	今天	</list253>
+    <list254>	最多	</list254>
+    <list255>	进来了！	</list255>
+    <list256>	已经退出了！	</list256>
+    <list257>	请稍后！	</list257>
+    <list258>	比赛开始	</list258>
+    <list259>	吃	</list259>
+    <list260>	硑	</list260>
+    <list261>	杠	</list261>
+    <list262>	立直	</list262>
+    <list263>	和	</list263>
+    <list264>	电脑	</list264>
+    <list265>	的	</list265>
+    <list266>		</list266>
+    <list267>		</list267>
+    <list268>	倍	</list268>
+    <list269>	牌是分数	</list269>
+    <list270>	排列分数	</list270>
+    <list271>	分数	</list271>
+    <list272>	道具分数	</list272>
+    <list273>	道具倍局。	</list273>
+    <list274>	不能免费充值！您超过了充值次数! 	</list274>
+    <list275>	请稍后游戏开始	</list275>
+    <list276>	按退出请键后 退出游戏一下！ 	</list276>
+    <list277>	因为您持有的豆不够，所以不能参加游戏！	</list277>
+    <list278>	免费充值, 商店	</list278>
+    <list279>	退出	</list279>
+    <list280>	去商店	</list280>
+    <list281>	退出预约	</list281>
+    <list282>	预约	</list282>
+    <list283>	ON	</list283>
+    <list284>	OFF	</list284>
+    <list285>	才能入场	</list285>
+    <list286>	以上	</list286>
+    <list287>	以下	</list287>
+    <list288>	只有	</list288>
+    <list289>	游戏手续费	</list289>
+    <list290>		</list290>
+    <list291>		</list291>
+    <list292>		</list292>
+    <list293>		</list293>
+    <list294>		</list294>
+    <list295>		</list295>
+    <list296>		</list296>
+    <list297>		</list297>
+    <list298>		</list298>
+    <list299>		</list299>
+    <list300>		</list300>
+    <list301>		</list301>
+    <list302>		</list302>
+    <list303>		</list303>
+    <list304>		</list304>
+    <list305>		</list305>
+    <list306>		</list306>
+    <list307>		</list307>
+    <list308>		</list308>
+    <list309>		</list309>
+    <list310>		</list310>
+    <list311>		</list311>
+    <list312>		</list312>
+    <list313>		</list313>
+    <list314>		</list314>
+    <list315>		</list315>
+    <list316>		</list316>
+    <list317>		</list317>
+    <list318>	结束游戏	</list318>
+    <list319>	这局是	</list319>
+    <list320>	倍局。	</list320>
+    <list321>	成为流局	</list321>
+    <list322>	游戏手续费	</list322>
+    <list323>	付款	</list323>
+    <list324>	获得	</list324>
+    <list325>	损失	</list325>
+    <list326>	恭喜	</list326>
+    <list327>		</list327>
+    <list328>	本周的排行榜	</list328>
+    <list329>	全体排行榜	</list329>
+    <list330>	金额排行	</list330>
+    <list331>	鸿运排行	</list331>
+    <list332>	番数排行	</list332>
+    <list333>	全押排行	</list333>
+    <list334>	按本周在多人游戏中获得的金额决定排行。	</list334>
+    <list335>	在多人游戏中按针对一人得到的最高点数决定排名。	</list335>
+    <list336>	按本周在多人游戏中达到的番数高低决定排名。	</list336>
+    <list337>	在多人游戏中按赢取全部筹码的人数决定排名。	</list337>
+    <list338>	한국어	</list338>
+    <list339>	中國語	</list339>
+    <list340>	にほんご	</list340>
+    <list341>	English	</list341>
+    <list342>	잠시만 기다려주세요.	</list342>
+    <list343>	请耐心等待。	</list343>
+    <list344>	しばらくお待ちください。	</list344>
+    <list345>	Please Wait.	</list345>
+    <list346>	我情报	</list346>
+    <list347>	介绍对阵游戏规则	</list347>
+    <list348>	游戏只以玩家之间的对阵方式进行。&#10;玩家和电脑之间以1/100的金额计算。&#10;玩家之间以指定金额计算。&#10;游戏只以世界麻将（国标麻将+当地规则）进行。	</list348>
+    <list349>	游戏币不足，无法入场。	</list349>
+    <list350>	游戏结束后发生网络故障无法进行下一场游戏回到大厅。	</list350>
+    <list351>	观战中	</list351>
+    <list352>	可以购买麻将金牌	</list352>
+    <list353>	可以交换麻将金牌。	</list353>
+    <list354>	包括附加税以	</list354>
+    <list355>	购买麻将金牌	</list355>
+    <list356>	张。	</list356>
+    <list357>	同意购买吗？	</list357>
+    <list358>	元	</list358>
+    <list359>	麻将金牌	</list359>
+    <list360>	麻将金牌不足。	</list360>
+    <list361>	以	</list361>
+    <list362>	张麻将金牌可以兑换	</list362>
+    <list363>	张麻将牌和游戏币。	</list363>
+    <list364>		</list364>
+    <list365>	用麻将牌完成番种时每一分支付100	</list365>
+    <list366>	同意交换吗？	</list366>
+    <list367>	交换	</list367>
+    <list368>	交换成功	</list368>
+    <list369>	无番对阵	</list369>
+    <list370>	8番对阵	</list370>
+    <list371>	初学者	</list371>
+    <list372>	新手	</list372>
+    <list373>	业余	</list373>
+    <list374>	中手	</list374>
+    <list375>	半职业	</list375>
+    <list376>	高手	</list376>
+    <list377>	职业选手	</list377>
+    <list378>	国家代表	</list378>
+    <list379>	世界级	</list379>
+    <list380>	冠军	</list380>
+    <list381>	由于发生网络问题，结束观战回到大厅。	</list381>
+    <list382>		</list382>
+    <list383>		</list383>
+    <list384>		</list384>
+    <list385>		</list385>
+    <list386>		</list386>
+    <list387>		</list387>
+    <list388>		</list388>
+    <list389>		</list389>
+    <list390>		</list390>
+    <list391>		</list391>
+    <list392>		</list392>
+    <list393>		</list393>
+    <list394>		</list394>
+    <list395>		</list395>
+    <list396>		</list396>
+    <list397>		</list397>
+    <list398>	每个用户的最大得分量被限制为	</list398>
+    <list399>	。	</list399>
+
+
+
+    <list400>	四方大发财	</list400>
+    <list401>	大四喜	</list401>
+    <list402>	大三元	</list402>
+    <list403>	绿一色	</list403>
+    <list404>	九莲宝灯	</list404>
+    <list405>	四杠	</list405>
+    <list406>	连七对	</list406>
+    <list407>	十三幺	</list407>
+    <list408>	混杠	</list408>
+    <list409>	清幺九	</list409>
+    <list410>	小四喜	</list410>
+    <list411>	小三元	</list411>
+    <list412>	字一色	</list412>
+    <list413>	四暗刻	</list413>
+    <list414>	一色双龙会	</list414>
+    <list415>	一色四同顺	</list415>
+    <list416>	一色四节高	</list416>
+    <list417>	一色四步高	</list417>
+    <list418>	三杠	</list418>
+    <list419>	混幺九	</list419>
+    <list420>	七对	</list420>
+    <list421>	七星不靠	</list421>
+    <list422>	全双刻	</list422>
+    <list423>	清一色	</list423>
+    <list424>	一色三同顺	</list424>
+    <list425>	一色三节高	</list425>
+    <list426>	全大	</list426>
+    <list427>	全中	</list427>
+    <list428>	全小	</list428>
+    <list429>	清龙	</list429>
+    <list430>	三色双龙会	</list430>
+    <list431>	一色三步高	</list431>
+    <list432>	全带五	</list432>
+    <list433>	三同刻	</list433>
+    <list434>	三暗刻	</list434>
+    <list435>	全不靠	</list435>
+    <list436>	组合龙	</list436>
+    <list437>	大于五	</list437>
+    <list438>	小于五	</list438>
+    <list439>	三风刻	</list439>
+    <list440>	花龙	</list440>
+    <list441>	推不倒	</list441>
+    <list442>	三色三同顺	</list442>
+    <list443>	三色三节高	</list443>
+    <list444>	双暗杠	</list444>
+    <list445>	碰碰和	</list445>
+    <list446>	混一色	</list446>
+    <list447>	三色三步高	</list447>
+    <list448>	五门齐	</list448>
+    <list449>	双箭刻	</list449>
+    <list450>	混四节	</list450>
+    <list451>	全带幺	</list451>
+    <list452>	双明杠	</list452>
+    <list453>	混四步	</list453>
+    <list454>	混三节	</list454>
+    <list455>	箭刻	</list455>
+    <list456>	平和	</list456>
+    <list457>	四归一	</list457>
+    <list458>	双同刻	</list458>
+    <list459>	双暗刻	</list459>
+    <list460>	暗杠	</list460>
+    <list461>	断幺	</list461>
+    <list462>	混三步	</list462>
+    <list463>	无混	</list463>
+    <list464>	混龙	</list464>
+    <list465>	一般高	</list465>
+    <list466>	喜相逢	</list466>
+    <list467>	连六	</list467>
+    <list468>	老少副	</list468>
+    <list469>	幺九刻	</list469>
+    <list470>	明杠	</list470>
+    <list471>	缺一门	</list471>
+    <list472>	无字	</list472>
+    <list473>	二五八将	</list473>
+    <list474>	么九头	</list474>
+    <list475>	无番和	</list475>
+    <list476>	妙手回春	</list476>
+    <list477>	海底捞月	</list477>
+    <list478>	杠上开花	</list478>
+    <list479>	抢杠和	</list479>
+    <list480>	全求人	</list480>
+    <list481>	不求人	</list481>
+    <list482>	和绝张	</list482>
+    <list483>	圈风刻	</list483>
+    <list484>	门风刻	</list484>
+    <list485>	门前清	</list485>
+    <list486>	边张	</list486>
+    <list487>	坎张	</list487>
+    <list488>	单钓将	</list488>
+    <list489>	自摸和	</list489>
+    <list490>	花牌	</list490>
+    <list491>	季华	</list491>
+    <list492>	春夏秋冬	</list492>
+    <list493>	梅兰竹菊	</list493>
+    <list494>	标牌碰	</list494>
+    <list495>	连续吃碰杠	</list495>
+    <list496>		</list496>
+    <list497>		</list497>
+    <list498>		</list498>
+    <list499>		</list499>
+    <list500>		</list500>
+    <list501>	四方大发财	</list501>
+    <list502>	大四喜(国标)	</list502>
+    <list503>	大三元(国标)	</list503>
+    <list504>	绿一色(国标)	</list504>
+    <list505>	九莲宝灯(国标)	</list505>
+    <list506>	四杠(国标)	</list506>
+    <list507>	连七对(国标)	</list507>
+    <list508>	十三幺(国标)	</list508>
+    <list509>	混杠	</list509>
+    <list510>	清幺九(国标)	</list510>
+    <list511>	小四喜(国标)	</list511>
+    <list512>	小三元(国标)	</list512>
+    <list513>	字一色(国标)	</list513>
+    <list514>	四暗刻(国标)	</list514>
+    <list515>	一色双龙会(国标)	</list515>
+    <list516>	一色四同顺(国标)	</list516>
+    <list517>	一色四节高(国标)	</list517>
+    <list518>	一色四步高(国标)	</list518>
+    <list519>	三杠(国标)	</list519>
+    <list520>	混幺九(国标)	</list520>
+    <list521>	七对(国标)	</list521>
+    <list522>	七星不靠(国标)	</list522>
+    <list523>	全双刻(国标)	</list523>
+    <list524>	清一色(国标)	</list524>
+    <list525>	一色三同顺(国标)	</list525>
+    <list526>	一色三节高(国标)	</list526>
+    <list527>	全大(国标)	</list527>
+    <list528>	全中(国标)	</list528>
+    <list529>	全小(国标)	</list529>
+    <list530>	清龙(国标)	</list530>
+    <list531>	三色双龙会(国标)	</list531>
+    <list532>	一色三步高(国标)	</list532>
+    <list533>	全带五(国标)	</list533>
+    <list534>	三同刻(国标)	</list534>
+    <list535>	三暗刻(国标)	</list535>
+    <list536>	全不靠(国标)	</list536>
+    <list537>	组合龙(国标)	</list537>
+    <list538>	大于五(国标)	</list538>
+    <list539>	小于五(国标)	</list539>
+    <list540>	三风刻(国标)	</list540>
+    <list541>	花龙(国标)	</list541>
+    <list542>	推不倒(国标)	</list542>
+    <list543>	三色三同顺(国标)	</list543>
+    <list544>	三色三节高(国标)	</list544>
+    <list545>	双暗杠(国标)	</list545>
+    <list546>	碰碰和(国标)	</list546>
+    <list547>	混一色(国标)	</list547>
+    <list548>	三色三步高(国标)	</list548>
+    <list549>	五门齐(国标)	</list549>
+    <list550>	双箭刻(国标)	</list550>
+    <list551>	混四节	</list551>
+    <list552>	全带幺(国标)	</list552>
+    <list553>	双明杠(国标)	</list553>
+    <list554>	混四步	</list554>
+    <list555>	混三节	</list555>
+    <list556>	箭刻(国标)	</list556>
+    <list557>	平和(国标)	</list557>
+    <list558>	四归一(国标)	</list558>
+    <list559>	双同刻(国标)	</list559>
+    <list560>	双暗刻(国标)	</list560>
+    <list561>	暗杠(国标)	</list561>
+    <list562>	断幺(国标)	</list562>
+    <list563>	混三步	</list563>
+    <list564>	无混	</list564>
+    <list565>	混龙	</list565>
+    <list566>	一般高(国标)	</list566>
+    <list567>	喜相逢(国标)	</list567>
+    <list568>	连六(国标)	</list568>
+    <list569>	老少副(国标)	</list569>
+    <list570>	幺九刻(国标)	</list570>
+    <list571>	明杠(国标)	</list571>
+    <list572>	缺一门(国标)	</list572>
+    <list573>	无字(国标)	</list573>
+    <list574>	二五八将	</list574>
+    <list575>	么九头	</list575>
+    <list576>	无番和(国标)	</list576>
+    <list577>	妙手回春(国标)	</list577>
+    <list578>	海底捞月(国标)	</list578>
+    <list579>	杠上开花(国标)	</list579>
+    <list580>	抢杠和(国标)	</list580>
+    <list581>	全求人(国标)	</list581>
+    <list582>	不求人(国标)	</list582>
+    <list583>	和绝张(国标)	</list583>
+    <list584>	圈风刻(国标)	</list584>
+    <list585>	门风刻(国标)	</list585>
+    <list586>	门前清(国标)	</list586>
+    <list587>	边张(国标)	</list587>
+    <list588>	坎张(国标)	</list588>
+    <list589>	单钓将(国标)	</list589>
+    <list590>	自摸和(国标)	</list590>
+    <list591>	花牌	</list591>
+    <list592>	季华	</list592>
+    <list593>	春夏秋冬	</list593>
+    <list594>	梅兰竹菊	</list594>
+    <list595>	标牌碰	</list595>
+    <list596>	连续吃碰杠	</list596>
+    <list597>		</list597>
+    <list598>		</list598>
+    <list599>		</list599>
+    <list600>		</list600>
+    <list601>		</list601>
+
+
+
+
+
+
+
+  </chn>
+
+
+</fontdataroot>
+
+

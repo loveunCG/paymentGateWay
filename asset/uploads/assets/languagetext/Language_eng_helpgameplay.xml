@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fontdataroot>
+	<eng>
+    <list4>	This game is added some Japan rule and bonus mission for fun on the original chinese mahjong. </list4>
+    <list5>	Because of Word tile don't make CHOW. it is recommanded to throw in appropriate timing.</list5>
+    <list6>	if Number tiles are not continued, It's good choice to collect tiles to make Knitted Straight title. </list6>
+    <list7>	if you have each other Word tile over 6, It's good strategy to make title [Thirteen orphans], [Lesser Honors and Knitted Tiles], [Greater Honors and Knitted Tiles].</list7>
+    <list8>	if you use Joker tile very well. you can make high score.</list8>
+    <list9>	CHOW can wait for number tile both front and back, But Pair can wait only same tile. so if you wait for CHOW after matching Pair, you will have more chance to win.</list9>
+    <list10>	You must guess what tile other player wait for from his throwing tile. </list10>
+    <list11>	Joker tile don't be throwed and don't use for calling CHOW, PUNG, KONG.</list11>
+    <list12>	Winning By Getting is Best. if your situation is in bad, Waiting is good strategy until other player's screwed up.	</list12>
+    <list13>	The Number of tile is Opened tile count on the bottom or other player's front.</list13>
+    <list14>	If the number of Word Tile is 4, you must throw it because it is useless</list14>
+
+    <list50>	Simply It is select First Player by using two dice.</list50>
+    <list51>	East Player is first Player always.</list51>
+    <list52>  	All Player take 13 tiles. </list52>
+    <list53>	East Player take a more tile.</list53>
+    <list54>  	East Player start with 14 tiles.  A Tile is opened on the bottom. it is first Open Tile. and it's next priority tile can be Joker Tile.  </list54>
+    <list55>	If player have flower tiles, change from Wall.</list55>
+    <list56>	If you want to win, you must make two conditions [ Finishing Shape ] and [ Scores Conditions ] </list56>
+    <list57>	in 8 Score Rule, though you make [finishing shape], if you don't make 8 score, you can't win.</list57>
+    <list58>	Until any Player win, game in in progress with Actions ( Throwing, Getting and Receiving, building ) </list58>
+    <list59>	CHOW(上) is called by receiving tile that previous player's throw. if you collect 3 continued number tile with the tile.	</list59>
+    <list60>	PUNG(硑) is called by receiving tile that any other player's throw. if you collect 3 same tile with the tile.	</list60>
+    <list61>	KONG(杠)은 is called by receiving tile that any other player's throw. if you collect 4 same tile with the tile.	</list61>
+    <list62>	though you can call CHOW, PUNG, KONG, WIN, RICH, You can pass always. </list62>
+    <list63>	in No Score Rule, Calling is better. but in 8 Score Rule Getting is better. </list63>
+    <list64>	If several player can do same calling, next player after throwing player have priority. if the player pass, the next player get the right. </list64>
+    <list65>	If several player can do different calling, Win has priority than KONG and PUNG. KONG, PUNG has priority than CHOW.</list65>
+    <list66>	If All tiles in hand is hidden, the situation is called Front Gate(門前).</list66>
+    <list67>	The situation Only one tile change to win is called ReadyWin(聽牌)  the player can do calling Rich at the same time throwing a tile.  </list67>
+    <list68>	Calling Win has most priority. </list68>
+    <list69>	Until Wall tile is empty and last player throw, if it is no winner. the game will be draw.  </list69>
+    <list70>	if Three Players win at the same time by receiving one player's. the game will be draw.</list70>
+    <list71>	if All Player Call [Rich]. the game will be draw.	</list71>
+    <list72>	if All Player throw same Wind tile at first turn. the game will be draw.	</list72>
+    <list73>	after a draw game. next game score is multiplied by 2, 3, 4 continuously. </list73>
+    <list74>      	[Rich] mean that player declare he must win by getting or receiving with no change other tiles. instaed he get 4 score if he win. after [Rich], player can't change other tile. </list74>
+    <list75>	If other player does calling when a player call [Rich], the [Rich] calling is canceled. </list75>
+    <list76>	If a player win by receiving other plyer throw tile, the throwing player is screwed up.</list76>
+    <list77>	If you click title on result window. you can look a detail infomation of the title. </list77>
+    <list78>	On below Screen, it is recommanded best strategy with current siatuation. </list78>
+
+  </eng>
+
+  
+</fontdataroot>
+
+

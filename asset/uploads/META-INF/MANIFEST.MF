@@ -1,0 +1,4430 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/newmenu/ranking/myrank_ilst.png
+SHA1-Digest: cF2diS1efYqi3Z9p2FDeTnAdldU=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: l4wPPYunAqUs5TQYb14SXXQJQ+I=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_man2.png
+SHA1-Digest: mrpDwrnKBEswv0vtDsJ3Chvmq+s=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: 6rSm6kORk3gR7sN+Kxa8/fR2reU=
+
+Name: assets/sound/female_voice_2_greeting_2.mp3
+SHA1-Digest: jgeL2Siutyma/q951U0jq9sTtBI=
+
+Name: assets/sound/paesound/rich_voice_tumo.mp3
+SHA1-Digest: n1824lHBOeV6uw5Cwax4kcBTu4A=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: fPujluvRBLTqpyOEguVI/JPWQc4=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/starttile_vdown.p
+ ng
+SHA1-Digest: ktCJjngQPlQ2xRKvWaAnvVCOKJc=
+
+Name: assets/newmenu/shop/popup_error_select_1.png
+SHA1-Digest: 87p6V2pH9yrFnqT0bsC0z/2NqhY=
+
+Name: assets/common/message/msg_yukuk.png
+SHA1-Digest: t7dWwPzRnu2dtSzCqPWJRsz18U4=
+
+Name: assets/Language_jpn.xml
+SHA1-Digest: YdD8yUEmHnZlOB4buJyU5PIVpI8=
+
+Name: assets/sound/female_voice_3_hi_2.mp3
+SHA1-Digest: Zzg4tk+LIB7txPvhwsLdbNpNMQo=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_seo.png
+SHA1-Digest: Vesz8QeFJeehAnSjK00fBSQtsHU=
+
+Name: assets/newlobby/rich_majakroon_list_1_1.png
+SHA1-Digest: PaQjBcdLucr2Gg5Rb8fCxcG2A20=
+
+Name: assets/newlobby/menu_ad1_btn_n.png
+SHA1-Digest: R2izrWeoymfgeKeoG5g/6y6BuDQ=
+
+Name: assets/newpopup/authentication_certification_btn_1.png
+SHA1-Digest: 45l0W7HvwzCJKW3a3gnTevDAoac=
+
+Name: res/drawable/common_signin_btn_icon_light.xml
+SHA1-Digest: ApBP/WZMMnTkF6HkprX4g0GWScE=
+
+Name: assets/newlobby/china_character_1.png
+SHA1-Digest: jJ9ZyIYWH+kKNob9k1y1Ln1Ks+E=
+
+Name: assets/newmenu/myitem/pae_tab_2_2.png
+SHA1-Digest: y1wJrkCZzfpAlEA/pis2ctGWU/8=
+
+Name: assets/newmenu/shop/shopitem_numfont_gold/shop_icon_gold_5.png
+SHA1-Digest: y4PHQW0viRoPPPDuIKMMZZJpe7Q=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: q6jQidgK9UdUYU5UYJX6hPbbXOM=
+
+Name: assets/newtutorial/tutorial_common_list_btn_1_2.png
+SHA1-Digest: tnAzKX6lVvVO0fgIj2zjzfbYT2c=
+
+Name: assets/newpopup/majakroom_bt_2_1.png
+SHA1-Digest: xq+eZcj9s2G9FHJlsoR/rzA1p+I=
+
+Name: assets/newpopup/mypae_go_bt_1.png
+SHA1-Digest: 3GxFiYA2F7GcpFqO8MaBrgIPPfg=
+
+Name: assets/newgame/turnbutton/discard/majak_new_discard_btn_n.png
+SHA1-Digest: /6GbEffHbhY/EWzV1gR5bC+Zt4Q=
+
+Name: assets/newpopup/gameend_btn_2.png
+SHA1-Digest: Ylquhx+RkW+eKtwp3jbe5XZBOjI=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_sak4.png
+SHA1-Digest: 0zlNubpUtYPisuWHMXkTMaUekts=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_sak5.png
+SHA1-Digest: ix+7N2AC2ixiTzbL6EQgSsCWjUg=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_buk.png
+SHA1-Digest: JILOCktC4txlVAdCznJHeY1QuYU=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_back.png
+SHA1-Digest: WipD2rtugOb5DtNgGvQHJXPTPPU=
+
+Name: assets/newlobby/menu_playad2_btn_p.png
+SHA1-Digest: lldvPUR9wrNwApMYUfxvHmHpWuk=
+
+Name: assets/newpractice/china_rule_btn_3_2.png
+SHA1-Digest: CkTvKnKRY1rWdmTyw/iZTatlj6s=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: UnGnluRjvPtWCPTuaQl6cAdhCys=
+
+Name: assets/dicescene/dice/ani/diceani_04.png
+SHA1-Digest: shmraakM1RX8SKtNGw8L5bbFy/4=
+
+Name: assets/fonts/Marker Felt.ttf
+SHA1-Digest: Ul8qSkVFD87LPYpf1H07D0hPYps=
+
+Name: assets/newpractice/rich_rule_btn_3_3.png
+SHA1-Digest: uhfFRk9qZoQ6MRnlojbB4Jm3p8I=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_tong3.png
+SHA1-Digest: eAF0z/VKgt32xsVHcjKjYs9ABKc=
+
+Name: assets/sound/male_voice_2_greeting_2.mp3
+SHA1-Digest: XwN2u88M+CnWcjpuLfUyhGfa4cc=
+
+Name: assets/languagetext/Language_chn_helpgameplay.xml
+SHA1-Digest: f+0+j6q+i3xWGHiBEQy/HV34afg=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_vdown.png
+SHA1-Digest: uCJAZ2DasAEChCSUYTt2Qffjn/M=
+
+Name: assets/common/next_btn_n.png
+SHA1-Digest: HDbR625XdB1qVeTBpDj9Cl1W0so=
+
+Name: assets/newpopup/join_idcheck_btn_2.png
+SHA1-Digest: hI8aiNw04Sy62SgLITIqlg+I0Iw=
+
+Name: assets/sound/paesound/voice_pung_dong.mp3
+SHA1-Digest: QG65Lb/6rcVmHNm5GxnNqFynteI=
+
+Name: assets/newpopup/popuo_btn1_1.png
+SHA1-Digest: vunVEg1w/nIuTz8L1RiU+Y4FLWs=
+
+Name: assets/select/select_rich_majak_btn_1.png
+SHA1-Digest: MkNdGMjD4sDF2Ok3tY4wDo44yhA=
+
+Name: assets/sound/35.mp3
+SHA1-Digest: Zoaqdi8QZlI/peqV/2m2RNNx2yo=
+
+Name: assets/sound/missionitem.wav
+SHA1-Digest: qlG9lhb1aYkNM8pOWp9xj7730I0=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_jung.png
+SHA1-Digest: yr4dvJK8QN5tuErnnR1SNWOh2co=
+
+Name: assets/newpopup/popup_1.png
+SHA1-Digest: E6CiVYkKUGu6lqFBXkhNFHtya3U=
+
+Name: assets/sound/paesound/rich_voice_ron.mp3
+SHA1-Digest: wQF0WrpYdhpaKnUaXgbO0CVxlrQ=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_back2.png
+SHA1-Digest: xfu25zgzZN5a84ywNdfkItYWBhw=
+
+Name: assets/sound/19.mp3
+SHA1-Digest: ZyrQfghGudbHSvgtMySUlyPoT30=
+
+Name: assets/newgame/drawmsg/game_drawmsg_2.png
+SHA1-Digest: bjQL+1id6hUoJdQZ8xnb6JvOEgk=
+
+Name: assets/newgame/flower/userui_flower_button_07_2.png
+SHA1-Digest: 3ih0pm1IVKh5q6g92Nc9Vzl4h9I=
+
+Name: assets/newgame/fontwind/gamewind_east.png
+SHA1-Digest: ZCEAyQ9orpyLHxOspU+pz6ePF0c=
+
+Name: assets/newgame/pae/tile_font/bigtile_font_classic.png
+SHA1-Digest: raajLSg8Ce5hUVBQwfV5f+fwzxs=
+
+Name: assets/newgame/gamebutton/game_chuck2_off_btn_n.png
+SHA1-Digest: VUXjgNLmH0b5Fse8dsgePnuDIk0=
+
+Name: assets/newlobby/japan_character_3.png
+SHA1-Digest: IyQJutWw/u/+2Gqk0UwMdRGhEY8=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_right.png
+SHA1-Digest: nejsMwu9KY/4gRnCMpTh7ZY5STQ=
+
+Name: assets/sound/tutorial_end.mp3
+SHA1-Digest: 9jSohOISHtBJVP08lJQFeqcFNU4=
+
+Name: assets/newgame/timer/multi_paetimer6.png
+SHA1-Digest: zusc+QLL0RoL3ESaz4dTginSxp0=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: TwWXY0poQcBhLXrZXIM9dyV+eP4=
+
+Name: assets/newgame/center_wind/center_windmark_japan_2.png
+SHA1-Digest: pL50DiQ/+eTte+maQMLMgu7Aa2Q=
+
+Name: assets/newmenu/shop/shop_arrow_1.png
+SHA1-Digest: XEHxbXGuzEryHZcHhq1gnFnoUsc=
+
+Name: assets/newgame/battery_off.png
+SHA1-Digest: hz4fQiWxKbFAYYiBBC2UmFD/mWY=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: pCIvTjWlEd+72lf6cxDeEv/N0Pg=
+
+Name: assets/newavatar/majak_avata_105.png
+SHA1-Digest: 2ZUJTtn98heD8+uaPUEi0UYQIzY=
+
+Name: assets/titlenickname/level_icon_6.png
+SHA1-Digest: bQNSqsWMbC/wLErw7c8oDVhUis8=
+
+Name: assets/sound/male_voice_4_greeting_3.mp3
+SHA1-Digest: sT7+kWCvOXXGdk/Xyw7VkZvilKM=
+
+Name: assets/sound/male_voice_6_greeting_5.mp3
+SHA1-Digest: LlfI5WvM6JgEZ1icxA261bk5bBY=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_back.png
+SHA1-Digest: IUNvL8O2PZZJnl/HLDCnb1/bRGg=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_flower5.png
+SHA1-Digest: MSIbN6RiNTL/vvX0AsiR97fWNEQ=
+
+Name: assets/newtutorial/tutorial_rich_list_btn_1_1.png
+SHA1-Digest: XYBLXs8fY0eV6WRsbSe9zEZcTLU=
+
+Name: assets/newgame/flower/userui_flower_arrow.png
+SHA1-Digest: fRU0IOPEoXlVHrA1AB+zpUu+dto=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_sak2.png
+SHA1-Digest: i1aHN5eua0+t8jEjO9QLANHhm3c=
+
+Name: assets/newlobby/black_ba.png
+SHA1-Digest: ZfA+kbXR3CGZaU/MqaepwPVrJtI=
+
+Name: assets/newgame/flower/userui_flower_button_02_2.png
+SHA1-Digest: +5OMUbIkFT/Xdf7mIuPA6+0UfzA=
+
+Name: res/layout-v17/unityads_button_audio_toggle.xml
+SHA1-Digest: /LJZWt86qhB2ArXjLwcyw0oYlhc=
+
+Name: assets/newmenu/help/popup_text_box.png
+SHA1-Digest: 3gBLTuHyIqevAxVGAaz2KDRGjDU=
+
+Name: assets/languagetext/oddsview/china/china_Language_eng_oddsviewli
+ st.xml
+SHA1-Digest: xYvtAv7UII9AkNOBvoS2sRl2+Pg=
+
+Name: assets/sound/Nagari.mp3
+SHA1-Digest: 0AJ293DbblQVW+/h7JAKsbto8jY=
+
+Name: assets/newgame/result_font_win.png
+SHA1-Digest: aXC3Bj+Fx2AQ6bFuuH/dmU2cRSk=
+
+Name: assets/newmenu/myitem/pae_shop_go_bt_1.png
+SHA1-Digest: fMWu2zuu6Kr73ZVVJXIE7gfre28=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_tong6.png
+SHA1-Digest: ZWxqf3eWgx+gpukfnjYX2mkgVds=
+
+Name: assets/newpopup/setting_bt_p.png
+SHA1-Digest: ZDD0B/2SO3wKapcTW5bHsW6HRUM=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: GWc6ybKC9nsIf6Z+0RBEJ2TFdQ0=
+
+Name: assets/sound/female_voice_4_greeting_3.mp3
+SHA1-Digest: 4Y9EdysxdODUAa+9tOeqFnunTN0=
+
+Name: assets/sound/female_voice_6_greeting_5.mp3
+SHA1-Digest: I7RS575/92Jq31Pc5jkVkAMxKs4=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_man3.png
+SHA1-Digest: Pxnoybq2pRIwVX8eK4OOPMAtvpE=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_sak4.png
+SHA1-Digest: u7Is6z9Xdo1HTA9vNgNUSyykNTk=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_sak5.png
+SHA1-Digest: AX/OOlRLf3RJAgY8q0BZGwsjsic=
+
+Name: assets/script_tutorial_eng.xml
+SHA1-Digest: yD9zW2TTr14iPBhP2cMg47C0H04=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: 0sCo4kwonCjyXdol2LjGSe4b7T8=
+
+Name: assets/sound/male_voice_4_hi_1.mp3
+SHA1-Digest: +Zhmer74tiFgk0Z1QQQ0PpqF/Cs=
+
+Name: assets/newgame/fontcardnum/cardnumber_6.png
+SHA1-Digest: SJHHPdm8e34nTSZ+ovn2+BqEnuU=
+
+Name: assets/newmenu/shop/shopitem_numfont/shop_icon_7.png
+SHA1-Digest: fKFtEttqtcurLrtxz6NYpxNvS1o=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_man9.png
+SHA1-Digest: U7raO+05BDqLxjdKJ/CyRM2vWFg=
+
+Name: assets/sound/paesound/voice_sak_8.mp3
+SHA1-Digest: 1sOmtC1w0PPhHucLKuf1FhJBn1I=
+
+Name: res/drawable-hdpi-v4/btn_down_detail_n.9.png
+SHA1-Digest: u2+KwosHjt0MkB1ekoxqIZYQjVk=
+
+Name: res/drawable/common_signin_btn_text_dark.xml
+SHA1-Digest: QHg2/5Cjpy7Q6h8bYWzO2jzdlTw=
+
+Name: assets/sound/paesound/voice_tong_6.mp3
+SHA1-Digest: DTOMTbToGUjUeuaalGeZ4lPWLCM=
+
+Name: assets/sound/female_voice_4_greeting_4.mp3
+SHA1-Digest: dfHpLgEeSVVvzBZzTFYYkfoexR4=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_back2.png
+SHA1-Digest: bDoowoc2Lb8P6pQxV9cV8+sIP9s=
+
+Name: assets/newlobby/chinagame_go_btn_n.png
+SHA1-Digest: 2mSf/aCbBoOBFTmm85jHyFE1EQ0=
+
+Name: assets/sound/female_voice_2_greeting_3.mp3
+SHA1-Digest: zk0D9w7nqzn0E4V6opbWI8sluDo=
+
+Name: assets/newgame/flower/userui_flower_button_07_1.png
+SHA1-Digest: o0iUt1srXzRPoyJSmLjY3rQyoZw=
+
+Name: assets/newlobby/menu_jokbo1_btn_p.png
+SHA1-Digest: +yy532WoqJgddVWrxTsAdDQp31o=
+
+Name: assets/newgame/discardfont/majak_game_discard_back.png
+SHA1-Digest: AFIOgWuzi2+OtTYZ+gqMe4ul+mI=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_man1.png
+SHA1-Digest: GEedVAwmiW4UVrYelfcB/iiozCc=
+
+Name: assets/newpopup/authentication_prev_btn_1.png
+SHA1-Digest: tXcOnW2bMo5qr/uUn4rcW4Z98KI=
+
+Name: assets/newgame/fontcardnum/cardnumber_5.png
+SHA1-Digest: sakb+ppcYiP/1zLyOb5on27FW9U=
+
+Name: assets/newgame/drawmsg/game_drawmsg_1.png
+SHA1-Digest: ZfjlKK14V1uLkLhXSGA8mjKvwZI=
+
+Name: assets/newmenu/shop/shop_gold_btn_2.png
+SHA1-Digest: EajlROiOykNcXyDboyxrf8I9htY=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_back.png
+SHA1-Digest: R7VrlWQ7T6nbn1kVU2eoSQJbM9A=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_man5_dora.png
+SHA1-Digest: /7ZzbhdJ6F841ctHn+bN2vNDLh8=
+
+Name: assets/newpractice/china_rule_btn_3_1.png
+SHA1-Digest: eUwauBGkIt/5KTz5WQtBMYdShzc=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_sak1.png
+SHA1-Digest: Kr++16X56jBRTPv9HNQ4fGGoXcg=
+
+Name: assets/newpopup/yakgwan_btn_2.png
+SHA1-Digest: Ujzoi53vQuoo1k/7E9qwIc1rf9c=
+
+Name: assets/languagetext/oddsview/china/china_Language_chn_oddsviewli
+ st.xml
+SHA1-Digest: jSyjz9OAFVu2LXeG27GobPRe1Wg=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_left_madeback.png
+SHA1-Digest: B9B0E4UL4Jzx5OpAOBqFKwEFokU=
+
+Name: assets/sound/paesound/voice_effect_kang.mp3
+SHA1-Digest: /rj2pgKkLyyaOZPWoiNCdbeS5Nk=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_tong2.png
+SHA1-Digest: 7OzA33MdM2kZplme6IskQqhyvSM=
+
+Name: assets/sound/female_voice_3_hi_1.mp3
+SHA1-Digest: l+dpIz0B3RYP/kPlKfWSTHTOP/I=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_right_madeba
+ ck.png
+SHA1-Digest: RyjI17R1PTE12jkYL2tSGI06MG0=
+
+Name: assets/common/normal_box/normal_white_box_left.png
+SHA1-Digest: ibFaMJhR2lf8KO1VMFupDx3hemI=
+
+Name: assets/newpopup/gameend_btn_1.png
+SHA1-Digest: BYpcJKXH1nEjn1poaMCNsoi9Mo0=
+
+Name: assets/sound/female_voice_4_slotwin.mp3
+SHA1-Digest: K4CTJ7kh4GxsYI0q3HCTuOHdN/s=
+
+Name: assets/newgame/gamebutton/game_chuck3_off_btn_n.png
+SHA1-Digest: Cyj4GuOts1Efse36VkYRA8KdBJs=
+
+Name: assets/newmenu/myitem/pae_tab_7_1.png
+SHA1-Digest: 20o6QxgP1kRdnC/huL9XvKABrQ8=
+
+Name: assets/sound/female_voice_6_slotwin.mp3
+SHA1-Digest: bYqIg9sptM86E3IUp/t/n3EC91I=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_sak6.png
+SHA1-Digest: QXwTXMhSPZa1TZfZvv8p9vR+JnQ=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_sak3.png
+SHA1-Digest: GKnjV7MhzKsdm4W+BmLK/NHs4ak=
+
+Name: assets/common/normal_box/normal_white_box_right_bottom.png
+SHA1-Digest: HAUInixC3qFVwNpL91NQ6NC6VFU=
+
+Name: assets/sound/male_voice_4_greeting_4.mp3
+SHA1-Digest: f84blzIOMcZKfU/MDF9bzRyKeAc=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: lmXa6eg6xQpLcOG6sxDs8Ff54Lg=
+
+Name: assets/newlobby/japan_character_2.png
+SHA1-Digest: paBdxaKUbVFM5+S39NUVQCa6z1g=
+
+Name: assets/newgame/gamebutton/game_start_bt_1.png
+SHA1-Digest: I8HVh4KmKj2I9bcxQ0JHSG1v+i0=
+
+Name: assets/newmenu/helpsub/help_07_01.png
+SHA1-Digest: BxcgLixEt8oB4k9Mnnsoq/+82Hg=
+
+Name: assets/newtutorial/tutorial_speed1_bt_2.png
+SHA1-Digest: gItxioj4ra9SW1SHsBj3vpIubTc=
+
+Name: assets/newgame/gamebutton/game_pedigree_btn_p.png
+SHA1-Digest: adAIHM9Ovled+UfibxsVrbNzBUE=
+
+Name: assets/newlobby/menu_shop1_btn_p.png
+SHA1-Digest: JR1ly01XBQqpHWMd4wBiUqtCW8M=
+
+Name: assets/sound/18.mp3
+SHA1-Digest: T5rSr8YmjHjvR1gzF/zPm18iOME=
+
+Name: assets/sound/GameStart.mp3
+SHA1-Digest: n9kEiuFAAucJsAXJr1L6TT7DLXc=
+
+Name: assets/newmenu/shop/popup_error_select_2.png
+SHA1-Digest: hEkeKmq1uae5kEjD2XwY2xZ2sCU=
+
+Name: assets/newpractice/rich_rule_btn_3_2.png
+SHA1-Digest: od2UdzCqNc0XyFrSaTiGQGZS2XA=
+
+Name: assets/dicescene/dice/ani/diceani_05.png
+SHA1-Digest: QLIcwa30h8iyelIxDnVydtElyvw=
+
+Name: assets/sound/male_voice_2_greeting_3.mp3
+SHA1-Digest: SDiEuUya0vVQwD6gGWJNfJ0NxsA=
+
+Name: assets/newlobby/avata_change_bt_1.png
+SHA1-Digest: jBpxk555Vh4wVE1892jEkjjCDcY=
+
+Name: assets/newlobby/menu_shop2_btn_n.png
+SHA1-Digest: D2f5WTGBLP9oYeY5KM9lsTl4lDQ=
+
+Name: assets/newpopup/popuo_btn1_2.png
+SHA1-Digest: nCy4x46DXTjPomrDM2tUOCcxzsA=
+
+Name: assets/titlenickname/level_icon_7.png
+SHA1-Digest: 2kTB/Z2WXwpf6xcitmmj1s57lcQ=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_flower4.png
+SHA1-Digest: U9Pb01V3xbqjkPCFOWSHA6CeT9c=
+
+Name: assets/newlobby/china_tab_1_1.png
+SHA1-Digest: /MA/Ozy6WZbhyKRo8XGU5dl23KA=
+
+Name: assets/newtutorial/tutorial_speed1_bt_1.png
+SHA1-Digest: kRBhoVkRg7CwhUHwj9/itm+Zt4Y=
+
+Name: assets/script_help_dialog.xml
+SHA1-Digest: +RCR4XvVQt25VZMIwswfWwUt2qw=
+
+Name: assets/sound/paesound/voice_tong_7.mp3
+SHA1-Digest: 5M+ROcUKfHGnINc2hplFjTKyOdM=
+
+Name: assets/newavatar/majak_avata_006.png
+SHA1-Digest: sgmwH/3+4Otl2/AEzeAlDnBGx/s=
+
+Name: assets/newgame/china_result_bg_1.png
+SHA1-Digest: +2zNNOqOr0kMCce6TcM17YnXBkI=
+
+Name: res/drawable-mdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: DlvYU2E1FscxNKfQZJltxmHLGSw=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_dong.png
+SHA1-Digest: XJMc95Yyu4zNNc54abW3dxroL7I=
+
+Name: assets/newmenu/shop/pae_list_bg.png
+SHA1-Digest: 1s+gRjEA6JF0FoX8GZRy2voptLk=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_red_sak5.png
+SHA1-Digest: WfNqJ7uxzhVyoIQM1Wex/Z8MRX0=
+
+Name: assets/newpopup/setting_on_btn_1.png
+SHA1-Digest: TDOPvxXn+Lnza7YWKtshESN3i4Y=
+
+Name: assets/newgame/gamebutton/game_setting_btn_p.png
+SHA1-Digest: lR8Oprfc33IB4wv7w80CDgHF5PI=
+
+Name: res/drawable-hdpi-v4/coin_left.9.png
+SHA1-Digest: udMqOk+B9WTUvgUk8C5+csStn+E=
+
+Name: assets/newmenu/myitem/pae_tab_7_2.png
+SHA1-Digest: rSToJADSE+Bdcujz41AUT1JgRD0=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_tong5.png
+SHA1-Digest: av1+ej1M+DL7VMpg9q0UvnihgFU=
+
+Name: assets/newpopup/setting_callcenter_btn_1.png
+SHA1-Digest: JhMf+Fd8v6SUuZlPABxkhIm+orI=
+
+Name: assets/sound/paesound/rich_voice_kang.mp3
+SHA1-Digest: 8O4tpzXIHu6km/9pN+BFbTBvisw=
+
+Name: assets/sound/34.mp3
+SHA1-Digest: u1OPkzVReAka9fyOCqE7svlfOQ4=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: nKaHZR/SZMMQaMr3tIMJk0K1+k0=
+
+Name: assets/newgame/timer/multi_paetimer7.png
+SHA1-Digest: HulJ8o+O2fgrZDHhZVXfZJRqgNI=
+
+Name: assets/newpopup/yakgwan_btn_1.png
+SHA1-Digest: y5yd2sHobrVEJAk//swjU3olg6g=
+
+Name: assets/newmenu/shop/shop_arrow_2.png
+SHA1-Digest: 6A7QS+2Awm+6HW4dFD/R3Azyeww=
+
+Name: assets/sound/28.mp3
+SHA1-Digest: zrhFBBUU059Ws7Al3u8olf75hUw=
+
+Name: assets/newgame/gamebutton/chatting_btn_p.png
+SHA1-Digest: jcCXut4KMd2Ez2LZE/WTTum9HpM=
+
+Name: assets/sound/female_voice_2_slotwin.mp3
+SHA1-Digest: 3ICMxRwLU0Ms7IrPHdYsz3UE+BY=
+
+Name: assets/newmenu/shop/shopitem_numfont_gold/shop_icon_gold_4.png
+SHA1-Digest: zbF6+OXxgKzcSIJZatb5lc/ksPg=
+
+Name: assets/newpopup/mypae_go_bt_2.png
+SHA1-Digest: i+Xcqt3oNQaUIU79N1KMvCjHV8g=
+
+Name: assets/newavatar/majak_avata_106.png
+SHA1-Digest: +VazXmmyipkqapXz4QwrvPkicG0=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_man2.png
+SHA1-Digest: D0HSd0Tox51dkO9Qk8KN4QAZyN8=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: VfF1Y+3CjDiM4dG+tUnOEInJ2T8=
+
+Name: assets/common/prev_btn_n.png
+SHA1-Digest: tXcOnW2bMo5qr/uUn4rcW4Z98KI=
+
+Name: assets/newmenu/helpsub/help_04_01.png
+SHA1-Digest: K6VWB3L7lTp4Yd2G44uvk3A+e4Q=
+
+Name: assets/newgame/centerinfo_back1.png
+SHA1-Digest: jmsqGCbJpyM5D/nadUxuYMP3DkI=
+
+Name: assets/common/loading_sprite.png
+SHA1-Digest: AIwWJHR5FtkaOkzqoWwzMfBXrVg=
+
+Name: assets/newgame/pae/tile_back/style_01/starttile_vdown.png
+SHA1-Digest: D0RR6DXKO3H7FFlZ8UALCJTqQpM=
+
+Name: assets/newlobby/plus_btn_n.png
+SHA1-Digest: EqQ9vl/p92xvljQl2uo8eoTLoaw=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_up_bg2.png
+SHA1-Digest: TwLOZOXMzcgM7WvIJkd2Ss080PM=
+
+Name: assets/newpopup/popup_alarm_bg.png
+SHA1-Digest: Wvo5oJC1aoRBEUac5wxDEcXiTMw=
+
+Name: assets/newmenu/help/close_btn_p.png
+SHA1-Digest: b3pSGn4qM2q1FmltkhlEA6tpuJs=
+
+Name: assets/newpopup/popup_no_bt_2.png
+SHA1-Digest: na9x0Jy8kbK1bljjoe/utwriCc0=
+
+Name: assets/common/end_btn_n.png
+SHA1-Digest: xPV/86Bfdo1jILdIlQy45ivas5M=
+
+Name: assets/newlobby/rich_majakroon_list_1_2.png
+SHA1-Digest: MscgY3OVOjKz3pxlPDbqc5G8P8M=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_sak3.png
+SHA1-Digest: FG38a45sKhHRFRqJwslPG+8dfGk=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_vup_bg2.png
+SHA1-Digest: QsE0thXqGexC/btYM6+tEk43Aak=
+
+Name: assets/newlobby/japan_character_1.png
+SHA1-Digest: EGTl+5wKPNKl90mn86fW6vhOiKM=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_right.png
+SHA1-Digest: 0g9Dwivhu2JvOYPala5/eUFCChE=
+
+Name: assets/newpractice/china_rule_btn_2_3.png
+SHA1-Digest: bVzX0m1agn8if1B9qxywuwJP0AE=
+
+Name: assets/sound/paesound/voice_sak_9.mp3
+SHA1-Digest: MmShfzD3AP9/CQR8TlolNHFZT3c=
+
+Name: assets/newgame/gamebutton/game_start_bt_2.png
+SHA1-Digest: JATT4Ied/+DYerkrwpB05ptzEXE=
+
+Name: assets/newpopup/majakroom_bt_1_2.png
+SHA1-Digest: gDUDA4Jep9h/mddR32BaqlunNgY=
+
+Name: assets/newmenu/shop/shopitem_numfont/shop_icon_8.png
+SHA1-Digest: wAmyfmq29fKKbQQ/uUrkWShAIvo=
+
+Name: assets/newgame/drawmsg/game_drawmsg_0.png
+SHA1-Digest: fVN/EdQw+vdmiy/MbiS4HgSv8d0=
+
+Name: assets/newpopup/result_bg_1.png
+SHA1-Digest: GD/aFqZJTqPYTTk5H08nkH4au4M=
+
+Name: assets/newpractice/rich_rule_btn_4_2.png
+SHA1-Digest: 24x/oqHUQC0WdK0+FeBMMnKL1Lo=
+
+Name: assets/select/rich_select_solo_btn_1.png
+SHA1-Digest: w1h2QpYE/ZoeCWcQSN2yGq2RsnI=
+
+Name: assets/sound/29.mp3
+SHA1-Digest: Hms35xep0ILN+QJx9n1mV1Ty1u8=
+
+Name: assets/newmenu/shop/money_tab_2.png
+SHA1-Digest: ZRM2f5RKJXuMO79iT2xJh7MrcF0=
+
+Name: assets/screenshot/screen10.png
+SHA1-Digest: j+R4TbHsuAPJsBO3yliLAotajmY=
+
+Name: assets/sound/male_voice_6_hi_2.mp3
+SHA1-Digest: bnMs9T70fdR0Uo0/GtCyJ8+z1nA=
+
+Name: assets/newpopup/authentication_prev_btn_2.png
+SHA1-Digest: yvZHodMdPWJfkpYs25vXKt+NfXk=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_dar
+ k.9.png
+SHA1-Digest: UnGnluRjvPtWCPTuaQl6cAdhCys=
+
+Name: assets/newgame/groundpae_warning.png
+SHA1-Digest: zbBB1H3Rycm9kP5kX6ixxpZfp/M=
+
+Name: assets/sound/female_voice_6_hi_1.mp3
+SHA1-Digest: /aKbMrZh9DiqIW/iCOU15SY6Fqo=
+
+Name: assets/newgame/gamebutton/game_chuck2_off_btn_p.png
+SHA1-Digest: TukW0EXo1/ZePrb/g1p+8xNAm3k=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: +gmuhIqM5fxBv3rZoih1jHA7u0A=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_man1.png
+SHA1-Digest: kub+0T3RjXIMK0rOZMKuKTEVUMw=
+
+Name: assets/newpopup/jokbo_list_2_1.png
+SHA1-Digest: rdhaS9pizNmOPkLWr7HQgY6NZKQ=
+
+Name: assets/sound/male_voice_6_greeting_6.mp3
+SHA1-Digest: 9qDiQU0m2Pf3Xmcqs0zT4f+Hneo=
+
+Name: assets/newpopup/setting_callcenter_btn_2.png
+SHA1-Digest: yd6Szn9Zn/RyTktJ4EZ4UwaPL+Q=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 8t8fYpBPxPeFuWeBGdYiV/u6+vM=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_back.png
+SHA1-Digest: al1TfRZIx7tNw7z20MCCXxDuUAM=
+
+Name: assets/newgame/turnbutton/discard/discard_1.png
+SHA1-Digest: NHDpNGhUh7p0kEYQ2V8k249GKao=
+
+Name: assets/newmenu/shop/china_money_tab_2.png
+SHA1-Digest: HTls96ZKhaFog2F74p0uos+pPHI=
+
+Name: assets/newmenu/shop/shopitem_numfont/shop_icon_4.png
+SHA1-Digest: xqrPGVY8h3OhOIdo/mXqvIsTzAc=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: CrzNd5x90p8KNOfKUZlSrqMgRgk=
+
+Name: assets/newlobby/menu_ad1_btn_p.png
+SHA1-Digest: QhugEw6Jlrv+6jCxnUMs793PUyo=
+
+Name: assets/newlobby/avata_change_bt_2.png
+SHA1-Digest: PJ3yTPgGXJBvDTTr5y7ODxnZr+w=
+
+Name: assets/sound/ChiPangKang.mp3
+SHA1-Digest: Zoaqdi8QZlI/peqV/2m2RNNx2yo=
+
+Name: assets/dicescene/dice/dice_06.png
+SHA1-Digest: 51oepYL7MfeOV4m3TmuDrKy3H64=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_right_madeback.png
+SHA1-Digest: uUvXAgcrTMa7LkQkYQoF76Z04Jg=
+
+Name: res/drawable/btn_down_detail.xml
+SHA1-Digest: xZWduIkFX9wE6McmwwAeJltPgHg=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_buk.png
+SHA1-Digest: 8MfSWTgwZ1kYEvWWwsKFW8ZFiMw=
+
+Name: assets/newgame/result/result_font_lose_pay.png
+SHA1-Digest: TXCHK99/On9VWWOePJCxccUHw0o=
+
+Name: assets/newlobby/china_myinfo.png
+SHA1-Digest: b+M8Cg2fK+p4CP8M5WRU4is4Yys=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_sak2.png
+SHA1-Digest: PUhC5ungV827TaXWxitUjaUm0U8=
+
+Name: assets/sound/female_voice_2_greeting_4.mp3
+SHA1-Digest: SmFI8O+epuRQsgmQnAJ19MfpOvY=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_tong5_dora.pn
+ g
+SHA1-Digest: bhsP2iKcE+XeMQW1eGktEE+Njos=
+
+Name: assets/newgame/gamebutton/majak_new_discard_btn_n.png
+SHA1-Digest: /6GbEffHbhY/EWzV1gR5bC+Zt4Q=
+
+Name: assets/newmenu/shop/shopitem_numfont_gold/shop_icon_gold_7.png
+SHA1-Digest: xcW5zfEG3TZZM4ige12RwMZmH2w=
+
+Name: assets/sound/male_voice_4_greeting_5.mp3
+SHA1-Digest: NWEcorimoPcd2ABRnYS8S1Y2ew0=
+
+Name: assets/newpopup/warning_popup.png
+SHA1-Digest: IecaHsjDXK1kD3mzMaveci0Q66I=
+
+Name: assets/select/tutorial_rich_btn_2.png
+SHA1-Digest: LzGlpXEpKIcBFiObq56w8P2VOdg=
+
+Name: assets/newgame/center_wind/center_windmark_japan_1.png
+SHA1-Digest: 7s2dmheGNQW1IMHh83CdQ5+ZSmY=
+
+Name: assets/newmenu/item/replay_btn_1.png
+SHA1-Digest: q+E9NYjlBOBQtwgOmwKMx9JZVZY=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_man5_dora.png
+SHA1-Digest: s7kAFxAGduRv1jYTicbWY3+PzBY=
+
+Name: assets/newmenu/helpsub/help_09_02.png
+SHA1-Digest: 52vEPZDfL94KeUb7GaAaQIsSv0k=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_man1.png
+SHA1-Digest: co0WbFnnMmK7X05vT661b8/k6m4=
+
+Name: assets/select/select_rich_majak_btn_2.png
+SHA1-Digest: CLusSzx+AV1nLQDGXdf/NGe/P7g=
+
+Name: assets/newpractice/rich_rule_btn_3_1.png
+SHA1-Digest: 0vqd9aUcFFnFPXmnVJuFfLefJaU=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_sak4.png
+SHA1-Digest: T1E6SKhtkE5g5G6m4tvGvtStuVE=
+
+Name: assets/newavatar/majak_avata_103.png
+SHA1-Digest: V/rNdgKw5dPQ17QkrqXYg1S6aEQ=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_tong4.png
+SHA1-Digest: 7gQ+2I9O6i9LX4RUx5dQSfou+dg=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: VfF1Y+3CjDiM4dG+tUnOEInJ2T8=
+
+Name: assets/newgame/gamebutton/majak_discard_btn_p.png
+SHA1-Digest: 7NIGaFMTpv2+bHbXsKWYe7g7zNA=
+
+Name: assets/screenshot/screen1.png
+SHA1-Digest: UotaVu5Gi6yXbLKeHlBG04Hf86k=
+
+Name: assets/languagetext/oddsview/china/china_Language_kor_oddsviewli
+ st.xml
+SHA1-Digest: afe5vCgkj3Pzdncapl2hOmbgz8M=
+
+Name: assets/newlobby/myitem_n.png
+SHA1-Digest: PzCfolQ5TOXshOA+CF7BQWNc9+o=
+
+Name: assets/dicescene/dice/ani/diceani_06.png
+SHA1-Digest: ojMHJWLx2IiYtj36MPg+rBS6bs0=
+
+Name: assets/newgame/my_info2.png
+SHA1-Digest: BKd8T44Ijn2E8gzbNCSKkaE5+Vk=
+
+Name: assets/sound/male_voice_2_greeting_1.mp3
+SHA1-Digest: JqGHqO3ouQCuNX7cuCxO0NfgBvc=
+
+Name: assets/newgame/china_logo.png
+SHA1-Digest: r7r0MvWbahGK2iY9vSj+0/wJQlM=
+
+Name: assets/newmenu/item/item_num_back.png
+SHA1-Digest: ZnLTar79zup5JOxI0JwwZuiKFa0=
+
+Name: assets/colorscale.vsh
+SHA1-Digest: 5gcGdC27UHiYypLTgfrzJT6FH04=
+
+Name: assets/newgame/fontcardnum/cardnumber_8.png
+SHA1-Digest: od0gTeKln+LhcXoa/42Cc8m2nkc=
+
+Name: assets/sound/paesound/voice_effect_hwa.mp3
+SHA1-Digest: 6Jby27RiuML9m54J0iQa4uyT5n0=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_dar
+ k.9.png
+SHA1-Digest: wv2dVvaU2YokwLE9rPy/vR71x8o=
+
+Name: res/drawable/unityads_icon_speaker_waves.xml
+SHA1-Digest: 6pL5IqJ7XlLpToCWv0qIrBDIxJ8=
+
+Name: assets/newpopup/authentication_retry_btn_2.png
+SHA1-Digest: lHojwj+EPkrZvOVeJqapnfioHrg=
+
+Name: assets/sound/paesound/voice_tong_4.mp3
+SHA1-Digest: yqhKCM3FG20O6iqPMHkp9a1Avt0=
+
+Name: assets/newmenu/shop/shopitem_numfont/shop_icon_5.png
+SHA1-Digest: lS/BDP/HdGaPoQB7G3y8ZhMaItM=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_up_bg.png
+SHA1-Digest: Ac+7FfXEeMdoVwJa5Fb0l/AuAos=
+
+Name: assets/sound/paesound/voice_sak_6.mp3
+SHA1-Digest: GRu/PmHVcysgXiyWw/ycE/AqdzU=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_flower7.png
+SHA1-Digest: 0qAj8shdTf1nSDhoYQmrLmV48sc=
+
+Name: assets/languagetext/Language_kor_helpgameplay.xml
+SHA1-Digest: DtARwjb4Phr3xqM5eATrDZtm4YE=
+
+Name: assets/newlobby/rich_common_money_1.png
+SHA1-Digest: WziLppY+ARrsjzLI1XQ+z977GxU=
+
+Name: assets/newpractice/china_rule_btn_3_3.png
+SHA1-Digest: 2rIcLc9x40EkGxRQNG+xmjuIDeE=
+
+Name: assets/titlenickname/level_icon_4.png
+SHA1-Digest: v3q3aWPKUQT0aVVYQ2+ryjtqOW8=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: bIAQSJr/EfWZjIQk19BSgzvxEPU=
+
+Name: assets/sound/female_voice_4_greeting_1.mp3
+SHA1-Digest: euogL9Kb7XL+GCyxWo0ZGGhT5JA=
+
+Name: assets/newavatar/select/select_avata_000.png
+SHA1-Digest: 2ezf4ndMsLqInUnPpLqCZwEeY8M=
+
+Name: assets/newpopup/make_password_btn_2.png
+SHA1-Digest: vYzSrE/qaQUPqv/0sssJ8UChP4o=
+
+Name: assets/newgame/user_info2.png
+SHA1-Digest: FG1hdfHl6vkqzIgO4WaAN8TtiwM=
+
+Name: assets/sound/male_voice_6_greeting_3.mp3
+SHA1-Digest: QkbN3nu9M1yLBdnFCAznNtch9CY=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: y5NEiGadCzArYseq09UiAUCI9Ys=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_tong2.png
+SHA1-Digest: eN8EwXeBq43xl4+KwP8v41ZmX0I=
+
+Name: assets/newpopup/sound_setting_bg.png
+SHA1-Digest: /V0JaM/RBNab6DnTlKCxh96rUT8=
+
+Name: assets/newlobby/menu_jokbo2_btn_n.png
+SHA1-Digest: Y53al2juSjVvdvxG5U/2ccCwxQk=
+
+Name: assets/newmenu/shop/shopitem_numfont_gold/shop_icon_gold_6.png
+SHA1-Digest: AFXWGfKdAOS4LnWrSqwAJTWuF2A=
+
+Name: assets/sound/female_voice_1_greeting_6.mp3
+SHA1-Digest: iiZtzFZyg1sm4ya25/62mKlciCo=
+
+Name: res/drawable-hdpi-v4/btn_close_detail_p.9.png
+SHA1-Digest: U+33p3vy2wgcbfDaDzEdstPAVsI=
+
+Name: assets/newgame/user_info1.png
+SHA1-Digest: 1+B8AJ68g/xHifLvxf+BQqBeAJk=
+
+Name: assets/newlobby/menu_shop1_btn_n.png
+SHA1-Digest: +HwJmY3qy8MOjfX7WrxtaQrbB24=
+
+Name: assets/newtutorial/tutorial_china_basic_ani_1.png
+SHA1-Digest: UokgYyFvFfFFKNRWiCGPnjBbjw8=
+
+Name: assets/Language_kor_jpn.xml
+SHA1-Digest: 5ipHwxevQQ9rmBvGP/RP8b3YxA0=
+
+Name: assets/newgame/gamebutton/game_chuck3_off_btn_p.png
+SHA1-Digest: h6D0LY/FLIQuRMSin1CukLtmL+Q=
+
+Name: res/drawable/unityads_background_button_pause.xml
+SHA1-Digest: vch7M0Q7Mkqmq9BunJypY3le/tQ=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_vup_bg2.png
+SHA1-Digest: kgvzXmiPrs5fXWJM3eEITJ2ja30=
+
+Name: assets/newpopup/gomain_btn_2.png
+SHA1-Digest: whwjR85RQ1deekemLHm+TaDQVw0=
+
+Name: assets/sound/paesound/voice_effect_pung.mp3
+SHA1-Digest: HN/ZVorBWSEk5ZTHiXDgq25vtLM=
+
+Name: res/drawable/unityads_icon_speaker_triangle.xml
+SHA1-Digest: yJJC19gClIu9j5hjabmjAMpxjBY=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_sak2.png
+SHA1-Digest: oth7apv0mPY8sVVFaINqkZCaKY4=
+
+Name: assets/sound/male_voice_4_greeting_6.mp3
+SHA1-Digest: m9zoS0H6816sSf/n+a0vZL/iXvo=
+
+Name: assets/newgame/actiontimer_back.png
+SHA1-Digest: hoT75OknCXiGUWVP38+xUCcpvp4=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: gfHaH8EPI7tPXVeskcJGZH2tiRQ=
+
+Name: assets/newpopup/popuo_ok_btn_2.png
+SHA1-Digest: YXFk4T2ZjYyrAsCxq0r9os2oUO4=
+
+Name: assets/sound/male_voice_4_slotwin.mp3
+SHA1-Digest: PkyXejIJhuPpO+BkpjhnR6rCBVE=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_man7.png
+SHA1-Digest: a7d+SKBaRiZULFkrVctHR45sM3M=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: hGxYtyNOqukCwnfK4rrBM7qS1nc=
+
+Name: assets/newgame/turnbutton/discard/majak_discard_btn_p.png
+SHA1-Digest: 7NIGaFMTpv2+bHbXsKWYe7g7zNA=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: tARhYTM7pMWAsJih/VCtdWcO8/c=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_buk.png
+SHA1-Digest: lMKPyOK71LdUJhLtOhzQ+fdrRvY=
+
+Name: assets/newpractice/rich_rule_btn_4_1.png
+SHA1-Digest: I/tccyRL6Duf/ckMbz4BKJziEqI=
+
+Name: assets/select/rich_select_solo_btn_2.png
+SHA1-Digest: t7vudhsXtimWORxTcGKO3Xw5igY=
+
+Name: assets/screenshot/screen11.png
+SHA1-Digest: 6PxmOssEm7Lp81b6xTlLchB4l1U=
+
+Name: assets/color_red.fsh
+SHA1-Digest: v4uTbQabnMt4YuN1OM3pXzdEEcs=
+
+Name: assets/newgame/my_info1.png
+SHA1-Digest: IIMh5yCD6m8owpHtGUHhdnFk5Ko=
+
+Name: assets/sound/female_voice_5_slotwin.mp3
+SHA1-Digest: tBX9e/Yp3wDLdmIhstsjmQMwoi0=
+
+Name: assets/sound/female_voice_2_greeting_5.mp3
+SHA1-Digest: kOWO/+ml4qgRmWc73MG8XPuohGw=
+
+Name: assets/newavatar/select/avata_select_img2.png
+SHA1-Digest: SLqzAGSGpGGExdy2Hb+I30Viw14=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_jung.png
+SHA1-Digest: V5OFpHAz2mJsrbRfx5vNIiVdit8=
+
+Name: assets/select/tutorial_rich_btn_1.png
+SHA1-Digest: 0W4lEAramrLOR6Ft49PQIGIlAeU=
+
+Name: assets/sound/tutorial_text.mp3
+SHA1-Digest: RI3juSDkT9ViJewe8kCnDy3BuEE=
+
+Name: assets/dicescene/dice/dice_05.png
+SHA1-Digest: f78lxKge4/tucsJsnpODR2X0tJs=
+
+Name: assets/newmenu/item/replay_btn_2.png
+SHA1-Digest: U38HFSvhTQJq34e62c6PGmqRJ1s=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_00_back.png
+SHA1-Digest: uTbLGMajjLFZIzaebsmbEUlXbUo=
+
+Name: res/layout-land/offerwall_list.xml
+SHA1-Digest: 6ZaYrgzTZKOvIn0eApcUZ3W55IM=
+
+Name: assets/newpopup/jokbo_list_2_2.png
+SHA1-Digest: 02jV+a0xnRUjaAoHhS+DSELV+Rw=
+
+Name: assets/newmenu/shop/china_money_tab_1.png
+SHA1-Digest: UEfs13c3ILfsDmnuofXo+INmiAs=
+
+Name: assets/newgame/turnbutton_kang_bg.png
+SHA1-Digest: ouF6osrytWCVQMBRFgFX5n1gj5g=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_tong4.png
+SHA1-Digest: 0dRW8FsbxQ4IIEaSQxjR3gYjRTs=
+
+Name: assets/newlobby/chnia_myinfp_btn_p.png
+SHA1-Digest: 13DEVpvUdUYWXH44Q3KbXsBNyUA=
+
+Name: assets/newpopup/authentication_certification_btn_2.png
+SHA1-Digest: Gc/LEunKbsO7BBMrB7hvAIyn+xQ=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_baek.png
+SHA1-Digest: DlN+KLvIEMNyKGF8p5KchsX/1UA=
+
+Name: assets/newpopup/majakroom_bt_1_1.png
+SHA1-Digest: 6BBWtDyBAMXQxkzZD92p/MhdPko=
+
+Name: assets/newgame/center_wind/center_windmark_japan_3.png
+SHA1-Digest: 3LpIErqyiy04fR6PZ2N99uO8XPE=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_sak1.png
+SHA1-Digest: mrGcACGjZdGTnOTE2aJA8bP3i7c=
+
+Name: assets/dicescene/dice/ani/diceani_07.png
+SHA1-Digest: V7z/GvHazFMUi394XMc0EoJI9P0=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_tong3.png
+SHA1-Digest: 0yK3XXlLM/j+0qisak7HI26XQYc=
+
+Name: assets/newgame/gamebutton/game_pedigree_btn_n.png
+SHA1-Digest: gtdxMFLzQV54NQ4xu1fyuIH35PY=
+
+Name: assets/sound/male_voice_6_greeting_4.mp3
+SHA1-Digest: A8t0ZXb1copYuBDLcwZ2bQytAfE=
+
+Name: res/drawable-hdpi-v4/btn_close_detail_n.9.png
+SHA1-Digest: Yy4iimP2Nq4Rx2E2By8lpTRkTzc=
+
+Name: res/layout/empty_header_layout.xml
+SHA1-Digest: m7kE5mBlwXMjWMqYFzy60jIwn+s=
+
+Name: assets/newgame/game_mission.png
+SHA1-Digest: mEdROGJOjpBcSzBxerxhEaoKnGU=
+
+Name: assets/select/select_rich_majak_btn_3.png
+SHA1-Digest: r2M+knyFhqM6x5S/jBatF7nJ5Kg=
+
+Name: assets/newgame/result/result_mark_dorapae.png
+SHA1-Digest: w/kSaBId+Q+55b3Rydc8Tc0a7Jo=
+
+Name: assets/newmenu/helpsub/help_09_03.png
+SHA1-Digest: MtbchVvaMJ/r5Oxx1Yy1NoisMWs=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_tong5.png
+SHA1-Digest: cT0XQjxPRXXe4NY1xMY5ZF1hmRs=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_vup_bg.png
+SHA1-Digest: 1Ge0ZbrrUKnoGc5Wm42QY0niPPI=
+
+Name: assets/newgame/gamebutton/chatting_btn_n.png
+SHA1-Digest: F8k/IDOfYJq/lurHIppwEtbJtIQ=
+
+Name: assets/newgame/gamebutton/game_leave_cancel_btn_p.png
+SHA1-Digest: ucIxsr7P1d1eY/D/UxKEfKCVvVc=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_flower6.png
+SHA1-Digest: UQngGZFnsW5PUw/iKsFfa7v2rMM=
+
+Name: assets/newpopup/authentication_retry_btn_1.png
+SHA1-Digest: Rm+i7a0PbxhksKzp91Iw05btVvE=
+
+Name: assets/newavatar/majak_avata_104.png
+SHA1-Digest: eYCtMU1/7G73KC0EPZpf6KDIp7A=
+
+Name: res/drawable-hdpi-v4/btn_close_p.png
+SHA1-Digest: r9oMBzOlW+zjIJNkwWTjrNyO5B0=
+
+Name: assets/newpopup/make_password_btn_1.png
+SHA1-Digest: R9JHdepISjDtR3xUQWTUzpzqE2U=
+
+Name: assets/titlenickname/level_icon_5.png
+SHA1-Digest: 3zQzG41BTCpd0724V8rm23iIHkc=
+
+Name: assets/newavatar/select/select_avata_001.png
+SHA1-Digest: DdRrS/ubjZ9E4RFFU5HpuDhH8AA=
+
+Name: assets/screenshot/screen2.png
+SHA1-Digest: gaG0PIPCbiKM3csCnOBCVyYCZ3A=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_vdown2.png
+SHA1-Digest: v3gxZL5yUDebdI+C8CHR2GBfv18=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_back2.png
+SHA1-Digest: CuhU2DVRCggIuNggIp2TGXAaeIk=
+
+Name: assets/newgame/gamebutton/game_chuck_btn_n.png
+SHA1-Digest: D7a48gZS+rVZQK8b40/IMxvbPAY=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_right_madeba
+ ck.png
+SHA1-Digest: k4d0mPn0KYMulydRfTOzVrUeGZc=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: /5RFzsw1zwQJHkUKjDGzni0BQNE=
+
+Name: assets/sound/female_voice_4_greeting_2.mp3
+SHA1-Digest: nBXey4olz2WAgxFkQeej15fc9jE=
+
+Name: assets/newlobby/rich_common_money_2.png
+SHA1-Digest: dDANQr/H6I4FA/ucAMy1/uN1fV0=
+
+Name: assets/sound/paesound/voice_man_9.mp3
+SHA1-Digest: 942EwQK1oDHha+5dp1zgSZQnxd0=
+
+Name: assets/newpopup/popuo_ok_btn_1.png
+SHA1-Digest: ZuncrmzozV0JzmAlky/Vr5RQ74Y=
+
+Name: assets/sound/female_voice_1_slotwin.mp3
+SHA1-Digest: +/C4ezxUWqc2YUNpzKHnrJODBCE=
+
+Name: assets/newgame/fontcardnum/cardnumber_7.png
+SHA1-Digest: rqEdeMrfB0iAzo+fMxrxw4YrNk0=
+
+Name: assets/newpopup/majakroom_bt_2_2.png
+SHA1-Digest: rJBcGwUmq9vuDYWicXvJg5JIbN0=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_man8.png
+SHA1-Digest: 6dpbWh0RYy6VsTUAIm1gSkNuQ6A=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_vdown.png
+SHA1-Digest: fSB6cuQPfPAbbvlOZChiqOH934s=
+
+Name: assets/sound/female_voice_1_hi_1.mp3
+SHA1-Digest: JUfmmGTRX5OolFCPTw0GLU2bacM=
+
+Name: assets/newlobby/menu_jokbo1_btn_n.png
+SHA1-Digest: WBnyz6kXV/M8dXzHWOQF39PI//Q=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_tong1.png
+SHA1-Digest: gtqw/o5x/RxvK9hzik/zKrWhJhE=
+
+Name: assets/sound/paesound/voice_tong_5.mp3
+SHA1-Digest: 5jCK6oHNeVbMr6TYDlL3IsizQ+E=
+
+Name: assets/newlobby/menu_playad_btn_n.png
+SHA1-Digest: w71v8yAnunPSxjLiBk9//Xd2QAk=
+
+Name: res/color/common_signin_btn_text_dark.xml
+SHA1-Digest: 07yBZI9cIC3ZnU7OMoGRLKbHlQ0=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: FMoZxbKyy1t4RWJZNFgkkfl6R2I=
+
+Name: assets/newmenu/shop/shopitem_numfont/shop_icon_6.png
+SHA1-Digest: lEx9CMtl23x9j66EecmllfaNudE=
+
+Name: assets/newgame/result_font_lose_alone2.png
+SHA1-Digest: r9iGaLe/sxyISuIlbu1UjX9z34A=
+
+Name: assets/sound/paesound/voice_sak_7.mp3
+SHA1-Digest: NlbRJmGc2MvPhoF2aPAsfI34k3U=
+
+Name: assets/newgame/result_lose_img.png
+SHA1-Digest: GCdx9reNHdVuD8jCBzUk15V6k9w=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_sak3.png
+SHA1-Digest: yOt42+inzqE4FgK22phgh3McWIQ=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: Lr1rT77u4xVy62jD1bXjSVwID+s=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_jung.png
+SHA1-Digest: WYChKT74YBDMJPbAFCcHn2WrHrk=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_left_madebac
+ k.png
+SHA1-Digest: R8JLBKdONjpsWupYiO5zhgWtfQs=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: qaK4e1gDhaSXVr673Ke38Qdp/V4=
+
+Name: assets/newtutorial/tutorial_rich_character_ani_4.png
+SHA1-Digest: iT07Pr1inXTaveSpaNPWzVA0zbk=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: 9aVwwDJLurzAdd/0dY0hcfBsZLI=
+
+Name: assets/newpopup/make_invite_bt_n.png
+SHA1-Digest: p4MC657WP0UOqmAcCgRHiO/ya64=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: dYDfYdQeVCs4/1WeSohObo/Y42U=
+
+Name: assets/newlobby/majak_text_multistage.png
+SHA1-Digest: T5+AQjxIWw2A4BHmesj2MwCGWq4=
+
+Name: assets/common/prev_btn_p.png
+SHA1-Digest: yvZHodMdPWJfkpYs25vXKt+NfXk=
+
+Name: assets/newgame/result_credit_back_lose.png
+SHA1-Digest: tP4y1GrTCIwXSEu9IFr+qXR6wWE=
+
+Name: assets/newmenu/shop/gold_list_1.png
+SHA1-Digest: TIti2/hSiXQ8W5/tgdBzZpSqUDU=
+
+Name: assets/sound/paesound/voice_man_1.mp3
+SHA1-Digest: RAB9qkbdqm/wHeIq0RKnhQeAjDQ=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_tong3.png
+SHA1-Digest: 25RsNVZb6zlMytjPXVldO2sKggg=
+
+Name: assets/newpopup/privacy_bt_2.png
+SHA1-Digest: P6SJvvPHWKKdorL8uxr73j8H89Y=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: CLs5FbiMwb7vIKZyvZ2iE6odMZs=
+
+Name: assets/newpopup/jokbo_list_1_2.png
+SHA1-Digest: y7E0fRJqPyMCW8Zxg5Aqq8okv/4=
+
+Name: assets/dicescene/directionfont/eng/eng_directionfont_1.png
+SHA1-Digest: ulI6wONjJNjEIC36Ug42iwbBUqs=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_sak3.png
+SHA1-Digest: 0/5gMyk0YjXUdKIl4VacvVLVJ1M=
+
+Name: assets/newpopup/join_yakgwan_btn_2.png
+SHA1-Digest: h8vhy8ntkzkHWRQ2zRzBbmnVtzc=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_light.9.pn
+ g
+SHA1-Digest: pCIvTjWlEd+72lf6cxDeEv/N0Pg=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_tong8.png
+SHA1-Digest: jGP4wRzAAwrKkvEgvRPyiTThwaQ=
+
+Name: res/drawable-hdpi-v4/list_box_n.9.png
+SHA1-Digest: 2Sbqea2twP5YmXiBcaGiaoveSQU=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_man8.png
+SHA1-Digest: FFaoV37+cDuwFXOv/OUTuSKPPrg=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_sak1.png
+SHA1-Digest: lmKi2mlvA2XPDlM+NjlQZ0l8y4g=
+
+Name: assets/newmenu/shop/gold_tab_2.png
+SHA1-Digest: 8MoqbDILiJ9wo+tlg2L1LjXzHrA=
+
+Name: assets/dicescene/dice/dice_04.png
+SHA1-Digest: cd7dyJu6Ej5o96Ru0ZUgsyYiH/c=
+
+Name: assets/newpopup/invite_bt_1.png
+SHA1-Digest: Cohibqr7kDQ1dMW8DAQXxSwyOCc=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_tong9.png
+SHA1-Digest: x1wFnmNbbxqd659C0LOe2GNDVNc=
+
+Name: assets/sound/appear_titlebutton.mp3
+SHA1-Digest: 9KNS5SeY9ofxF626pPL6DuSrw8k=
+
+Name: assets/languagetext/oddsview/rich/rich_Language_chn_oddsviewlist
+ .xml
+SHA1-Digest: jSyjz9OAFVu2LXeG27GobPRe1Wg=
+
+Name: assets/newavatar/majak_avata_004.png
+SHA1-Digest: wV3kw3lD/IWPLY3tY0J4Kr7cIb8=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_left.png
+SHA1-Digest: 0U5GR8xXS9Cg4XNoaPZVvG+QYDI=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_vup_bg.png
+SHA1-Digest: /xYyZ73PGNCM5asgT2uVQK6lcbg=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_up_bg2.png
+SHA1-Digest: ZNgaNlmL+cLzl0Pu12M6VTV3LtA=
+
+Name: assets/sound/female_voice_3_greeting_6.mp3
+SHA1-Digest: CXQC5ilgaNHC+5nVoHMelIqqIq0=
+
+Name: assets/newpractice/china_rule_btn_2_1.png
+SHA1-Digest: 9tnRRPkc2ulEhRjvP+VBetW6D3M=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: CbQKQR4v+KUpSOw8jtj/8rngelU=
+
+Name: assets/newpopup/peristalsis_bt_1.png
+SHA1-Digest: 8bDxWuQpfcXYPM3Cw2YXg1eBvtg=
+
+Name: assets/screenshot/screen3.png
+SHA1-Digest: v9Q4dRTJ/Ys3O550lI/tA0dzW+4=
+
+Name: assets/sound/paesound/voice_pung_nam.mp3
+SHA1-Digest: 6zBQSkKHMS8p8yOrFyn0CCoMa34=
+
+Name: assets/newtitle/majak_title_china.png
+SHA1-Digest: oC00n/2bawkOpDyKBtsNroWPloU=
+
+Name: assets/sound/female_voice_5_hi_1.mp3
+SHA1-Digest: XeJ+pXcxUb5Asndvi1m5dedBKwg=
+
+Name: assets/titlenickname/level_icon_17.png
+SHA1-Digest: qZvV6sv5ZmsabtLlfIUdke3DOA4=
+
+Name: assets/newgame/gamebutton/game_setting_btn_n.png
+SHA1-Digest: bmWm2zXo1Eyi7JxI0/Y2MQX8SrQ=
+
+Name: assets/newlobby/rich_list_2_2.png
+SHA1-Digest: 7+LjsXG4m9IvZr3J5sZqjzIwa/4=
+
+Name: assets/newpopup/result_game_main_bt_1.png
+SHA1-Digest: KqbwhGO6DuX3afEkD2xEATP1Uzk=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: CG3lDkcP/GHQTYwc/aOmdEm1/oA=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_vup_questtion.png
+SHA1-Digest: +Wl/nFO0B4PRSTh4R+uDtfaEWac=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 35SE0YeVExaKoj7k6vFFSFn6fzk=
+
+Name: assets/newmenu/shop/shopitem_numfont/shop_icon_2.png
+SHA1-Digest: ElPxIN6VQWMj0FFT6d5njFOI1SM=
+
+Name: assets/newgame/drawmsg/game_drawmsg_6.png
+SHA1-Digest: t+wkQ+h75p2NKZtsNbS+tIE64Wk=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_00_questtion.png
+SHA1-Digest: BBJ+WVCbsBXz39SAwlOvXkxTjiA=
+
+Name: res/drawable-mdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: GsTS92Bzo8Jz4sL5ZnEMP1NxOWU=
+
+Name: assets/newlobby/menu_setting1_btn_n.png
+SHA1-Digest: rwBAgZKA82bwXO9vemAUTFv3WYI=
+
+Name: assets/newavatar/select/select_avata_002.png
+SHA1-Digest: OELVjqNPFcaF1deLoZgeDuP/L5Q=
+
+Name: assets/newlobby/china_list_2_2.png
+SHA1-Digest: 6hdE6LjcZGL9zS/AuwrXOYdKHxA=
+
+Name: assets/newpopup/position_bt_2.png
+SHA1-Digest: M6kihBtG+D0iXihSEIZDeWPS8Lo=
+
+Name: assets/newpopup/jokbo_btn_1_1.png
+SHA1-Digest: MA8bSNN6Hnfx4gsEug30Kk474YI=
+
+Name: assets/sound/female_voice_6_greeting_1.mp3
+SHA1-Digest: UAX7F1WVsm/RAuBL/+6bYRVRSsM=
+
+Name: assets/newavatar/majak_avata_ai.png
+SHA1-Digest: HXpKeqYIyvtaHf+kIJE25SgKboE=
+
+Name: assets/newgame/pae/tile_font/tilefont.plist
+SHA1-Digest: +qZGtHI7+9hUZO4uVKWo67H1RC0=
+
+Name: assets/sound/female_voice_2_greeting_6.mp3
+SHA1-Digest: f9AeURJV8Dc/c8ZwWvTNg5xjEMM=
+
+Name: assets/sound/female_voice_1_hi_2.mp3
+SHA1-Digest: J8bfsGEwdrZe1wg9w4tuOtSn25U=
+
+Name: assets/newpopup/popup_yes_bt_2.png
+SHA1-Digest: j0BDl9N7I6732G5Rpq9gA+K80NY=
+
+Name: assets/newpractice/china_rule_btn_4_3.png
+SHA1-Digest: ukSSa1ld9GSbTkYMRT93XgfSPTc=
+
+Name: assets/sound/paesound/voice_man_8.mp3
+SHA1-Digest: zWqML6fxxYrsStOsHABNrQdMqDg=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/starttile_hdown.p
+ ng
+SHA1-Digest: L+wpUASxnuHrVtDDDMkkN2kKRIE=
+
+Name: assets/newlobby/menu_shop2_btn_p.png
+SHA1-Digest: ELLHRLnLOgEQty4uaxBF59Dlq/M=
+
+Name: assets/newpopup/join_id_input.png
+SHA1-Digest: CPTetHe+VhZ6scAG0xhXy7Fobo8=
+
+Name: assets/newmenu/ranking/icon_rank_2.png
+SHA1-Digest: DYom6OxNoJx1XnyNbalLlGCBEds=
+
+Name: assets/select/select_rich_majak_btn_4.png
+SHA1-Digest: BojVwI5RPi03vJb9rUrSGIJuZms=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: HJdSnxPzW/dtUr+R9bfh15Nk+oo=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_baek.png
+SHA1-Digest: pn7HIG0TqRXWY7Q1uNxql6eEta4=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_man3.png
+SHA1-Digest: NMJUBUEBaANxWSG9SbxWZzKTJTM=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_hup_bg.png
+SHA1-Digest: ZAw2qusChBvhcy4O7hJUTDsueW8=
+
+Name: assets/newlobby/china_common_money_1.png
+SHA1-Digest: R9zdc0JAxd546T7qep78/dXV28g=
+
+Name: assets/newlobby/china_tab_2_1.png
+SHA1-Digest: fMlEtkRzsEJt9+OhghosEHBEqYs=
+
+Name: assets/common/message/msg_kang.png
+SHA1-Digest: IkaHCB8eEjACa7aGuRpu/M8cDHI=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: 3P2Q/ZAE5zdB3clrfhpWK44ry8k=
+
+Name: assets/common/china_closeback_down.png
+SHA1-Digest: 2UH775V174W1Fb+8r01B5fm6xbA=
+
+Name: assets/newgame/result_font_jamohwa.png
+SHA1-Digest: TEG91WsCXyJkaDSHgC9BLCFIhgM=
+
+Name: assets/newmenu/helpsub/help_06_01.png
+SHA1-Digest: cUcgwB4gh04uwq8uHAIQMP0Oy+c=
+
+Name: assets/newpopup/majakroom_bt_3_1.png
+SHA1-Digest: Hr4MHKH6yiAgVT4Kwrz5CjiAEi4=
+
+Name: assets/newtutorial/tutorial_text_box.png
+SHA1-Digest: Xf0NaA3hmM6OyK0NiS4iv/eWyT4=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_sak5_dora.png
+SHA1-Digest: GXLXiKH+0gR7ZENanlMvD406Whk=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_red_man5.png
+SHA1-Digest: P94xZIjnh4/b+2//FqLjKv8nWhA=
+
+Name: assets/newlobby/myinfp_btn_p.png
+SHA1-Digest: AcqONtuSq7Nb+1ccqm+LsgUJ2BY=
+
+Name: assets/newpopup/popup_5.png
+SHA1-Digest: 0G8J6492I+OeZk4uERg+IBI4TWc=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_sak8.png
+SHA1-Digest: NYhfsHK2hQa4tdYx0H8onKEGEWQ=
+
+Name: assets/newgame/gamebutton/message_bt_2.png
+SHA1-Digest: pgGWKqITgfM9O6f6TRSCWfhTT5M=
+
+Name: res/drawable-hdpi-v4/powered_by_google_dark.png
+SHA1-Digest: I/G/mu9XuPJTzwp/WdZLjQ6xTfg=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_man6.png
+SHA1-Digest: vNjh1R8ARgbEOktsPp7NWbnaSeI=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_sak2.png
+SHA1-Digest: MdqpN4ZCKnWFbIjQMn0/I1/Bz+s=
+
+Name: assets/titlenickname/level_icon_2.png
+SHA1-Digest: 4YO1iOTCOcePk1akIFMpao3bTSU=
+
+Name: assets/titlenickname/level_icon_16.png
+SHA1-Digest: /PK5H3orHTzrk6hLPcGSq86dTbs=
+
+Name: assets/newpopup/join_privacy_btn_2.png
+SHA1-Digest: wFVCNMG5R70nL+flErKOBa5po4M=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_dong.png
+SHA1-Digest: 4QzEjXogLrl/117zlndjQ1CBSmM=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_sak9.png
+SHA1-Digest: elszUTSHTngRn9Z5eFLjs4s7Qm8=
+
+Name: assets/newlobby/menu_setting2_btn_p.png
+SHA1-Digest: A0/XkuBn+QCOOw4xo01Urw4U/lo=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: CAX452L2JZVHr6GVDyVIByIfBc8=
+
+Name: assets/dicescene/dice/dice_03.png
+SHA1-Digest: gipKxrbmVyIi9mCjYDaSkL7uBW4=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: oHKnBBbWgjP4o7A/6GgdHOh1E3M=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_dark.9.pn
+ g
+SHA1-Digest: M/AuBUDrasZr5kX0EObwl5+LiN8=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_front_bg2.png
+SHA1-Digest: xDx8PUxZDWMPzNyi6jG3u7OAV5c=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: NNwe3FKHs47gjoFv3kwcJmKiUOw=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_tong7.png
+SHA1-Digest: eUOr7BKxzkg9GS9LIQxfntzhfOY=
+
+Name: assets/newgame/result_font_lose_alone.png
+SHA1-Digest: 999lEZ2OTogGabpkBGDZNxNlEvY=
+
+Name: assets/newlobby/richgame_go_btn_p.png
+SHA1-Digest: b4YVT2BbexulQrcwT5j+icXbOlg=
+
+Name: assets/newmenu/shop/china_gold_tab_2.png
+SHA1-Digest: ZjsowCqu0dh2J6QRE8McQ89yrIQ=
+
+Name: assets/newpopup/peristalsis_bt_2.png
+SHA1-Digest: /+hQ3ozD12xXcuGdtp2nmVi6oDg=
+
+Name: assets/sound/male_voice_5_slotwin.mp3
+SHA1-Digest: a2S34aFPMRubGUM9sCjtsk2u3bQ=
+
+Name: assets/dicescene/directionfont/eng/eng_directionfont_2.png
+SHA1-Digest: 9k6PXG54RJEQcID+mQDmx3dCR1w=
+
+Name: assets/newpopup/join_yakgwan_btn_1.png
+SHA1-Digest: jsNdC+UGa7rUMhSmtAxvuZnuDv4=
+
+Name: assets/newpopup/close_btn_n.png
+SHA1-Digest: 3lVmP5xyfFolDFNln6ZkoKYsEq0=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_tong4.png
+SHA1-Digest: k1qeyM2DtB2ScE+eHu4cfEmS8GE=
+
+Name: assets/newtutorial/tutorial_rich_character_ani_3.png
+SHA1-Digest: iT07Pr1inXTaveSpaNPWzVA0zbk=
+
+Name: res/drawable-hdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: z6yGTaD724TNXrFIrfkVmeIslyQ=
+
+Name: assets/sound/paesound/voice_won_baek.mp3
+SHA1-Digest: vA8M4eL2LqJRIumMDy/9fKoHdyA=
+
+Name: assets/newmenu/helpsub/help_01_01.png
+SHA1-Digest: Q4FvlVGSOAY/OgXX1xcCLbG+9tU=
+
+Name: assets/sound/female_voice_5_hi_2.mp3
+SHA1-Digest: VBUm5v6crd48VXcKzDEPrKIpvbQ=
+
+Name: assets/languagetext/script_language_tutorial_kor.xml
+SHA1-Digest: l64loBfT4tL+Zyo/8DQ4dT6taqo=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_man7.png
+SHA1-Digest: 3fQnE6wL8fMRHGiRI0UIaaw5JuI=
+
+Name: assets/newmenu/shop/shopitem_numfont_gold/shop_icon_gold_8.png
+SHA1-Digest: qZbGELPy0nL8ApmdqO8zHPYUPPA=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_00_questtion.png
+SHA1-Digest: ngzc2iyXKK7Mvxt+LF0tBFLfMnk=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_front_bg.png
+SHA1-Digest: JF4MXEghYOW8fSFOwDbEdugwvDI=
+
+Name: assets/newavatar/select/select_avata_003.png
+SHA1-Digest: FMdKDAPPa4WX1UjVkCn/R4V/+VA=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_man9.png
+SHA1-Digest: Mwrupb5o8/6bfcafLy8OFVnrl5U=
+
+Name: assets/screenshot/screen4.png
+SHA1-Digest: HIP9Ilyc2II3A6MCGKXt7n+MUxw=
+
+Name: assets/newavatar/majak_avata_005.png
+SHA1-Digest: AqDnmA0Yd/P2bWLwRxYshutY+CI=
+
+Name: assets/newmenu/helpsub/help_09_01.png
+SHA1-Digest: 64AdjgxLbrDVQWzsyvjohy5UuJ4=
+
+Name: assets/newgame/turnbutton/discard/discard_2.png
+SHA1-Digest: rBy/6B9kWzOWDyEHE9pkM7zysDk=
+
+Name: assets/newgame/gamebutton/game_leave_reservation_btn_n.png
+SHA1-Digest: wP+GgaFAVYrfZKvuVY2fgPt3kJg=
+
+Name: assets/sound/female_voice_3_greeting_5.mp3
+SHA1-Digest: s/z/QjYBn63y0D7MGbzWNuhHCGw=
+
+Name: assets/sound/paesound/voice_man_7.mp3
+SHA1-Digest: B3eSezNB3uJ9zVSQ8uBxHk2SVPU=
+
+Name: assets/newmenu/shop/shopitem_numfont/shop_icon_3.png
+SHA1-Digest: r6tFUrWwq8cKl/j5fBmFGp4sIB8=
+
+Name: assets/common/message/msg_chi.png
+SHA1-Digest: pne9u5heO+FP6m4YzpHfbCBg2GI=
+
+Name: assets/newpractice/china_rule_btn_2_2.png
+SHA1-Digest: cSV0hT8kvy8PpcAxr3h+cH34h/g=
+
+Name: assets/newlobby/menu_rank1_btn_n.png
+SHA1-Digest: XVbPBZ75puj6DNCazJR9FhFNvLM=
+
+Name: assets/common/normal_box/normal_white_box_bottom.png
+SHA1-Digest: 6BaAeEqSWX0cPfVlKZCoolQfjGc=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_front_bg.png
+SHA1-Digest: XT1FOSjedj1AjRg0RLoCtO3Cehs=
+
+Name: assets/newpopup/privacy_bt_1.png
+SHA1-Digest: +xuWphLsmngj/SuDvaEmYSoJIf8=
+
+Name: assets/newpopup/join_bg.png
+SHA1-Digest: /QqaouP+fStZBDWhrtrb2G6ERUU=
+
+Name: assets/sound/paesound/rich_voice_pong.mp3
+SHA1-Digest: dKztEAMEsaYXiZnQIRkRXzghxqY=
+
+Name: assets/newlobby/rich_list_2_1.png
+SHA1-Digest: Ouwywkp479Awc6tHbSU9k3qFGbM=
+
+Name: assets/newpractice/china_rule_btn_4_2.png
+SHA1-Digest: f0IUKNAq99J7oVyaObLmF5lrTb0=
+
+Name: assets/sound/17.mp3
+SHA1-Digest: UvnXrwvroL940x8svaaBxh85+0g=
+
+Name: assets/newlobby/china_tab_1_2.png
+SHA1-Digest: +kUQYgHr23Z4Vf/gjbk6hGjuMn0=
+
+Name: assets/newgame/result/result_selectdora.png
+SHA1-Digest: ho4YBDAVoj523qIYrujgolYo5/w=
+
+Name: assets/common/next_btn_p.png
+SHA1-Digest: lsWX8ulwxezLcculgUxvvqEfWUs=
+
+Name: assets/newgame/fontcardnum/cardnumber_9.png
+SHA1-Digest: NIZd6bFbS/JvfL9RFo7UsXVtUSc=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_nam.png
+SHA1-Digest: BBi3fs9tIgPx5eU6BFxPFp3YscE=
+
+Name: assets/newgame/drawmsg/game_drawmsg_5.png
+SHA1-Digest: yGFo8S8ImeJuh5oQMnQGgTF2xq8=
+
+Name: assets/languagetext/helpdlg/rich/rich_language_helpdlg_chn.xml
+SHA1-Digest: 2G/a0EidDwbWqrj3Yx/Zm55TNeo=
+
+Name: assets/newgame/gamebutton/invite_bt_1.png
+SHA1-Digest: Cohibqr7kDQ1dMW8DAQXxSwyOCc=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: FMoZxbKyy1t4RWJZNFgkkfl6R2I=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_man2.png
+SHA1-Digest: vkf8lYJBbPrsvfkoU6KvEikTCJI=
+
+Name: assets/sound/Pae_ToBadak.mp3
+SHA1-Digest: lUl1psgsCCPxIplBKVxKJHnOsrI=
+
+Name: assets/languagetext/helpdlg/rich/rich_language_helpdlg_kor.xml
+SHA1-Digest: 4+JTJp21+xrMi3E6j54x4ldbpKA=
+
+Name: assets/newgame/result/result_font_jamohwa.png
+SHA1-Digest: NIn7Ar9XOMSGrDtsJvY8dENys1g=
+
+Name: assets/newlobby/china_list_2_1.png
+SHA1-Digest: G2j2zeSgGn1lyfog9tv2ZXKoFH0=
+
+Name: assets/newpopup/secession_btn_2.png
+SHA1-Digest: WUZOMofrNYGZXPEc4wDEHosNCO0=
+
+Name: assets/sound/female_voice_6_greeting_2.mp3
+SHA1-Digest: o5xb/1Rm25n88coMypqR0gG8Ij0=
+
+Name: assets/newpopup/position_bt_1.png
+SHA1-Digest: +p5i0Ge3fl+t4AgPsWl7YU8LBcc=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_man6.png
+SHA1-Digest: RxEizO622oVf4Rhi4EuFaRmvWr0=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_flower1.png
+SHA1-Digest: VRpvrHhfHtzU3taemCSGL83BtkU=
+
+Name: assets/newmenu/shop/shopitem_numfont_gold/shop_icon_gold_9.png
+SHA1-Digest: OhLrcJNH01P6IDP0fdeRCxZVJBQ=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 1BuFFGqXKd2oLlGoMWaCcT0oFug=
+
+Name: assets/sound/ButtonClick.mp3
+SHA1-Digest: UvnXrwvroL940x8svaaBxh85+0g=
+
+Name: assets/newpopup/pae_using.png
+SHA1-Digest: Wp0n2m3Gq4v84WlYjiQ6RazJPsQ=
+
+Name: assets/newpopup/popup_4.png
+SHA1-Digest: lKLURBlaPSX6slY8k18mhTxC7Zs=
+
+Name: assets/languagetext/oddsview/rich/rich_Language_kor_oddsviewlist
+ .xml
+SHA1-Digest: v6EaJhPsOt6jcfr/PjbxUCwnjZE=
+
+Name: assets/newgame/pae/tile_font/bigtile_font_classic.plist
+SHA1-Digest: XLRaG0AiCvdCuq3RghXOgpaIJk8=
+
+Name: assets/select/select_rich_majak_btn_5.png
+SHA1-Digest: sOikxdKxXsMFWUAeaBWoOGiSq6U=
+
+Name: assets/select/china_select_solo_btn_1.png
+SHA1-Digest: w+ClQlAyy2JfRxPXVPQ8YcOKyFM=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_man5.png
+SHA1-Digest: G6JXYMCocfMYjwnaIjZQeXHIWO4=
+
+Name: assets/newlobby/china_tab_2_2.png
+SHA1-Digest: MnUed0SkMZ3BUOYCiMfoJfq2MBo=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_right.png
+SHA1-Digest: tA9Y0M3YuV5b8K4pcE8UEVItXi4=
+
+Name: assets/newgame/gamebutton/game_leave_cancel_btn_n.png
+SHA1-Digest: bo5GsB1ud2haf/3AjGWk8vZtuPs=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_buk.png
+SHA1-Digest: 5UR+PAqyCnVo0u0u7LLsuj6s17g=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_flower8.png
+SHA1-Digest: 27P2ggv+toD46MQCzrjY/ilKjHw=
+
+Name: assets/newpopup/lucky_chance_bt_1.png
+SHA1-Digest: vJAEpcTnXY7/Zh9GnefbP/d0h6s=
+
+Name: assets/sound/paesound/voice_man_2.mp3
+SHA1-Digest: e618VstLC6uSsf+3D1lwKAlM5Po=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_vup_questtio
+ n.png
+SHA1-Digest: MlCrA2DoG7C0YotwT3BfO9FQz6Q=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: gYO3j5LmBkgXdp/IHUPrr1NsIss=
+
+Name: assets/newgame/gamebutton/game_chuck2_btn_p.png
+SHA1-Digest: XxDd0hWOMZ7N5wZ3UH8eAxyvOqs=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_hup_r_bg.png
+SHA1-Digest: bsCCv9G9zHXLKBUUOJME98Iq9Ws=
+
+Name: assets/newpopup/jokbo_btn_1_2.png
+SHA1-Digest: z1upoZgN5wU2bEPBwkYVV8CxGjM=
+
+Name: assets/titlenickname/level_icon_3.png
+SHA1-Digest: 7ski7lyh100E9PKuS7hnrhYLYzc=
+
+Name: res/drawable-mdpi-v4/powered_by_google_dark.png
+SHA1-Digest: SYwxuihJgUaoyjHCQQvZHUzSvgw=
+
+Name: assets/newmenu/ranking/rank_ilst.png
+SHA1-Digest: Im9EhhlD10ZHOLOmNSK5PHwNcnU=
+
+Name: assets/screenshot/screen5.png
+SHA1-Digest: YJ05Ey9TDFDdqZZbpcrKvqisJ5s=
+
+Name: assets/newgame/turnbutton/discard/majak_new_discard_btn_p.png
+SHA1-Digest: 7mBCK3xfCGxGRK5UpuepblNDcYM=
+
+Name: assets/sound/female_voice_6_greeting_6.mp3
+SHA1-Digest: tNcfHANKgLdxRUdTGglFIJWgiQs=
+
+Name: assets/sound/female_voice_4_greeting_5.mp3
+SHA1-Digest: 5M1hiWdENXB2LRVEmKkYc8fe3vs=
+
+Name: assets/dicescene/directionfont/eng/eng_directionfont_3.png
+SHA1-Digest: oseiQ5BvRS+p4WBRrl0Gw1LBGOQ=
+
+Name: assets/newpopup/callsetting_btn_1.png
+SHA1-Digest: M0YD6On3rn7UaIGKUkLzXnbQZTc=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_man5.png
+SHA1-Digest: K3L6AoCOt/35fCJQrpUjIgY9ETA=
+
+Name: assets/newmenu/shop/china_gold_tab_1.png
+SHA1-Digest: O10IUn4qO936MRWZ3OEGrVIU0H0=
+
+Name: assets/newgame/gamebutton/message_bt_1.png
+SHA1-Digest: elN5E5t3fLnwb/CFm1L5Q+ql13Q=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_tong1.png
+SHA1-Digest: KWOIqXRmSiokBEiSa/Exaxi7Aok=
+
+Name: assets/select/tutorial_basic_btn_2.png
+SHA1-Digest: xa4f4qvVGv+XI4IV7g+/ffRaTtw=
+
+Name: assets/common/japan_closeback_down.png
+SHA1-Digest: t5uYutppl8eafzP+wVLDgebV3Ko=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_tong5.png
+SHA1-Digest: a3IUguAzWhZ+//I5G4iubOf9sMY=
+
+Name: assets/loading/loading.png
+SHA1-Digest: hZQ2X0U0KjUVT4HWofttwO865PM=
+
+Name: assets/rich_script_helpdlg.xml
+SHA1-Digest: RcRNRQjWGb5sotpeLUMJLCDYmLg=
+
+Name: assets/sound/paesound/rich_voice_chi.mp3
+SHA1-Digest: t4pCSjf0SaZqeGzTcnYTfrTEzM0=
+
+Name: assets/newpopup/join_privacy_btn_1.png
+SHA1-Digest: 6GJ5P8ixoD2rz0EfRODQ7C0tKyI=
+
+Name: assets/newpopup/popup_3.png
+SHA1-Digest: 4C7Dg5o79jEVi5oINwYaAYlQzFo=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: 3Cm8nhJcFA+BRyvYi9o9mdskUFM=
+
+Name: assets/newgame/gamebutton/game_end_bt_1.png
+SHA1-Digest: 0cSGs7StaPhDN6lz0S+DCtwQ2Gg=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_man4.png
+SHA1-Digest: UGT+7CcwWv4zVIosYbBViVFXS8E=
+
+Name: assets/newpopup/result_china_jokbo_2.png
+SHA1-Digest: nJpdLdH9f3bXGClHLMezTNH/FIw=
+
+Name: assets/titlenickname/level_icon_1.png
+SHA1-Digest: B0P0mjMDj9a/Ci26z7OJnfPwV+s=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_red_man5.png
+SHA1-Digest: P94xZIjnh4/b+2//FqLjKv8nWhA=
+
+Name: assets/newavatar/select/select_avata_004.png
+SHA1-Digest: MwQTxfLuU0e68EGzzNolnoUE4sI=
+
+Name: assets/newgame/drawmsg/game_drawmsg_4.png
+SHA1-Digest: ITOZu4NXQLApOVjA5f2xT7U/9hE=
+
+Name: assets/newmenu/helpsub/help_10_01.png
+SHA1-Digest: Hn8/BFeyliUd8GEpoXFCeECdr5s=
+
+Name: assets/newtutorial/tutorial_china.png
+SHA1-Digest: RrOhjxOKA3IE4ozPtjXtS5lEHKQ=
+
+Name: assets/sound/male_voice_1_hi_2.mp3
+SHA1-Digest: ccQHiLBPyPWaUMerVnUJsDLbdrI=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_hon.png
+SHA1-Digest: UaXiv+4YawNTRi6zqXmooM6Dew8=
+
+Name: assets/newmenu/ranking/icon_rank_3.png
+SHA1-Digest: wy5G2ppAwA13F6zmd8VrU6ckZlw=
+
+Name: assets/color_gray.fsh
+SHA1-Digest: yqfhXPgWCS6TcZbXOtVhOlX7SgQ=
+
+Name: assets/newgame/my_info.png
+SHA1-Digest: 4hPu/MCzIYM5VF9DgAL1Z50cQFc=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_dong.png
+SHA1-Digest: Rt61LEqwyQMLDWzqJq8TVWtYbwc=
+
+Name: assets/Language_kor.xml
+SHA1-Digest: aDeYJhNsN/SJCEDfpY8cQqY6POw=
+
+Name: assets/newavatar/select/avata_select_img.png
+SHA1-Digest: ces1893EpSGq4nMT8NX6woh77KY=
+
+Name: assets/newgame/majak_warning_openrich_icon.png
+SHA1-Digest: jd1/ioinDvnQqT+2FssVSBZLQVQ=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_sak1.png
+SHA1-Digest: d1nrietKmCEc5BwCF0i5XWgmHwY=
+
+Name: assets/newmenu/helpsub/help_01_02.png
+SHA1-Digest: sSyUCx2/dc4f7gNdM56zpcjrMuE=
+
+Name: assets/newgame/gamebutton/invite_bt_2.png
+SHA1-Digest: E5XkW3LvkXUAjcuWlSzF4J1a3V4=
+
+Name: assets/newgame/side_btn_bg.png
+SHA1-Digest: EFIq8AEXhFpyeHNHE4+TCUo69I0=
+
+Name: assets/newpopup/majak_join_check_2.png
+SHA1-Digest: 38ECbhTjxG69CQwyxExi2lFMWW4=
+
+Name: assets/newgame/richmark/richmark_up_ready.png
+SHA1-Digest: IBV8B1M0iedK9Eoza/zWkO+1e7I=
+
+Name: assets/newlobby/myinfp_btn_n.png
+SHA1-Digest: 5E0Sxyp+D72b3Ui2AGfthq5DMe8=
+
+Name: assets/sound/female_voice_5_greeting_6.mp3
+SHA1-Digest: MuK4+jhDCPDV4kVM/55bFbfRrXM=
+
+Name: assets/sound/33.mp3
+SHA1-Digest: 2wGGiNDbVvs+RnoRf51pbO1Q+Ew=
+
+Name: res/drawable-hdpi-v4/list_box_p.9.png
+SHA1-Digest: Nnl0rtQ/AL0mcYphik7y5mLwvQE=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_baek.png
+SHA1-Digest: U4pZOZH42EzCMAwIJo/NWbFNfk0=
+
+Name: assets/newpopup/myinfo_img.png
+SHA1-Digest: YbdmiNs5QUjOUX37ImvR25DvgIs=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_man5.png
+SHA1-Digest: nLtkIU0hsGGuryv20HftZiBunEI=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_tong1.png
+SHA1-Digest: ansTlAmt9vcOqI8iWTUqBAjtFeY=
+
+Name: assets/newpopup/join_check_box.png
+SHA1-Digest: +rZ/ycMh+rWEIwUyez89RDiOFmc=
+
+Name: assets/newgame/center_wind/center_windmark_china_0.png
+SHA1-Digest: e4eP74JUW2KcVJS20dczYqY7hGs=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_sak6.png
+SHA1-Digest: UblK0YjbkOWSazDnpuMQ+QSW4JY=
+
+Name: res/drawable-hdpi-v4/powered_by_google_light.png
+SHA1-Digest: 1p8HkYSQc6asTjUOCQeAiFfr8oU=
+
+Name: assets/china_script_helpdlg.xml
+SHA1-Digest: ylJawygH5BGNt1D/vYjofBpS6mU=
+
+Name: assets/sound/paesound/voice_tong_8.mp3
+SHA1-Digest: Mc+TsOohreoXtwR2v5Y7UcasgQo=
+
+Name: assets/newtitle/title_bg.png
+SHA1-Digest: Yy2a307nMln7DRUfhE1sPANHlfc=
+
+Name: res/drawable/btn_close.xml
+SHA1-Digest: 7uaLo6I3Em7OZm9M+O0c+DcC5dE=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_flower2.png
+SHA1-Digest: Oc/TyjjiEje2qqKr2TY7Y0phDfw=
+
+Name: assets/newpopup/lucky_chance_bt_2.png
+SHA1-Digest: RcVuYTELXgHh+wYR360YBZoDHsw=
+
+Name: assets/screenshot/screen8.png
+SHA1-Digest: 4FcI/CoIELGSmzvlb29nVIj+hM4=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 92pHkmawW9x95wDQw6uvTZBRXkQ=
+
+Name: assets/newmenu/shop/shopitem_numfont/shop_icon_0.png
+SHA1-Digest: ItBsKAqsK3m+0i1y5vtz+Pg2Z6Y=
+
+Name: assets/sound/paesound/voice_won_jung.mp3
+SHA1-Digest: UNDHgtok06ww6G+0XryqOluON0c=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 8t8fYpBPxPeFuWeBGdYiV/u6+vM=
+
+Name: assets/sound/paesound/voice_man_3.mp3
+SHA1-Digest: cVRN2jAd4XYCuNvk+4UHtpvVKdI=
+
+Name: assets/sound/female_voice_6_greeting_3.mp3
+SHA1-Digest: 1j2AOesNJLeWkkqbFu2Sum6hhgA=
+
+Name: assets/newmenu/help/help_list_1_2.png
+SHA1-Digest: c81mErh7DhRp0FfXrGD6KI8LMBU=
+
+Name: assets/newavatar/select/select_avata_105.png
+SHA1-Digest: sB9H7BAm7fvNAHU+TAlQ0/yF/28=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_up_bg2.png
+SHA1-Digest: TapZndlUGeqAwCxeoJWqgKPu/2Y=
+
+Name: assets/newpopup/majakroom_bg.png
+SHA1-Digest: qk4dboLI2+xhHghZSDiocAf8oNE=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_left.png
+SHA1-Digest: eW3BnK/TvzMsVsYTEgARbWp+xxk=
+
+Name: assets/newgame/pae/tile_back/style_03/starttile_hdown.png
+SHA1-Digest: zZwKFMPQ7Z1GrMxH1dbyJ0TVwy8=
+
+Name: res/drawable-hdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: +MXoS6atuMMcHxqY84uj7+vXdxU=
+
+Name: assets/newpractice/china_rule_btn_4_1.png
+SHA1-Digest: 1ffIcbF/HIGHgWYlPUSelQklVzU=
+
+Name: assets/newgame/gamebutton/game_chuck3_btn_n.png
+SHA1-Digest: kiX3EN1Y8rfUB38q0wzN/yGAYpw=
+
+Name: assets/languagetext/helpdlg/rich/rich_language_helpdlg_eng.xml
+SHA1-Digest: GeEf7qL1BMPglqJPobwUYJWUlSs=
+
+Name: assets/sound/DiceStop.mp3
+SHA1-Digest: NnGYNCz/AnNlxIkmhepYrSdNR2c=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: i+/EFomh+rU2SDvzXqiS6Gs3d6k=
+
+Name: assets/newpopup/popup_2.png
+SHA1-Digest: w+QbxZbb6+9NCkf0S4z+brpmUCI=
+
+Name: assets/newpopup/result_game_main_bt_2.png
+SHA1-Digest: GvYJVVWHCT2dQjoqEvmFgTl6nA0=
+
+Name: res/layout/offerwall_footer.xml
+SHA1-Digest: e0esdK9keM38bJHwpNrIlt7Mtww=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_man7.png
+SHA1-Digest: 9yU44mHSqEGpKUiyk3gI3vjyTEo=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_tong8.png
+SHA1-Digest: GqRxQ07IsoRzwACAKl6ok2S2rCc=
+
+Name: assets/newmenu/shop/gold_tab_1.png
+SHA1-Digest: ZF3HOnqgKWPONBrFdedYtgFr/8U=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_tong9.png
+SHA1-Digest: ZS4NMJS32dbL70n9Qu4y3rbn3kk=
+
+Name: assets/newpopup/result_china_jokbo_1.png
+SHA1-Digest: hoLwdM0UDvcpEFx5QSpEJHS/Zqw=
+
+Name: assets/sound/male_voice_2_slotwin.mp3
+SHA1-Digest: DgxSbkBhl03cvkrPtHgTm+PUsog=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_man3.png
+SHA1-Digest: LWLl8M4dIUaoJNg+0hg/SILnMo0=
+
+Name: assets/newpopup/invite_bt_2.png
+SHA1-Digest: E5XkW3LvkXUAjcuWlSzF4J1a3V4=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_light.9.p
+ ng
+SHA1-Digest: M/AuBUDrasZr5kX0EObwl5+LiN8=
+
+Name: assets/newgame/alpha.png
+SHA1-Digest: lapnyursEwcRlcMQt5DeiJ4XErs=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_front_bg.png
+SHA1-Digest: DEte2tVxXnMNmc0kQrLlf0R3FII=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_sak5_dora.png
+SHA1-Digest: 1IAk7Cy+c9fmjoIydrrbKzWPt68=
+
+Name: assets/screenshot/screen6.png
+SHA1-Digest: 2mS6H7IMXUP66muiWsrhWFcX4FA=
+
+Name: assets/newavatar/select/select_avata_005.png
+SHA1-Digest: y+YHojEJHQKFLUcIxslFbP5S99E=
+
+Name: assets/select/tutorial_basic_btn_1.png
+SHA1-Digest: 9DN0GSmo90UHjLXXOXi9ne7VOtc=
+
+Name: assets/newpopup/callsetting_btn_2.png
+SHA1-Digest: B4+rpwoioNsXjTIAbs7tqeT7yxQ=
+
+Name: assets/newgame/battery_bg.png
+SHA1-Digest: xYmsKeapsOSfYzal7wvJwC46vZA=
+
+Name: assets/newlobby/menu_setting2_btn_n.png
+SHA1-Digest: kPWBNA7emVVVgDSEkImPkvjq0BQ=
+
+Name: assets/newlobby/chinagame_go_btn_p.png
+SHA1-Digest: F1bIPtF53ba8EjAGBoMvw+HRIeQ=
+
+Name: assets/sound/paesound/voice_tong_9.mp3
+SHA1-Digest: T9Zig/S0LJeXHz+pUecU4kaYx2g=
+
+Name: assets/newtutorial/tutorial_basic.png
+SHA1-Digest: C4WqPLIJctUimAf2djq5Mqv2z2A=
+
+Name: assets/newgame/drawmsg/game_drawmsg_3.png
+SHA1-Digest: 9jMQiNJ8Epv8T5fhb18sX9x28g8=
+
+Name: assets/titlenickname/level_icon_18.png
+SHA1-Digest: bLvvXDMKlg3LrS28IBid3+gmdTI=
+
+Name: assets/languagetext/script_language_tutorial_eng.xml
+SHA1-Digest: iGY5j+mEBmo43ENDuaRn2nABZGs=
+
+Name: assets/newgame/gamebutton/game_end_bt_2.png
+SHA1-Digest: 8OHUbZudtrNtZk/wTR0U0E/x1OQ=
+
+Name: assets/newlobby/menu_setting1_btn_p.png
+SHA1-Digest: KDc6buv7zQAsMsexIBaqV/FFx5s=
+
+Name: assets/newgame/fontwind/gamewind_south.png
+SHA1-Digest: atXcQHu3jhdyUgNnhMz72V70Xww=
+
+Name: assets/newpopup/join_idcheck_btn_1.png
+SHA1-Digest: Za62XjXINMPHKqC9D7kRkqGsYNI=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_hup_r_bg.png
+SHA1-Digest: n8sOsYU8kPKaoAOmE9qHeql3p3Q=
+
+Name: assets/newmenu/myitem/change_bt_2.png
+SHA1-Digest: 7h+4VYnPaCMS+n/mmEg4pyhZY3Y=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: qUes7E1WY2JY7Fd6HKCYNy966/o=
+
+Name: assets/newgame/richmark/richmark_right_ready.png
+SHA1-Digest: qFxnXeG+te4LvplXC2VBs76YAn4=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_left_madeback.png
+SHA1-Digest: mO/iVyiZQobQsoN8LryI7I0z59w=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/starttile_vdown.p
+ ng
+SHA1-Digest: 3ZedYfnyJeEzSzbAg63tc2hU7Z4=
+
+Name: assets/newpopup/setting_contents.png
+SHA1-Digest: MVqR4T33dussJN4h3sKGauZylQM=
+
+Name: assets/sound/female_voice_4_greeting_6.mp3
+SHA1-Digest: KS25US+zq4nMrGpSeom+N7xubAc=
+
+Name: assets/sound/male_voice_1_hi_1.mp3
+SHA1-Digest: Qlw2Y61P4FY6O+tP1S46p+zOV40=
+
+Name: res/drawable-hdpi-v4/common_ic_googleplayservices.png
+SHA1-Digest: lA5x0AVs/scv9cFuTFOJpyLVdR8=
+
+Name: assets/newpopup/close_btn_p.png
+SHA1-Digest: b3pSGn4qM2q1FmltkhlEA6tpuJs=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_tong6.png
+SHA1-Digest: Odsh3ffGdQK9pHaVlRDD2tuktwo=
+
+Name: assets/newlobby/richgame_go_btn_n.png
+SHA1-Digest: GX0dOoMtb42xmX6OSjoi3cnQx9Y=
+
+Name: res/layout/unityads_button_audio_toggle.xml
+SHA1-Digest: LujjEXmPUu6kqdNGqjG4t2Y2zzY=
+
+Name: assets/dicescene/directionfont/eng/eng_directionfont_4.png
+SHA1-Digest: xBX52V5Em9FC98UwrrdAx6csWyo=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_man4.png
+SHA1-Digest: EWph/3fYp7O4qAo7RJOo8PrituA=
+
+Name: assets/newgame/result_win_img.png
+SHA1-Digest: Y2wHvUpvya9T+tNyphwX8u00Q2E=
+
+Name: assets/newgame/multi_result_credit_allin.png
+SHA1-Digest: 1CEFVQSYHQGdJnhiuJ5g/x2mEPI=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: 4LnPZ0EIh2yTqhOvCTdrDYEF9vg=
+
+Name: assets/sound/female_voice_5_greeting_5.mp3
+SHA1-Digest: o2ZdLnyHoj+vm9VHTPPS/zkYEik=
+
+Name: assets/newmenu/myitem/change_bt_1.png
+SHA1-Digest: 2JtotfhV9pt04rcwDJ0eNYIKQxI=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_light.9.pn
+ g
+SHA1-Digest: +qORW9oS7s5/oY5Z1R4KkQ+aJ1g=
+
+Name: assets/newgame/japan_multiui_result_back_win.png
+SHA1-Digest: nWjOAjCzfFXarVdmLX9RbWiEkRQ=
+
+Name: assets/newpopup/popup_yes_bt_1.png
+SHA1-Digest: Aexdgz7dSB49QL2N6tZ47o3O8zw=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_hup_bg.png
+SHA1-Digest: vcZrnSadPDu1VH+HxBXKSAeSkvY=
+
+Name: res/drawable-xhdpi-v4/powered_by_google_light.png
+SHA1-Digest: 1PCeD4X7eVLdr2+EB4poVTq1PZw=
+
+Name: assets/newgame/center_wind/center_windmark_china_1.png
+SHA1-Digest: Qm6yUX+he7TVURQ3gMngsN73lqY=
+
+Name: assets/newmenu/ranking/icon_rank_1.png
+SHA1-Digest: JdvpkQ8z2HTgbLhIbYl3V/NNDfI=
+
+Name: assets/newmenu/helpsub/help_01_03.png
+SHA1-Digest: t36mlrLDGxPNoVpHSwTlGu3FYKI=
+
+Name: assets/newgame/gamebutton/game_leave_reservation_btn_p.png
+SHA1-Digest: aHEXj9RpDWff1Nb3ifvPYA1IYt8=
+
+Name: assets/newgame/majak_talk_icon.png
+SHA1-Digest: WFGuBWFP2hUDqYNNYymvh+Grd/k=
+
+Name: assets/languagetext/Language_jpn_helpgameplay.xml
+SHA1-Digest: WDxD1cx9iQJPSeUYKiOsA8VEPMg=
+
+Name: assets/newmenu/shop/shopitem_numfont/shop_icon_1.png
+SHA1-Digest: iswzF/DabAl6bt2oi7GVBWICy48=
+
+Name: res/drawable/btn_close_detail.xml
+SHA1-Digest: OlM1gncbHIAew/jNm/jn/3yx9Mk=
+
+Name: assets/newgame/pae/samplepae.png
+SHA1-Digest: EH+esWXHO0Q1I/xbbtELi96cR24=
+
+Name: assets/newpopup/ad_img_2.png
+SHA1-Digest: tLgeSCWwyAHpI4VkGkGtgEfimm8=
+
+Name: assets/newgame/gamebutton/game_chuck2_btn_n.png
+SHA1-Digest: HQQDfsdCClfJ/Tb5LuxZ89KMhlE=
+
+Name: assets/newmenu/help/help_list_1_1.png
+SHA1-Digest: bMfSGsRoAJoyuxpWv2mjwEol7xg=
+
+Name: assets/newpopup/majak_join_check_1.png
+SHA1-Digest: R6zzA1wpdijCO55v6quzaS5D8SE=
+
+Name: assets/sound/paesound/voice_man_4.mp3
+SHA1-Digest: PG4ij+ZMhHMajR/P20AvII/1ick=
+
+Name: assets/sound/female_voice_6_greeting_4.mp3
+SHA1-Digest: i47RwMVswqp7yQixEOTEjn4YErQ=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_sak7.png
+SHA1-Digest: IwctcvgifoOZG/uHj342lzsPiEA=
+
+Name: assets/newtitle/lighting_img.png
+SHA1-Digest: nB83DwZq37gs4P7ZpLoK2PwrWd4=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_bal.png
+SHA1-Digest: oyhN/uT1eIHPqSJw42vNjIkNGx8=
+
+Name: assets/screenshot/screen7.png
+SHA1-Digest: +frO3Bet07ONRwNkRdW6aWMJ//s=
+
+Name: assets/sound/male_voice_4_hi_2.mp3
+SHA1-Digest: LH/g/zdQvHFv0nT8nCBTY2OwCAM=
+
+Name: assets/common/message/msg_hwa.png
+SHA1-Digest: JBAQsCuBR/sPDJGNvrxhtmFNt7o=
+
+Name: assets/newavatar/select/select_avata_106.png
+SHA1-Digest: qxKZfX+384vqQDFdKDRiu9dvRwI=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_tong7.png
+SHA1-Digest: C5dvnrslb52LtHRXC0EHSkfHCNU=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_man4.png
+SHA1-Digest: HNCjMveiFIziCS19L5Ap8Ozaqd8=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_flower3.png
+SHA1-Digest: AWKKMEmr5vgKXeQfO6vPxL/DQUM=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_vup_bg.png
+SHA1-Digest: 6jninZnu+lBIc2y1nIZHDBKktlc=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: +W21ZNQRN0oDMKb9p9oNUq/o5as=
+
+Name: assets/newmenu/helpsub/help_06_02.png
+SHA1-Digest: ISDw/A6g0imEdQwwJRNStshJWRQ=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_man6.png
+SHA1-Digest: lDfSpjQ14J5hID3j7dpZiVL8bxU=
+
+Name: classes.dex
+SHA1-Digest: p5IgxJputNoUaxu94NoLi4jqPrM=
+
+Name: assets/sound/paesound/voice_pung_seo.mp3
+SHA1-Digest: vOrywbAiZBacRJrdaGeCz22cOsE=
+
+Name: assets/newpractice/rich_rule_btn_1_2.png
+SHA1-Digest: JMu+n2FUzLPIZfOqvw9cl0ubGKc=
+
+Name: assets/sound/12.mp3
+SHA1-Digest: xoV0HYlnaHpkvlofyWh5YXEVhUI=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_seo.png
+SHA1-Digest: waDrebcjvwh2zIEMCgWBT9n0tIU=
+
+Name: assets/common/normal_box/normal_white_box_top.png
+SHA1-Digest: 80y11HvtbGZ4iXYvykRVFcA7hjU=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_flower4.png
+SHA1-Digest: fie++qbYRLtbYSvKoR4tIvuCfp8=
+
+Name: assets/common/japan_closeback_up.png
+SHA1-Digest: RR2/E9XCKTyKyLu3wxSv45/7MJk=
+
+Name: assets/newavatar/select/select_avata_006.png
+SHA1-Digest: P1x++NGxXKCyBQ6dLz/lh2lKwYI=
+
+Name: assets/sound/20.mp3
+SHA1-Digest: HfnFlfKy5yQ9RAO4KApCvguXMB8=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_sak9.png
+SHA1-Digest: +dSdmeFOKiKh4DJPvonU4zj+tcM=
+
+Name: assets/newgame/user_info.png
+SHA1-Digest: ZMwJA6nsqBucgXMYWhDyBOu0sY0=
+
+Name: assets/common/numfont/numfont001.png
+SHA1-Digest: Rp4WwjsLcRpG+1OHoT7qwKkLt/U=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_right.png
+SHA1-Digest: Hh77YxWhkW/PqYWa/NiTOdh9AbE=
+
+Name: assets/newgame/fontwind/gamewind_north.png
+SHA1-Digest: iAAO4WtALlRuanMeJq3ewjfKsdo=
+
+Name: assets/sound/male_voice_5_greeting_4.mp3
+SHA1-Digest: Jpiq6Pyv42L2KHSHI2xO53VCjIw=
+
+Name: res/drawable-xhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: psVwTFCoE8L/YbYPXiTtAelEWs8=
+
+Name: assets/newgame/gamebutton/game_chuck3_btn_p.png
+SHA1-Digest: wtVd9LSCwhIaMH+NN+unzdKZd1U=
+
+Name: assets/newgame/turnbutton/discard/discard_2_over.png
+SHA1-Digest: xxhmlO/J6L5eFQ+qgAgPSDXmGxw=
+
+Name: assets/newpopup/limit_setting_bt_n.png
+SHA1-Digest: iMu6OvdlEqQG0YY17lt8zpahsq8=
+
+Name: assets/newavatar/select/select_avata_103.png
+SHA1-Digest: oKOIBBRZQpgGEl6YQLpMgg/O9Og=
+
+Name: assets/newgame/flower/userui_flower_button_00_1.png
+SHA1-Digest: r1ysJMJVhma/O/JAYJPNCj6sLPw=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_dong.png
+SHA1-Digest: cPnt8yR8yUpV0hJWwphr5F69k4Q=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_man9.png
+SHA1-Digest: m86ebbE4Q1g8N3sxQWFWtepBZtY=
+
+Name: assets/newpopup/majakroom_bt_4_2.png
+SHA1-Digest: w9APiddIpdf0AlkWOShA3zP69ZQ=
+
+Name: res/drawable-mdpi-v4/powered_by_google_light.png
+SHA1-Digest: ZTHLPZe63ATwVGAlXju4hnecsME=
+
+Name: assets/sound/HelpBox.mp3
+SHA1-Digest: jB9hH/EIRaEd9jVZYamyih74beU=
+
+Name: assets/newpopup/result_vsgame_bt_1.png
+SHA1-Digest: HPM2QWyB52eAgK+QM4FIKOmWi7w=
+
+Name: assets/sound/male_voice_3_greeting_3.mp3
+SHA1-Digest: c1+sAxYlcdWlAQTEw9OASnCnAu0=
+
+Name: assets/newlobby/china_majakpan.png
+SHA1-Digest: ZGckBOAHzzWlJicOQCGOjEWid5Y=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_tong7.png
+SHA1-Digest: Kl2bOr7/0guDig3aV92bwhLAbIo=
+
+Name: assets/newmenu/ranking/rank_bg_img.png
+SHA1-Digest: 8goA1wn3UguAhtX4qRXq/OeFkg8=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_man7.png
+SHA1-Digest: eeArSdpMshT37RpgnR+fuiooCwU=
+
+Name: assets/newmenu/shop/shop_icon_pae.png
+SHA1-Digest: WSoE8tD1PbRk9p3wIRvYi2guMtk=
+
+Name: assets/newmenu/shop/buy_not_img.png
+SHA1-Digest: N+gIOJ6dAeuJu+l8G/NnVyWlgZQ=
+
+Name: resources.arsc
+SHA1-Digest: wUa+QNkHsEPNi7k9KL3t/Ts+DHU=
+
+Name: assets/sound/male_voice_1_greeting_2.mp3
+SHA1-Digest: qyb+Lkfpa7qr8Uk7r/IwTU0IgjI=
+
+Name: assets/select/rich_select_study_btn_1.png
+SHA1-Digest: HZkM3BoiLMcFW0sA+FXOAH8zET0=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_vdown.png
+SHA1-Digest: TOhjIS9C3OWOH0aYSnR/y0jHIJw=
+
+Name: assets/select/rich_select_online_btn_2.png
+SHA1-Digest: ZKNKSOlhYeN7IAP+5JwxiPno0Pw=
+
+Name: assets/common/bg_image_3.png
+SHA1-Digest: kA0rFQURBetZc5aG1RhE69IflBw=
+
+Name: res/drawable/unityads_icon_play.xml
+SHA1-Digest: BHhEDGjJGMi7EtpYMS+GY+7Ggew=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_back2.png
+SHA1-Digest: xSKEwo4M6i02S9jRSvJuuJn+tBQ=
+
+Name: res/color/common_signin_btn_text_light.xml
+SHA1-Digest: o3q47H5Zep0hrdd4aW12qnnDVl0=
+
+Name: assets/newgame/gamebutton/chatting_btn2_p.png
+SHA1-Digest: otGS1cYU9c7za0TodRcX4jAYqGQ=
+
+Name: assets/select/select_china_majak_btn_3.png
+SHA1-Digest: CwrTMaSWtKHnJD5EhwfZf0RXRnw=
+
+Name: assets/sound/female_voice_1_greeting_2.mp3
+SHA1-Digest: aE1RTEaQPQPUJYQoumzCBUn36lM=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_baek.png
+SHA1-Digest: aoD7sI7FwTIi6dEbCSiJYaQSp+Q=
+
+Name: assets/newgame/pae/tile_font/bigtile_font_rich.png
+SHA1-Digest: Sra5xjLjKV1nmVufurvwJ8JU/zk=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_light.9.pn
+ g
+SHA1-Digest: 3HfwPsjLviH2l+Y6Y2gzjT6yxBM=
+
+Name: assets/common/setting_fix.png
+SHA1-Digest: B7vvvibDtBaSleeD7OHzXtsiyKE=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_front_bg2.png
+SHA1-Digest: XrSW8RmBwVvE9j69tgqYQd/wyEo=
+
+Name: assets/newpopup/connect_black_box.png
+SHA1-Digest: K1wbWbGriKfK08mv5tupcW19JG8=
+
+Name: assets/sound/paesound/voice_man_5.mp3
+SHA1-Digest: u7Sg1HQjPYKTxwH5tBFtxIMRQ1o=
+
+Name: assets/select/first_select_btn_4.png
+SHA1-Digest: hMDXZanhVzhF56QfIZ6cjtso3ew=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_front_bg.png
+SHA1-Digest: xRXLkNx92ZmQhA5Hg7Er6ETVbF4=
+
+Name: assets/newpopup/setting_check_2.png
+SHA1-Digest: 9l0zoAKcOweaii3srbK41dMMzPo=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_man2.png
+SHA1-Digest: lyjtK6cnDoGBfCKjM7VvVBBVr4M=
+
+Name: assets/rich_script_oddsview.xml
+SHA1-Digest: N/gqn25xeCC9Ikj/9vodX5QR16M=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_tong4.png
+SHA1-Digest: Fi4ljgwctke1us8pqeY2iTizJt4=
+
+Name: assets/newlobby/menu_rank2_btn_n.png
+SHA1-Digest: mQKQud+UrFC8/UgS+lanW6LStNk=
+
+Name: assets/newmenu/shop/pae_tab_2_1.png
+SHA1-Digest: 4OOEd0vSRV3nC40NwONR1PZfVbU=
+
+Name: assets/newgame/flower/userui_flower_button_05_1.png
+SHA1-Digest: 0K61raPgZ4coAbYiSWWg3Y3lf6s=
+
+Name: assets/newlobby/rich_majakpan.png
+SHA1-Digest: tAI5Aer9+NRk0lLAAXoHqTpbffs=
+
+Name: assets/dicescene/directionfont/directionfont_2.png
+SHA1-Digest: FyyojAQSSxjKJe/MXRtmnlbnlCA=
+
+Name: assets/newpractice/rich_rule_described.png
+SHA1-Digest: Ul4BghaZZ6SMT/65WdtsmaeIPF0=
+
+Name: assets/newpopup/jokbo_btn_2_1.png
+SHA1-Digest: m1c9/lLw4BdViWFZ5yUK9DSzuJw=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_tong3.png
+SHA1-Digest: XCglMjNbd2eUw6Z3ziWMmB9ZQ/g=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_man5.png
+SHA1-Digest: nJwjf7Zv5CZ53RnXjvgYlIVlYY8=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: pt2sGm+R9IKa/yNYVOguoJ1i7qI=
+
+Name: assets/newgame/invite_bg_1.png
+SHA1-Digest: D0pAAVics7iMAPgAk4FvwB17FBc=
+
+Name: assets/newlobby/menu_friend2_btn_p.png
+SHA1-Digest: tU8QyV8fk65fTxoDCCKUjjUyihk=
+
+Name: assets/titlenickname/level_icon_14.png
+SHA1-Digest: qEpWBLXcW9klJU3HMqBpV6TO/eI=
+
+Name: assets/newgame/richmark/richmark_left.png
+SHA1-Digest: dXJprFApi3zDkCQsSOr1vHbAIoo=
+
+Name: assets/sound/female_voice_2_hi_1.mp3
+SHA1-Digest: hJ1+H8CE+AZk2Zm/p9Le5PnNfRA=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_vdown2.png
+SHA1-Digest: rZI7XOI6AcZtcHDvLV10JLbbvs0=
+
+Name: assets/sound/female_voice_3_greeting_2.mp3
+SHA1-Digest: pNO48HmiEYwdGjHwWY9bz6WcxcI=
+
+Name: assets/sound/female_voice_5_greeting_4.mp3
+SHA1-Digest: ZWxjFMdTrffdsriOej0bLEWF90Y=
+
+Name: assets/sound/male_voice_5_hi_2.mp3
+SHA1-Digest: yLRFTm/F6WD2acPSDO3scKLU/Oc=
+
+Name: assets/dicescene/dice/dice_01.png
+SHA1-Digest: hpOUJ3zJXPM9NAkf/nvQFGQMJ6A=
+
+Name: assets/newpopup/authentication_bt_1.png
+SHA1-Digest: gmwq/t/q0LjWjEyvksrUj3tWtcE=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_sak6.png
+SHA1-Digest: uYNI5xPRhxqZOGujiPeX4FUCzd8=
+
+Name: assets/newavatar/majak_avata_000.png
+SHA1-Digest: uyP9fJ5bvM2FSqpdAcvrEOyeYVA=
+
+Name: assets/newgame/game_arrow_1.png
+SHA1-Digest: VdnbakUydOUXKCUVbGyO1kOux+E=
+
+Name: assets/newmenu/shop/money_list_2.png
+SHA1-Digest: ktGs7G75rsRgthCrQDETSSo9OSI=
+
+Name: assets/newlobby/menu_help2_btn_n.png
+SHA1-Digest: FuL3Cpu0ZCG/BQxR07VQlJUwXUY=
+
+Name: assets/newmenu/helpsub/help_08_02.png
+SHA1-Digest: ac/A+APwAdzp7++zRcMx/eyggHg=
+
+Name: assets/newgame/center_wind/center_windmark_china_2.png
+SHA1-Digest: zjlvmlh6bStIkorVLBIvswHMh3g=
+
+Name: assets/newgame/gamebutton/game_common_btn_1_3.png
+SHA1-Digest: vqsYm6CbvmWjXYUczENM5ViGyEA=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_vup_bg.png
+SHA1-Digest: XrPwTHch6fu5tWyXmKSrKUWQAC8=
+
+Name: assets/newlobby/free_btn_p.png
+SHA1-Digest: YnKyh9z5de85XRU3BlJi+udGXN4=
+
+Name: assets/newavatar/select/select_avata_104.png
+SHA1-Digest: aJ7REr0/F02fqiKqUmj8y/s2gcA=
+
+Name: assets/sound/male_voice_5_greeting_3.mp3
+SHA1-Digest: hGcH0zwhIkfC6EJIVgA/1YFzWtw=
+
+Name: assets/newtitle/taptostart_img.png
+SHA1-Digest: BA/slvI2BMld4ibDFE/yxbMbzIc=
+
+Name: assets/newpractice/start_btn_n.png
+SHA1-Digest: Vpzu/R7MqQP6mOaya/P9Oo5SK6k=
+
+Name: assets/sound/13.mp3
+SHA1-Digest: RldquYrApsXoil+LFlCZ3vD3CBo=
+
+Name: assets/languagetext/helpdlg/china/china_language_helpdlg_eng.xml
+SHA1-Digest: GeEf7qL1BMPglqJPobwUYJWUlSs=
+
+Name: assets/newpopup/jokbo_btn_2_2.png
+SHA1-Digest: psNnj8lBj1O85fHPZ0BLVU+Qh20=
+
+Name: assets/dicescene/directionfont/directionfont_1.png
+SHA1-Digest: 61y6zfpIzfoT7R6M3G4kcyr/3dk=
+
+Name: assets/newgame/flower/userui_flower_button_00_2.png
+SHA1-Digest: k9I2oBjrA7T2PKj9hj91aUZO4hs=
+
+Name: assets/newpractice/rich_rule_btn_1_1.png
+SHA1-Digest: 3qCnb0xbhNL6YKZD91QvgWnNrm8=
+
+Name: assets/sound/male_voice_3_greeting_2.mp3
+SHA1-Digest: 7Hi4Jru3TXRdUB1e4vXl85Ptba8=
+
+Name: assets/common/message/msg_rich.png
+SHA1-Digest: iy7Xlq25LfW3iaHxXn0POPPhxrM=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_man6.png
+SHA1-Digest: Fqo9ni01g0LCxsI6iaj4uGjPzO0=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_flower5.png
+SHA1-Digest: lQ2D6rYcQRb+9yvRlu4O7UV8y2U=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_light.9.p
+ ng
+SHA1-Digest: Jo7euj4LvkDv54RWdIWxYYLnMbg=
+
+Name: assets/newgame/invite_bg_2.png
+SHA1-Digest: UcytsmXR34Ajb5+v/xKilllJGEc=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: pt2sGm+R9IKa/yNYVOguoJ1i7qI=
+
+Name: assets/languagetext/helpdlg/china/china_language_helpdlg_kor.xml
+SHA1-Digest: 1Rr51QLvbuMFeQUjpYJVE2KHJUM=
+
+Name: assets/newpopup/majakroom_bt_4_1.png
+SHA1-Digest: zDH8fvrzRaMzXL/HHe5X2/N12oA=
+
+Name: assets/select/rich_select_online_btn_1.png
+SHA1-Digest: 8dPD0K1cQvQdrYyUwGArI78pLpw=
+
+Name: assets/sound/PaeSpread.mp3
+SHA1-Digest: d1hllQzsG57VIZ3eNnffkj1XlBg=
+
+Name: assets/newlobby/rich_tab_2_2.png
+SHA1-Digest: 1atNmiwXDB9oKeNRxcz23f+iDV4=
+
+Name: assets/newtitle/majak_title.png
+SHA1-Digest: upZ/xFM0+6vd6P544C/Ec88lVpA=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_tong5_dora.png
+SHA1-Digest: yQxQ58AKKWdZ4P6cU/fESLdV97s=
+
+Name: assets/newpopup/result_vsgame_bt_2.png
+SHA1-Digest: 7Qmbvx8TEpPZQRLEVeq7XQYidN0=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: D3OTzMV535uT6sXCK160AaIEUdI=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_sak4.png
+SHA1-Digest: 9tP+vkWHquwC0Xp8Hpb2kBL8UoM=
+
+Name: assets/newpractice/china_rule_btn_1_1.png
+SHA1-Digest: TYbZXf6upbciDZkA38V1c2qKyzU=
+
+Name: assets/sound/paesound/voice_man_6.mp3
+SHA1-Digest: ENa9kgiYoVx49Oo96kAofFciUng=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_tong3.png
+SHA1-Digest: b5MobUoGgAd8h+g85CWQ5V4IG4M=
+
+Name: assets/newmenu/shop/shop_buy_btn_1.png
+SHA1-Digest: rY+dnSvzNBFGDQtZJGhgGG3ailA=
+
+Name: assets/select/select_china_majak_btn_4.png
+SHA1-Digest: igawd54AD4q36rb7tmRO4EYhdgQ=
+
+Name: assets/newgame/fontcardnum/cardnumber_0.png
+SHA1-Digest: WBU9RRUT7qgkj3jcNeeofamMzd4=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_sak7.png
+SHA1-Digest: wo6RAoGpSufYXka0/z1aYWQQtmY=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_sak5.png
+SHA1-Digest: imQh8TGgsmj5nvdh6SvJ5TA7cSw=
+
+Name: res/drawable-hdpi-v4/btn_down_detail_p.9.png
+SHA1-Digest: t5+Jb32/9/zMIbeDlt5uEutTvFg=
+
+Name: assets/newgame/center_wind/center_windmark_china_3.png
+SHA1-Digest: y1b7xLIdr8ORjzaW+bYSJ8kppTQ=
+
+Name: assets/newgame/gamebutton/invite_room_push_1.png
+SHA1-Digest: kAHsRwUT1nqFjri81fZtWVVQsfE=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_00_back.png
+SHA1-Digest: T3/cOMUemy5Yd1GuJLj3zLlTUlU=
+
+Name: assets/newmenu/shop/pae_tab_2_2.png
+SHA1-Digest: JyVpPi+N5Z2iCYN5ZdRGZChSq+0=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_man4.png
+SHA1-Digest: TIqCOzORaVdD9hxIrxZnT5Z+QKo=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_hon.png
+SHA1-Digest: seEHd7rrX5arziwIxROEZwineUE=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_up_bg2.png
+SHA1-Digest: 9nE+DZN4gDypUIKUiZLFf361CD8=
+
+Name: assets/sound/ResultOn.mp3
+SHA1-Digest: qUe+FGD58EzhhjFgWTFS/OQcxd8=
+
+Name: assets/newpopup/authentication_bt_2.png
+SHA1-Digest: qK7MB5leCiQrkIfiNk2Wyb50uS0=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_tong8.png
+SHA1-Digest: hI0cCMa5yXS6SjHNBOlespLEXWY=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_vup_bg2.png
+SHA1-Digest: vw8SaYL8BVNa/BfChoZ1i7QsJFk=
+
+Name: assets/newgame/gamebutton/game_chuck_off_btn_n.png
+SHA1-Digest: tQAAOcNLY5qj+lyLb2nyTzbo7yE=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_tong2.png
+SHA1-Digest: /D4ynZMzPSBsb4nfQgBx75RWCTE=
+
+Name: assets/newgame/game_arrow_rich.png
+SHA1-Digest: V9VG6zJNz+enirRooHSJPCe93UY=
+
+Name: assets/common/next_bt_2.png
+SHA1-Digest: iLppdS4g8axJLGXEKDxlC/BB1L4=
+
+Name: assets/common/review_btn_n.png
+SHA1-Digest: sGzlLWhFgZssNo0fUOOIpTKZUK4=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_vup_questtion.png
+SHA1-Digest: 0zSHzWT8YZUkd2J6/tyMEXU2Ooc=
+
+Name: assets/common/normal_box/normal_white_box_right.png
+SHA1-Digest: MFdIHw6AJFDntvV3ZmdKUprIIP4=
+
+Name: assets/sound/female_voice_2_hi_2.mp3
+SHA1-Digest: X26u6PVadfLYVNgSrqKXEgSpvRQ=
+
+Name: assets/sound/female_voice_3_greeting_1.mp3
+SHA1-Digest: Anjf6OL29cjXBIo1xRoZK10bkKA=
+
+Name: assets/sound/female_voice_5_greeting_3.mp3
+SHA1-Digest: dUymrLBD301Lj4zylxzzntrOfOY=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_vup_bg2.png
+SHA1-Digest: o3c4YjLgUEq+WLQ8/wc+2wyGTV8=
+
+Name: assets/newmenu/help/popup_2.png
+SHA1-Digest: KlW6+klgROLnDufK8r0HEngZfj0=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_front_bg.png
+SHA1-Digest: 1WZa20vJmKPVfAu137ENon1EzJA=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_vdown2.png
+SHA1-Digest: 833ylGgU+K2ES5r2fJ75M3PgZQM=
+
+Name: assets/newmenu/myitem/pae_tab_5_1.png
+SHA1-Digest: +T62XCOB1N6L69DWj8ZtBRBtCTM=
+
+Name: assets/script_tutorial.xml
+SHA1-Digest: mBnqKJ9nbB6RJnhL+gTpsb/jUqI=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_man1.png
+SHA1-Digest: J7yEqXHhgOryWwOMoUDqL9G+NvY=
+
+Name: res/layout/offerwall_list.xml
+SHA1-Digest: bkWVxK/jAOHig12ENaPPhAB8f9s=
+
+Name: assets/common/bg_image_2.png
+SHA1-Digest: HvYBgLN35stlbpgNJKIOIsRbnMQ=
+
+Name: assets/newavatar/majak_avata_001.png
+SHA1-Digest: mCb8KwnC0kWHNt8sQovOkXxFcTw=
+
+Name: assets/dicescene/dice/dice_02.png
+SHA1-Digest: FbKk4/2gcEKBU33b607eOndrdRg=
+
+Name: assets/Language_chn.xml
+SHA1-Digest: 1HZQD3LL9Kv3dW13yR+WZhWSojg=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_seo.png
+SHA1-Digest: 4E9h1PckJ14oagl4os+kArzk5SA=
+
+Name: assets/common/messagebar_bg.png
+SHA1-Digest: W2wSbkBz4XjxU3aaiXWlEhWOH+g=
+
+Name: assets/newgame/timer/multi_paetimer1.png
+SHA1-Digest: 9r4m+l8/BVH8ZqkMZQFW6+j4j2c=
+
+Name: assets/sound/male_voice_3_greeting_1.mp3
+SHA1-Digest: OolT0WYh5b0haZnuHpJSUT5+y7s=
+
+Name: res/raw/gtm_analytics
+SHA1-Digest: z4lph6xlv9ztpVWW3QM9h7QjqS0=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_red_tong5.png
+SHA1-Digest: wtln7XBMoOz4/UyP6YcX86IHRLU=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_front_bg2.png
+SHA1-Digest: eT8xHfrgG/MaEKkJPNpydD0U8Bo=
+
+Name: assets/newavatar/majak_avata_002.png
+SHA1-Digest: SIEl/pHB1ZnIJQU9D4KUxHec0a0=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: LewhoID0LjtBYVPp7OCVxcpi4Ls=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_tong5.png
+SHA1-Digest: AZNt6BLGdTHB3pZt4hwzODI/vFU=
+
+Name: assets/newpopup/setting_off_btn_2.png
+SHA1-Digest: lS7xo7m0oy2wUgHUJyHwDKdoKv0=
+
+Name: assets/sound/paesound/voice_effect_chi.mp3
+SHA1-Digest: N1ESor9234V+IqvmxlSgYWLbi9E=
+
+Name: assets/newgame/battery.png
+SHA1-Digest: D0Z/OnK19dPn1s3mh9kMR8Fv5dg=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_flower6.png
+SHA1-Digest: jDbJEtybxaSdD5Q5dEc19+Ch3T4=
+
+Name: assets/titlenickname/level_icon_15.png
+SHA1-Digest: KNdZqyWZAIcr7KEaq8ptP8yjpNQ=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_light.png
+SHA1-Digest: i1ZTqep+pgKdIhB18Xwu3c7KrFI=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_hup_bg.png
+SHA1-Digest: 6RT78QN+9pagGBW1CmDiv5V8f5o=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_seo.png
+SHA1-Digest: Tu7SobGbpgY/W7AK2SJ/+fSfs30=
+
+Name: assets/select/first_select_btn_3.png
+SHA1-Digest: dCv5cxJcx1EZ8cmm9ByLPocx/uY=
+
+Name: assets/select/select_china_majak_btn_1.png
+SHA1-Digest: UBIFJsePorhrxvXwDlmWjyA4U1g=
+
+Name: assets/newavatar/select/select_avata_101.png
+SHA1-Digest: 67O66rd+w9uDQPrAiMMWAsC9xUo=
+
+Name: assets/newlobby/rich_myinfo.png
+SHA1-Digest: dzSIbB9j6H0sGGmEGdJ8GVBVXbg=
+
+Name: assets/newgame/mission_success_stamp.png
+SHA1-Digest: 405eUj8tMGwjeBBtRc03LQKPNjg=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_jung.png
+SHA1-Digest: fA1gUAhrqJ+kjfshqtxZifrbqRA=
+
+Name: assets/newgame/result/result_mark_lastpae.png
+SHA1-Digest: wOUYxO0pjtqbzTRPoFqsbdHbQiM=
+
+Name: assets/newgame/majak_talklist_bg_china.png
+SHA1-Digest: xJd+CZOts4GmsohXRl6uCu7rQmY=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_man9.png
+SHA1-Digest: Jc4T4uP2eNMdfZVW7jc5AY/90yA=
+
+Name: assets/newtutorial/tutorial_rich_character_ani_2.png
+SHA1-Digest: 0B/8giESa4Redp13sqeoFHOZE+E=
+
+Name: assets/newmenu/item/amends_btn_2.png
+SHA1-Digest: 01vYwhkI3qzIrDMzL3AUDfS4FRA=
+
+Name: assets/sound/22.mp3
+SHA1-Digest: ZIdnXiByx9zbZ62pwl2GXY45Beg=
+
+Name: assets/common/message/msg_double.png
+SHA1-Digest: w/2HQXDXcFakqgg9U6DVu8CMo8w=
+
+Name: res/color/wallet_secondary_text_holo_dark.xml
+SHA1-Digest: NCuViPkgKEDlTW1+hvLXRgQEO7I=
+
+Name: assets/newmenu/shop/shop_icon_x_gold.png
+SHA1-Digest: YVdyJQxTgPBikP1/gBHFg83pWx4=
+
+Name: assets/sound/male_voice_5_greeting_6.mp3
+SHA1-Digest: r1f0iq761fZnZ4MDGukg9B0fCLI=
+
+Name: res/layout/unityads_button_pause.xml
+SHA1-Digest: toH7IeoBsfNUNhsjiXdILeIg9MU=
+
+Name: assets/select/china_select_online_btn_2.png
+SHA1-Digest: T7aNMDQrn0DrSOMQOzkXRvB0VyE=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_man8.png
+SHA1-Digest: TebcKsbc4f0aoRVHGBGnJW4cWyY=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: 2zGuWTNe/mXuDfUEMVNWpRpYsB4=
+
+Name: assets/newgame/richmark/richmark_down_ready.png
+SHA1-Digest: +SoZ818kOaQ3lxG4vMCxplcHojE=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_man3.png
+SHA1-Digest: 95CRtnWRBikLyomGc15sLkEdjP0=
+
+Name: assets/sound/paesound/voice_won_bal.mp3
+SHA1-Digest: Vg3ZWpSEe1q6Jy8XgNfJFX/vd0w=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_tong9.png
+SHA1-Digest: LOTAbjrC1PII98Kp3MuzVOqRKto=
+
+Name: assets/newpopup/secession_btn_1.png
+SHA1-Digest: NevYe4L4yQM4jXoAbtn2Fb2ymnw=
+
+Name: assets/dicescene/directionfont/directionfont_4.png
+SHA1-Digest: qtDupvrE/zq3k95/arTUVMhRSPc=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_bal.png
+SHA1-Digest: Y4sJinVAR9q0eDWw6ymFQET8S2I=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_jung.png
+SHA1-Digest: G3BZNK460O7zJ2nc5yclwjwhIVM=
+
+Name: assets/select/rich_select_study_btn_2.png
+SHA1-Digest: CEE1F4oV8qhB8ELKs3vszWVbqj4=
+
+Name: assets/sound/female_voice_3_greeting_4.mp3
+SHA1-Digest: 1y0OeT9gQP0dRSlPaF0Omny0HmY=
+
+Name: assets/newgame/pae/tile_font/tilefont.png
+SHA1-Digest: 6bNI9PVQ9PBQQfdV+TzkCP6EIiw=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/starttile_hdown.p
+ ng
+SHA1-Digest: TcbKxP1DEfRxjEtdOwnTgsHq4x8=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_nam.png
+SHA1-Digest: 99AlFxWcJ72HPWFgC6gxnORxbog=
+
+Name: assets/titlenickname/level_icon_12.png
+SHA1-Digest: cPJgOpU8lIiuN6vwIOqVuNzFXl4=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_sak3.png
+SHA1-Digest: PeywhZmuNYYlTj3x+sY35OaPB9c=
+
+Name: assets/newpopup/jokbo_back_bt_1.png
+SHA1-Digest: xn1U1U3/MQedhVSqCsr6gUvtKY4=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_man8.png
+SHA1-Digest: zw9w1D8Sieal64Unm9vcyT32Dzo=
+
+Name: assets/newpractice/china_rule_btn_1_2.png
+SHA1-Digest: dGCIuknbCoCphaB2j3W6QkkTgSg=
+
+Name: assets/sound/male_voice_1_greeting_3.mp3
+SHA1-Digest: nib0fbe+tR9daLlCjeGzC4n7yl8=
+
+Name: assets/newmenu/shop/shop_buy_btn_2.png
+SHA1-Digest: ab70adQckj+BkUKamF61dYnuB/I=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_left_madeback.png
+SHA1-Digest: WAHj6T0WB0laDoQVdp3y0XwEZPM=
+
+Name: assets/newgame/richmark/richmark_right.png
+SHA1-Digest: DQ1bOg8lANSbUF0r9UwkM7Ce2dI=
+
+Name: assets/newgame/gamebutton/game_leave_btn_n.png
+SHA1-Digest: 6z7Rm57GKY7m2j/kGo3wlIUm+R4=
+
+Name: assets/newgame/game_rich_bg_1.png
+SHA1-Digest: qBiByRjLiWG7ytCQ6daRpQRznlU=
+
+Name: assets/newgame/gamebutton/game_common_btn_1_1.png
+SHA1-Digest: vmcZUVgWwBD+IAERLgsAKboXS4I=
+
+Name: assets/newlobby/menu_help2_btn_p.png
+SHA1-Digest: Tozy+2nzsU0rNypSd3+anL8WXg8=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: YuvS0g8OAihHUGzRzhMkQbYVIFQ=
+
+Name: assets/select/china_select_solo_btn_2.png
+SHA1-Digest: IE3ldZ5k0TP8IIV1SNXdBZFlMgg=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_tong6.png
+SHA1-Digest: Ga6IZWykWKj7W0j9A0H7zt9Axog=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: PqTpPBDW7Mw+tiTo97Mdprm+VVU=
+
+Name: assets/newgame/gamebutton/invite_room_money_1.png
+SHA1-Digest: flS0SWJVeNbpB4vgwuKS6VfQiyI=
+
+Name: assets/newmenu/shop/majak_error2_bt_1.png
+SHA1-Digest: nwQZ60Ls9KofbyFgtcrODhyjwHA=
+
+Name: assets/newpopup/popuo_cancel_btn_1.png
+SHA1-Digest: lhavihWAGRl6jjmRffjF+uZEAqs=
+
+Name: assets/newpractice/rich_rule_btn_2_1.png
+SHA1-Digest: M3g5ASejg0T0OsL7IedCTBvvitw=
+
+Name: assets/common/bg_image_1.png
+SHA1-Digest: p+J0T4cDLrd130VxtzDF4QQd1XI=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_hup_r_bg.png
+SHA1-Digest: h0aLjvdoeYQKgu2Rqwa5s0EBbqA=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_sak4.png
+SHA1-Digest: JGYrkq/i7cam6dGagUEblcavyxw=
+
+Name: assets/newmenu/item/rich_item.png
+SHA1-Digest: OT0aaWJOvIligJqkRttqEdP/G1I=
+
+Name: assets/sound/female_voice_5_greeting_2.mp3
+SHA1-Digest: ASW/IyzuNY6UQRlGDtVFZR6CU+I=
+
+Name: assets/newtutorial/tutorial_speed2_bt_1.png
+SHA1-Digest: 0tifd+qGwwapW1c/DdWIHNEo1Us=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: Wl0x3/PQYrRDwagaXHH4f7mABgs=
+
+Name: assets/select/china_select_study_btn_2.png
+SHA1-Digest: 7CbhNj1GuRdkeKyq7psf5zhbNvs=
+
+Name: assets/newpopup/make_invite_bt_p.png
+SHA1-Digest: Hxz+sTvVK+WCyZwhcVMyxkZjbfs=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_left.png
+SHA1-Digest: FAwQRub/b7L0yOPdic3IHoRR/VE=
+
+Name: assets/newlobby/menu_rank2_btn_p.png
+SHA1-Digest: NrgxM78DhrQ4AhUyRdAZVEAqoSo=
+
+Name: assets/newmenu/shop/gold_list_2.png
+SHA1-Digest: f2uLat+qANGzv0WWE9bLqKcUGQ8=
+
+Name: assets/newpopup/jokbo_list_1_1.png
+SHA1-Digest: aieG82//m1sXV933cxx31cWAAKU=
+
+Name: assets/newgame/rich_stick_bank.png
+SHA1-Digest: lPwyanMxt5q2k2ObE2fzTY0jq38=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: QV7x7B+MXuoMh/A/Uz8+W34MQl4=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_man9.png
+SHA1-Digest: RnBkdzVodEf80/HfI8HRJq84MaE=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_baek.png
+SHA1-Digest: EudLaiO3EXwiZVDXl/1ix4C7wfc=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: qdpVIcOeVOJG3xTaI3TbVDJS/j8=
+
+Name: assets/newpractice/start_btn_p.png
+SHA1-Digest: HvZnc7tNFinbQ9TZL6AueCzV9G4=
+
+Name: assets/sound/female_voice_5_greeting_1.mp3
+SHA1-Digest: Ke+VDvYneFL+R7NF9ptxQk7V/1c=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_vdown.png
+SHA1-Digest: B59BAtHl60kGNn2rLctmhi5Wrrc=
+
+Name: assets/newpractice/china_rule_described.png
+SHA1-Digest: rwSMaP5DUWCosuHAEcKCKy0F6gg=
+
+Name: assets/newavatar/majak_avata_003.png
+SHA1-Digest: DvimrtzCsmSxhTLBehh57s6mBdU=
+
+Name: assets/newmenu/item/amends_btn_1.png
+SHA1-Digest: vzlyAqRuHmZR0xH2bxQ5ETWa4QE=
+
+Name: assets/newtutorial/tutorial_speed2_bt_2.png
+SHA1-Digest: U3531ldD7gcx/BbA6tpmvoZ117c=
+
+Name: assets/sound/21.mp3
+SHA1-Digest: 0wqtNXupwrS898ZQ5hl8t34ULfI=
+
+Name: assets/common/normal_box/normal_white_box_left_top.png
+SHA1-Digest: Ys+iE0mfSFZU5iytx7ZF34fiL8E=
+
+Name: assets/newpractice/china_rule_btn_1_3.png
+SHA1-Digest: b4C0n3zrW1UKaP+9j/Kceqg9t6E=
+
+Name: assets/newlobby/menu_rank1_btn_p.png
+SHA1-Digest: y97JFog6Tz9swG7db2osBXaHEbQ=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_seo.png
+SHA1-Digest: nHXzhBeNTHH4+xjbCdwiBEgeus8=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_flower7.png
+SHA1-Digest: QRlLVk0A/6X2Hb3eRR4hfhqTt+Y=
+
+Name: assets/newlobby/free_btn_n.png
+SHA1-Digest: 0icObrvlnb7xdm/lddn1Iw6QQyo=
+
+Name: assets/newpopup/ad_majak_x_bt_1.png
+SHA1-Digest: tZ+5ireQYSKA2pjsIeoklZ80pVg=
+
+Name: assets/sound/male_voice_5_greeting_5.mp3
+SHA1-Digest: w3mVfDhFnroxVo9AntlLILEm4rk=
+
+Name: assets/newavatar/select/select_avata_102.png
+SHA1-Digest: wBEjm2WiQI3NfyWl2NnqC9+3v6k=
+
+Name: assets/sound/male_voice_1_greeting_1.mp3
+SHA1-Digest: Pc8JbQZx9In1pxs7X8HqqmLkx2s=
+
+Name: assets/newmenu/shop/money_list_common.png
+SHA1-Digest: knG6cVEkGhcXUcYuYLnAKjeuBdA=
+
+Name: assets/newmenu/helpsub/help_03_01.png
+SHA1-Digest: d4EK6RL9JcwwtDPpV/mL89wn2/U=
+
+Name: assets/select/first_select_btn_2.png
+SHA1-Digest: 9TRZbbtcze/CQUUD8cCXkaxPhHs=
+
+Name: assets/sound/female_voice_4_hi_1.mp3
+SHA1-Digest: qsLTRGgCenTchwtwFsShEXbTOVA=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: 8CfQznt/eRM+V59eR5e4+6PtHiw=
+
+Name: assets/select/china_select_online_btn_1.png
+SHA1-Digest: roFVUd5YBIFW2PXw3vgfqAvqWwQ=
+
+Name: assets/common/message/msg_pang.png
+SHA1-Digest: zcZ5pgA+9qj3aWG+Zru74qFThKE=
+
+Name: assets/newgame/gamebutton/game_leave_btn_p.png
+SHA1-Digest: qSQSEvWzNnUHlvJBDhfJlxSFD7o=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_man2.png
+SHA1-Digest: /ag3qbybYxtkkkWVSzaBDY4Brjc=
+
+Name: assets/select/select_china_majak_btn_2.png
+SHA1-Digest: 5sMHvcI6mZYotcJ83YMwsWgOPrA=
+
+Name: assets/newgame/game_dora_pyosi.png
+SHA1-Digest: LOfMS0CXJb9QykpShsfdxIi3+wE=
+
+Name: assets/newtutorial/tutorial_rich_character_ani_1.png
+SHA1-Digest: Ib4/SaSZjzvgKFqUTbF2en6lBBQ=
+
+Name: assets/common/review_btn_p.png
+SHA1-Digest: SLWUFABRSFB1RjVJuveTZplLdqA=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_man8.png
+SHA1-Digest: bGceUSXeFp0ZcpzKiMucLSEDBdY=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_front_bg2.pn
+ g
+SHA1-Digest: V+9BRvcZB/+YhDyjZ5ZUo3FY3zM=
+
+Name: assets/newgame/pae/tile_font/tilefont_rich.plist
+SHA1-Digest: zBgy0oFihVIsyWaiikX82XTu7wE=
+
+Name: assets/sound/male_voice_5_hi_1.mp3
+SHA1-Digest: 7mhJRw0lvfbeW7/xFtCj+yr9bAM=
+
+Name: assets/newpopup/majakroom_bt_3_2.png
+SHA1-Digest: 5mo4NMUL/Fm6OfhbHpzW9Qb7eVI=
+
+Name: assets/newgame/discardfont/majak_game_discard_back2.png
+SHA1-Digest: 0EQTxOcRj3g9HGkhBHccAo+oDNA=
+
+Name: assets/newgame/majak_talklist_select_china.png
+SHA1-Digest: VaHlZ1rgzSMmVmG8hFl0yjG/8qI=
+
+Name: assets/sound/female_voice_3_greeting_3.mp3
+SHA1-Digest: auEa6QVtj/x3gSJkLP/6R2mpxaU=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: r5BaJcm8YInShTypnaU/gf6UKTQ=
+
+Name: assets/newpopup/jokbo_back_bt_2.png
+SHA1-Digest: XUf0je+R2J+eisfBHNmS9c3D+0I=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: bANUipRjmNIjOK7kpTC0SWcFOEo=
+
+Name: assets/sound/rich.mp3
+SHA1-Digest: xoV0HYlnaHpkvlofyWh5YXEVhUI=
+
+Name: assets/newgame/game_rich_bg_2.png
+SHA1-Digest: ybBUoiXmNiMZaLPV3qYzqTjNrYY=
+
+Name: assets/newgame/msghitfont_back.png
+SHA1-Digest: VK2lQur4eIyVdvdpupo+5HELWvs=
+
+Name: assets/newlobby/menu_ad2_btn_p.png
+SHA1-Digest: u4fJU+j3O3SlLcUCDoMXoPbw9qo=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_man7.png
+SHA1-Digest: ZRjSqBQPDsU1dajyPL9YVZ0OGos=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: m3YAtUmXDcAGXG5Zyr9q08Mbs2Q=
+
+Name: assets/newgame/gamebutton/game_common_btn_1_2.png
+SHA1-Digest: 1z4Ta/Qi0RTdt5xx2Wg+2MxhBXU=
+
+Name: assets/newgame/gamebutton/invite_room_money_2.png
+SHA1-Digest: 05nrPdxTyfu3kDkK7Ba1CiwFlzI=
+
+Name: assets/newmenu/shop/majak_error2_bt_2.png
+SHA1-Digest: Lty/UbNZpkP+5UXD2Mxb80DOFpE=
+
+Name: assets/sound/female_voice_4_hi_2.mp3
+SHA1-Digest: XIq5q6Hm1IihtxdlicWVoNiBCf0=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: WDwqcy6yDbnca5VTvWWktckJuL4=
+
+Name: res/layout/unityads_view_video_play.xml
+SHA1-Digest: SVRZYIqiRO+HjqRXF46dNEWpNOk=
+
+Name: assets/newmenu/item/giftbox.png
+SHA1-Digest: 8Zyg6zsnlGUavLhg8PhD8W2fBpw=
+
+Name: assets/newgame/richmark/richmark_up.png
+SHA1-Digest: FM3Jg+nEIe1KioX21x/cx+kttO8=
+
+Name: assets/select/china_select_study_btn_1.png
+SHA1-Digest: vDS2QNEINvD/YThcw9ymw1p1FKo=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_red_tong5.png
+SHA1-Digest: wtln7XBMoOz4/UyP6YcX86IHRLU=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_sak2.png
+SHA1-Digest: 5zrhU/HiEEOdfmypLnvCUcyf69I=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_light.9.pn
+ g
+SHA1-Digest: PzxYDH8f/Kksm8fe4/b9iSsqgAc=
+
+Name: assets/newgame/fontwind/gamewind_west.png
+SHA1-Digest: OifTzPGcVRM64afpoI05uN1/ZD4=
+
+Name: assets/sound/15.mp3
+SHA1-Digest: 38rPqk4eDWIFElJEdV1eeXLiciw=
+
+Name: assets/newpopup/popuo_cancel_btn_2.png
+SHA1-Digest: VSRfj6cuy5Yuk/cfpIb58zzp0T8=
+
+Name: assets/newmenu/shop/shop_icon_gold_pae.png
+SHA1-Digest: KLfJO0TM1eVDIo0AdICZHGDxRxc=
+
+Name: assets/newpopup/join_login_btn_2.png
+SHA1-Digest: A3zlqOu1UsDsW4mDPfZX76+Ev0o=
+
+Name: assets/common/loading_sprite_white.png
+SHA1-Digest: AIwWJHR5FtkaOkzqoWwzMfBXrVg=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_tong5.png
+SHA1-Digest: bQOUsc3xn4J9eMdXpVVHcb5qyHk=
+
+Name: assets/newpopup/authentication_textbox.png
+SHA1-Digest: AJ55PHfnMWZ7ZLen5QmQCy3p+lM=
+
+Name: assets/newmenu/helpsub/help_08_01.png
+SHA1-Digest: 9ynF/fl963wkTHsx4ugnIVvy4XA=
+
+Name: assets/newgame/gamebutton/game_chuck_off_btn_p.png
+SHA1-Digest: udBI+7TbEFTS01DHkuVGjFPNbnU=
+
+Name: assets/newlobby/china_common_money_2.png
+SHA1-Digest: ck+AK5EFnWES73E3Nc9Ns/Klt8s=
+
+Name: assets/newlobby/menu_help1_btn_p.png
+SHA1-Digest: LjaUFoqQwBeuSPs5y94ec358So8=
+
+Name: assets/newpopup/limit_setting_bt_p.png
+SHA1-Digest: LuJsykcMx8WOx9ggqOkQlnBNPCY=
+
+Name: assets/dicescene/directionfont/directionfont_3.png
+SHA1-Digest: JIGojwQBo6dF54se3dWcVfkmmMA=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_right.png
+SHA1-Digest: AhU2X4lvzni/WMy7g1PGmHJp6xM=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_sak5.png
+SHA1-Digest: BkClEuTbqxQeDaCGejNBFI6ZXs4=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 3WOChYu3Ms2kyEHXijAnPBxAgRA=
+
+Name: assets/languagetext/oddsview/rich/rich_Language_eng_oddsviewlist
+ .xml
+SHA1-Digest: xYvtAv7UII9AkNOBvoS2sRl2+Pg=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_left.png
+SHA1-Digest: QkVZUqaSE33yyp4bsvRCQdnWMlU=
+
+Name: assets/newgame/pae/tile_font/tilefont_rich.png
+SHA1-Digest: 6bNI9PVQ9PBQQfdV+TzkCP6EIiw=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: CLs5FbiMwb7vIKZyvZ2iE6odMZs=
+
+Name: assets/common/china_closeback_up.png
+SHA1-Digest: 45InVtBLVR05NSfiRFikJ57fXEM=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_tong4.png
+SHA1-Digest: C3IC9oLD5YpxEcOv2Iw2MOG8b2k=
+
+Name: assets/titlenickname/level_icon_13.png
+SHA1-Digest: 8TpeCdu9psZBETs14NoVZTOOBOI=
+
+Name: assets/newpopup/gomain_btn_1.png
+SHA1-Digest: /E0k1I54gY7NpngjuD+OYuPICLI=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_bal.png
+SHA1-Digest: lrYRx3rocx5oXdgWX5PMhEnOBQ4=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_vdown2.png
+SHA1-Digest: crLr50PR54I1efSF7R73B9AfbrI=
+
+Name: assets/newlobby/plus_btn_p.png
+SHA1-Digest: tY+B328shktXz+ju1Na0DhITuKI=
+
+Name: assets/newmenu/myitem/pae_tab_6_1.png
+SHA1-Digest: QTVQ9BIrIKHQYKZChuhbqkbNNoA=
+
+Name: assets/newmenu/shop/majak_error1_bt_1.png
+SHA1-Digest: d5vIk+DEV6T3pGgv8Q/cWK6s/Fo=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_man6.png
+SHA1-Digest: kGttIlrMw1D7WrowckZRcsqNbq4=
+
+Name: res/drawable-mdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: NjY9PbXV5NKkWR6Gw1AcVPip0is=
+
+Name: assets/sound/male_voice_2_greeting_6.mp3
+SHA1-Digest: R6/GDH+gjya9hm9U3ZdtQuBNqs0=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_right_madeback.png
+SHA1-Digest: ymaZvbdu9C+ubk6vSilr7kvxSSU=
+
+Name: assets/sound/female_voice_1_greeting_5.mp3
+SHA1-Digest: FsfrzAt1HMEEXWaYzgaznJBYj2g=
+
+Name: assets/newpopup/setting_check_empty.png
+SHA1-Digest: 2CxAVQDWhvYyyfVUGkXzOce3BIM=
+
+Name: assets/newtutorial/tutorial_china_basic_ani_2.png
+SHA1-Digest: Y/YxQDcFyj4KLfh16HNkts2waQ8=
+
+Name: assets/newpopup/popuo_btn2_2.png
+SHA1-Digest: /h8MkUWsfFsmy/W0HgPcUQALFT8=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: 9JX8Vhjlc878Um33DOdhDt+1SiU=
+
+Name: assets/newgame/timer/multi_paetimer3.png
+SHA1-Digest: XIdUCkEGe4U6CC2xTWcFV6Pi6Ms=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_flower1.png
+SHA1-Digest: zlRKVZS3Z99kokUztHieLoydbBo=
+
+Name: assets/newgame/result/majak_rich_result_3.png
+SHA1-Digest: cu+H33gwlwsN5eO3uxAYJzIJnzM=
+
+Name: assets/newlobby/menu_help1_btn_n.png
+SHA1-Digest: LRaVE30B8AhqCptgy/mowvWZD4I=
+
+Name: assets/newavatar/majak_avata_101.png
+SHA1-Digest: +FfQ5PBMSzizsKhoKDIzk6/gG8g=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_tong1.png
+SHA1-Digest: hnvspI/4s09Cucw4zlmvftBNeMs=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_sak8.png
+SHA1-Digest: K1HPsfIpLuWr2Tk7HH1FH2D4Sy8=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_man1.png
+SHA1-Digest: dDIJd5Y53ZLDSXXbKKEZCg0UBLs=
+
+Name: assets/newmenu/shop/pae_tab_1_1.png
+SHA1-Digest: kaHsZnIBGfFnLKvTGOCfUGIEDc4=
+
+Name: assets/newgame/gamebutton/close_bt_2.png
+SHA1-Digest: hNYMg6bjS//Dbv9bRb1WlJaiEkk=
+
+Name: res/drawable/list_item_selector.xml
+SHA1-Digest: KFTp7VVtcwSqO6Wgv3tncqNL4JI=
+
+Name: assets/newgame/invite_userlist_ba_1.png
+SHA1-Digest: VMkBWG+ThEteT2FFR1lZvkkKA14=
+
+Name: assets/sound/paesound/voice_tong_3.mp3
+SHA1-Digest: cX6g5SwdPF2uSBebNmrtPuCDsnM=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_tong7.png
+SHA1-Digest: KjzNzK+N0NXdR+ARGkiWP7/xw5I=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 92pHkmawW9x95wDQw6uvTZBRXkQ=
+
+Name: assets/newlobby/make_inviteroom_bt_p.png
+SHA1-Digest: Kku5l9etjD4j+8UX50rLP2GLKzQ=
+
+Name: assets/loading/bg_review_kor.png
+SHA1-Digest: rBiMyew8u8t6QnQcp+etJLz2aX4=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_tong2.png
+SHA1-Digest: wHZ+kD1H/HnCGhTs7EtYwjwCp+0=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_flower8.png
+SHA1-Digest: hBTrZ8MX0foapsR9T3kPgbAw5t4=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_up_bg.png
+SHA1-Digest: bQ69NMOB2Hz5q1xbSP7KdrScjuU=
+
+Name: assets/newlobby/menu_ad2_btn_n.png
+SHA1-Digest: hc2NwXlsOeaD2/Q1SleTwXZVUt4=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: hCVNMkzKzAMD4/EBoF/XaeXZCtU=
+
+Name: res/layout-v17/unityads_button_pause.xml
+SHA1-Digest: HPZumUihfBE1sieNuXWJYYCk6KA=
+
+Name: assets/newgame/fontcardnum/cardnumber_2.png
+SHA1-Digest: 5RNnVZVawQpBYGAqJpiRaVCc5SA=
+
+Name: assets/newpopup/ad_majak_x_bt_2.png
+SHA1-Digest: H6GnE/5UwCzLzFT22zKLd9nWIi8=
+
+Name: assets/screenshot/screen12.png
+SHA1-Digest: p+nA+gsyGqVQqQ0/LEv5JTa3ais=
+
+Name: assets/newgame/gamebutton/invite_bt2_2.png
+SHA1-Digest: w7gP8ljQfQ0wcbn3CbhSH4qhVBE=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_bal.png
+SHA1-Digest: kmqarcAGrrRi98uhIwYuONs0dGU=
+
+Name: assets/newpopup/setting_cancel_bt_n.png
+SHA1-Digest: IAR9/gNkgMHYgw0loDdR9BqpZko=
+
+Name: assets/newlobby/top_ranking.png
+SHA1-Digest: Usxc15GmUOVKrO5eTVJ8tm2BDeI=
+
+Name: assets/select/first_select_btn_1.png
+SHA1-Digest: iIPPBorwlEz2NhGM3g0DlF2buOI=
+
+Name: assets/sound/8.mp3
+SHA1-Digest: qUe+FGD58EzhhjFgWTFS/OQcxd8=
+
+Name: assets/newgame/pae/tile_back/style_03/starttile_vdown.png
+SHA1-Digest: Vt91qPwU78t3q31C+U5NvVfs1EA=
+
+Name: assets/newgame/rich_result_win_img.png
+SHA1-Digest: 7dSp+BqtHKN9KsXBMlwVNGAlYs0=
+
+Name: assets/sound/male_voice_2_hi_1.mp3
+SHA1-Digest: qjHuiWQxERWy2T5Cm9x1dJqA8zc=
+
+Name: assets/newgame/result/japan_oddsresult_top.png
+SHA1-Digest: gqnl+z8jRhdDjfvcj/itPr80x+g=
+
+Name: assets/newgame/ui_furiten/furiten_1.png
+SHA1-Digest: LTuusmL+zsnF02yyysYcJNgWhi0=
+
+Name: assets/newmenu/myitem/pae_tab_1_1.png
+SHA1-Digest: SNz/nu1QLf3rI/VnxXOSgJAZ5kI=
+
+Name: assets/sound/paesound/voice_sak_3.mp3
+SHA1-Digest: buWLQX9DV6IgcKZRYTVXuWwY26s=
+
+Name: assets/newmenu/shop/shopitem_numfont_gold/shop_icon_gold_1.png
+SHA1-Digest: zbroI8cm8dwMeG2qIbIpl4KiekI=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_left.png
+SHA1-Digest: ZLvCTX9WPI8Ph3uFnA83KYL01M8=
+
+Name: assets/newgame/flower/userui_flower_button_01_2.png
+SHA1-Digest: favUD5FFPbnan0j1fd3txU5DENE=
+
+Name: assets/newgame/turnbutton_chi_bg.png
+SHA1-Digest: 3XdwVcCN7ih7Et+ZqviWU+zzoHg=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: R0rCQap54Xf4ElOYS7zj9TUQB6s=
+
+Name: assets/newpopup/refuse_bt_2.png
+SHA1-Digest: IG0ZD1koX+XAMww041704YZCCXo=
+
+Name: assets/newpopup/result_game_continue_bt_1.png
+SHA1-Digest: mKIyz/4zXajBF6Dj6yWV4+8AA2M=
+
+Name: assets/sound/male_voice_1_greeting_5.mp3
+SHA1-Digest: 9e5ZROgEHoUORzNbze2MGK4Iyxo=
+
+Name: assets/newpopup/callcenter_btn_n.png
+SHA1-Digest: ahdbt597T6Z+oZPzmj9iiID+0so=
+
+Name: assets/newpractice/rich_rule_btn_2_3.png
+SHA1-Digest: VncwbSLOOV0R/4GRrNtQ1NPCSFM=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_nam.png
+SHA1-Digest: oMxt70zaHYHcMs+Fv3TeJ42Drm0=
+
+Name: assets/titlenickname/level_icon_10.png
+SHA1-Digest: aIlYyCMibNLMq/NL0ZiSdujxyAE=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_sak6.png
+SHA1-Digest: oTnJs8gDhbOrUmidCC/u8aPgc1k=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_sak9.png
+SHA1-Digest: 8u1Wgl2fD53OF6se8REvqWh8Iys=
+
+Name: assets/newgame/gamebutton/invite_room_friend_1.png
+SHA1-Digest: um1Gax/8K9szUY1lBx3FttACLiU=
+
+Name: assets/newlobby/noadmittance_bt_2.png
+SHA1-Digest: Lgl36VHeyr/jtOAmyZx13YUEV3w=
+
+Name: assets/Language_eng.xml
+SHA1-Digest: jY7r3w4W4g3sNtTZVgCz8xDalEU=
+
+Name: assets/newgame/gamebutton/majak_new_discard_btn_p.png
+SHA1-Digest: 7mBCK3xfCGxGRK5UpuepblNDcYM=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_hup_bg.png
+SHA1-Digest: AaG196plUcDqRrdU3/P9AHUY9dY=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_tong6.png
+SHA1-Digest: mDXTn8qWFsSngvhK2MYQ9vmdW88=
+
+Name: assets/languagetext/helpdlg/china/china_language_helpdlg_chn.xml
+SHA1-Digest: 2G/a0EidDwbWqrj3Yx/Zm55TNeo=
+
+Name: res/drawable-hdpi-v4/coin_gray.9.png
+SHA1-Digest: a9w3R8zLoukqHq5AHXFtR4FG+MY=
+
+Name: assets/common/new.png
+SHA1-Digest: ZpT5KOzvTHSsYszK8j6DtH/zZuo=
+
+Name: assets/newgame/flower/userui_flower_button_06_1.png
+SHA1-Digest: 8+clzSYBkiOsC8TPP/Dkyt9KIOg=
+
+Name: assets/newgame/gamebutton/majak_discard_btn_n.png
+SHA1-Digest: CXJA1kb9AHFZW0X5e6M4ztME9c8=
+
+Name: assets/sound/male_voice_6_greeting_1.mp3
+SHA1-Digest: xT3P8yQXTYCAVPTe+z9iBFAEHfY=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_sak1.png
+SHA1-Digest: RplM7OzTActAGelBqzfWbUYHid8=
+
+Name: assets/newgame/result_china_jokbo_1.png
+SHA1-Digest: hoLwdM0UDvcpEFx5QSpEJHS/Zqw=
+
+Name: assets/newmenu/helpsub/help_02_01.png
+SHA1-Digest: T/YdAwQdQRwpKgO2iJhaQRZjv8E=
+
+Name: assets/newpopup/kakao_logout_btn_1.png
+SHA1-Digest: 3CBEff6jXCt/oAmo5kexZF3JKfA=
+
+Name: assets/languagetext/helpdlg/rich/rich_language_helpdlg_kor_jpn.x
+ ml
+SHA1-Digest: HaTGyIu5FPT1FWK3BdK5mLRg72s=
+
+Name: assets/dicescene/dice/ani/diceani_01.png
+SHA1-Digest: 67t4AocDVpUpCBW5+hdkLkR3gYs=
+
+Name: assets/newpopup/ad_majak_player_bt_1.png
+SHA1-Digest: bex9JKG3PkpPSaieZfG3EutqOmg=
+
+Name: assets/newpopup/join_login_btn_1.png
+SHA1-Digest: ymKME5IYNguaMnMvcq18gMp/4ro=
+
+Name: assets/newlobby/myitem_p.png
+SHA1-Digest: cD/+wW2z82/bD8S7JJM4P/pc0Zw=
+
+Name: assets/common/callcenter_btn_n.png
+SHA1-Digest: ahdbt597T6Z+oZPzmj9iiID+0so=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_left_madebac
+ k.png
+SHA1-Digest: S9lJeV6bm45Z/5oIRi+u1rfQPRk=
+
+Name: assets/newlobby/rich_tab_1_1.png
+SHA1-Digest: 6Q1SkgG4cj3n/MF5vutug1ACZ9A=
+
+Name: assets/newlobby/china_character_4.png
+SHA1-Digest: T/o/4qBSY5VSivIxI2yfE4ik6mQ=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_dark.9.pn
+ g
+SHA1-Digest: Jo7euj4LvkDv54RWdIWxYYLnMbg=
+
+Name: assets/newlobby/menu_friend2_btn_n.png
+SHA1-Digest: j1LYNjaTEALF7eucyKWzup+yXCY=
+
+Name: assets/newmenu/shop/money_tab_1.png
+SHA1-Digest: zuu+vw04NQFL32vQz06tqYfRXpI=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_man5.png
+SHA1-Digest: IqCqVKHmL6BhUSjLEeoq3qSXLIw=
+
+Name: assets/newgame/turnbutton/discard/majak_discard_btn_n.png
+SHA1-Digest: CXJA1kb9AHFZW0X5e6M4ztME9c8=
+
+Name: assets/newgame/gamebutton/game_chuck_btn_p.png
+SHA1-Digest: aH7wEHaSdRUC2tNWDfzE8LJvH3Q=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_vdown2.png
+SHA1-Digest: q9agqVaoAtxulXoqkTytvBkBx+0=
+
+Name: assets/newpopup/result_bg_2.png
+SHA1-Digest: vTVQpU7p5OnnUk9qYV2+42Q4dsg=
+
+Name: assets/newpopup/popuo_btn2_1.png
+SHA1-Digest: 4jM7lDmQNfP097V0FLEUMhYaOqU=
+
+Name: assets/newlobby/menu_friend1_btn_p.png
+SHA1-Digest: t+WGuNFQCmzpsCe5i+Z4+dMj7/k=
+
+Name: assets/sound/female_voice_6_hi_2.mp3
+SHA1-Digest: jf/JHqebTQCvrDn5y1965tyVe1w=
+
+Name: assets/common/popup_back.png
+SHA1-Digest: 8Xi8vFhgEm+GR460sc0BhraKc5A=
+
+Name: assets/newmenu/shop/gold_list_common.png
+SHA1-Digest: IC3OVB4Zq71t4jXKD8e9fA/AW3c=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: 6k/R4N4dl+2lHpJOJCWef7jxlY0=
+
+Name: assets/newgame/gamebutton/invite_bt2_1.png
+SHA1-Digest: I/9wp5tnMLafkiv6LQVPjAeyXHc=
+
+Name: res/drawable-hdpi-v4/coin_right.9.png
+SHA1-Digest: ehHWHXquZTLXT4H/A3UgZawgUSA=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_tong6.png
+SHA1-Digest: S/1Kp10wUz84lgfkKDcGRq0bn/c=
+
+Name: assets/newgame/invite_userlist_ba_2.png
+SHA1-Digest: YBei8UBWwriSJG+Ozm6LZp0j9/o=
+
+Name: assets/newgame/timer/multi_paetimer2.png
+SHA1-Digest: kFsj/bpN4Lh4+sbswIk61lgucj4=
+
+Name: assets/sound/male_voice_3_slotwin.mp3
+SHA1-Digest: uOUIGLGG9qaf7G+sG3k+rLV/oTE=
+
+Name: assets/newgame/pae/tile_back/style_02/starttile_hdown.png
+SHA1-Digest: pg5/UGetU9HBUh2cGoTTsbd/8Gg=
+
+Name: assets/newlobby/chnia_myinfp_btn_n.png
+SHA1-Digest: oGGR+v6l+Z7WBMeXEMTR4z1L92w=
+
+Name: assets/sound/male_voice_3_hi_2.mp3
+SHA1-Digest: pLHIjuCWEFZSFOtRTbY0CLq9RdQ=
+
+Name: res/drawable-hdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: VhRogc4R8Yr/iiRD/yykj9BKqk4=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_bal.png
+SHA1-Digest: c1kObRzZpuMWJqp8xlfNF50wjpQ=
+
+Name: assets/newmenu/shop/shopitem_numfont/shop_icon_9.png
+SHA1-Digest: buA9raQN//n8tDeZKoNJs0OT+yA=
+
+Name: assets/newpopup/setting_off_btn_1.png
+SHA1-Digest: 0oBLnyHK8fAUjnCY2Iz3k2ic5t8=
+
+Name: assets/sound/StrategyCreate.mp3
+SHA1-Digest: VylB3BJ6Ko/UtnBI49uAUru5C94=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: pyKGvlDIcuabjUP3XyADkEc6qG4=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_vup_bg.png
+SHA1-Digest: rNZOEFNUdAORJsW9d9qwaLsIsZ0=
+
+Name: assets/sound/23.mp3
+SHA1-Digest: qUe+FGD58EzhhjFgWTFS/OQcxd8=
+
+Name: assets/newpopup/popup_text_box.png
+SHA1-Digest: rDiqP7t+t1L2LXQ4WbBMAXdDNAg=
+
+Name: assets/newgame/gamebutton/chatting_btn2_n.png
+SHA1-Digest: qKnrZq9oolart7rdys+gXIvqdEs=
+
+Name: assets/newgame/china_result_bg_2.png
+SHA1-Digest: AvMa3DlfZT3+8tM5ZoS7LIXaIu4=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_up_bg2.png
+SHA1-Digest: EqLEslhVqsS5WdY0POoBVE2L8MY=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_tong1.png
+SHA1-Digest: 2nMzaLO5/+y3OOZmc9VCN/ii6j8=
+
+Name: assets/sound/female_voice_1_greeting_4.mp3
+SHA1-Digest: Kyl6ukeCioppFuyGXivCLigIVYU=
+
+Name: assets/newgame/center_wind/center_windmark_japan_0.png
+SHA1-Digest: 5rj/O91kZVIOU+Wl4nim/9GfRjc=
+
+Name: assets/newpopup/select_img.png
+SHA1-Digest: kCFVKIbzRkqwlkvnNCgSNNyfEbc=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_sak9.png
+SHA1-Digest: AjuTf0gM7MSs6O2gwRaEORINotM=
+
+Name: assets/sound/male_voice_6_hi_1.mp3
+SHA1-Digest: j1mF0fG7rA+2MKeC61jf++5QZVQ=
+
+Name: assets/newlobby/menu_jokbo2_btn_p.png
+SHA1-Digest: 42FnSP3O0aMtTCx4ehhm8pbPk34=
+
+Name: assets/newpopup/join_check_img.png
+SHA1-Digest: W5XPJ+GVktMD1TLDbIQoLyqBzCY=
+
+Name: assets/newpopup/result_game_continue_bt_2.png
+SHA1-Digest: eOofe2DV0MfwHUqkF3IJwTNPv6Q=
+
+Name: assets/sound/MyTurn.mp3
+SHA1-Digest: UvncImSEEJ981FFncg8gwbIWQvU=
+
+Name: assets/newavatar/majak_avata_102.png
+SHA1-Digest: Brqz9H1zm1EYhqRVotwnA9g0cMo=
+
+Name: assets/sound/male_voice_1_slotwin.mp3
+SHA1-Digest: Se3F8qULdf96pdNwlnK1RGdqtoM=
+
+Name: assets/sound/male_voice_2_hi_2.mp3
+SHA1-Digest: lVJhiq4hzkZY3kX51Izt3ND+1gI=
+
+Name: assets/newmenu/shop/pae_tab_1_2.png
+SHA1-Digest: JVsolvs1CbN7kEHSdXCLcgVIvgs=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_tong2.png
+SHA1-Digest: ZFMWh1/AeQgNzdkqtKqLb4wLbZ4=
+
+Name: assets/newtutorial/tutorial_china_character_ani_1.png
+SHA1-Digest: W8uRVaC2aRna7x01f9y8UOSKJdI=
+
+Name: assets/sound/paesound/voice_sak_4.mp3
+SHA1-Digest: Y13f/2BUblLqtD/2G91lwiMLluY=
+
+Name: assets/sound/paesound/voice_tong_2.mp3
+SHA1-Digest: xeH8YeSJpbDhAzvjfPpjWl8BtQE=
+
+Name: assets/newmenu/myitem/pae_tab_6_2.png
+SHA1-Digest: dL+9eynrQtjxrPxrT4T2AonXvtM=
+
+Name: assets/newmenu/shop/majak_error1_bt_2.png
+SHA1-Digest: TpdRxbQRKhUH5ux5yJ5tjwHHhK8=
+
+Name: assets/newgame/pae/tile_back/style_01/starttile_hdown.png
+SHA1-Digest: 2TwC+WGjCcaK0HzmYvGGvTh2Mxo=
+
+Name: assets/sound/male_voice_1_greeting_4.mp3
+SHA1-Digest: LIrd3cNWa2fHjwqO5133ErpSh+A=
+
+Name: assets/sound/male_voice_3_greeting_6.mp3
+SHA1-Digest: RH5ofSTSk+YYdOiA9ru9Ivj+s8g=
+
+Name: assets/newgame/turnbutton_kang_bg_over.png
+SHA1-Digest: Jhs3g2yecs12qlA7HMi78Ujb2XE=
+
+Name: assets/titlenickname/level_icon_11.png
+SHA1-Digest: dbQ2z3bIsCAjdkpTZjy3xQgq31s=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_hup_r_bg.png
+SHA1-Digest: hAhRJcrZG8RZaU/AeJSzBFmWX+M=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: OIRGcM9wwTMJqudjfOzKjfWhqx0=
+
+Name: assets/newpopup/make_cancel_bt_n.png
+SHA1-Digest: VmsTf74bLHDQ6/Z09vckRL40aRw=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: CAX452L2JZVHr6GVDyVIByIfBc8=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_dark
+ .9.png
+SHA1-Digest: R0rCQap54Xf4ElOYS7zj9TUQB6s=
+
+Name: assets/newgame/gamebutton/invite_room_friend_2.png
+SHA1-Digest: 8dhW5JdGk4QTMuxCBB9NYCAVbL0=
+
+Name: res/drawable/unityads_icon_speaker_base.xml
+SHA1-Digest: 6pL5IqJ7XlLpToCWv0qIrBDIxJ8=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_sak5.png
+SHA1-Digest: tp653Tu4+lhA59JuewshlatTMAc=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_back.png
+SHA1-Digest: kLD0TzaAN3RGeNPzGfCvULr2nvQ=
+
+Name: assets/newgame/ui_furiten/furiten_0.png
+SHA1-Digest: OaDksar38RIUoT1VXVnMYseTZZw=
+
+Name: assets/common/normal_box/normal_white_box_right_top.png
+SHA1-Digest: hpfr4MiiZnRlqp1FxiOwJCV1mQ0=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_tong7.png
+SHA1-Digest: 9ZQ7IHm3lzpdjUOyc28XU3drHJw=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_vdown.png
+SHA1-Digest: f/gLWfl2gXZS1XnHvQxjcC/pdAE=
+
+Name: assets/newgame/majak_talklist_select_btn_p.png
+SHA1-Digest: AyTFSasdlgilYO0KCh9HZxiayKo=
+
+Name: assets/newlobby/noadmittance_bt_1.png
+SHA1-Digest: 95ouSdlEyKVca0hw0BUuBwhjIrs=
+
+Name: res/layout/unityads_view_video_paused.xml
+SHA1-Digest: zj918UYqfQPed/vu+PXs/SikJSU=
+
+Name: assets/newgame/allow_pae.png
+SHA1-Digest: vLCuxuXeSVQjVFvAeeHThDuv/ik=
+
+Name: res/layout/offerwall_item.xml
+SHA1-Digest: AA6jmknmxrCFs5kaDthp2e65sc8=
+
+Name: assets/titlenickname/level_icon_bg.png
+SHA1-Digest: rqXnOwbXIA0L7IpRYPeYr5/DIBg=
+
+Name: res/color/footer_button_text_color.xml
+SHA1-Digest: b09zWHGn0rZ70zhExFufdjyAs+s=
+
+Name: assets/sound/paesound/voice_sak_5.mp3
+SHA1-Digest: KvZUk9YL8oU3gksCN9PvEBQnTdI=
+
+Name: assets/newmenu/shop/shopitem_numfont_gold/shop_icon_gold_0.png
+SHA1-Digest: onXlUknxCNDCC7FPBiEttx577pA=
+
+Name: assets/sound/Dice.mp3
+SHA1-Digest: Npm0op+2BX+Zxh36D1i6vRlvndo=
+
+Name: assets/common/bg_image_deco.png
+SHA1-Digest: zPC10lcV+SpIRfye1GpCm58xjIs=
+
+Name: assets/newpopup/refuse_bt_1.png
+SHA1-Digest: GSMM7cy2hiy+NPjq6/FnHVudRwE=
+
+Name: assets/newmenu/myitem/pae_tab_4_1.png
+SHA1-Digest: OGGfgYpHUmgZ7+EFTNOtn1bJdZA=
+
+Name: assets/newpopup/make_room_text.png
+SHA1-Digest: UBGbmswkeHmU6ub9DEmSRpLerJk=
+
+Name: assets/newpractice/rich_rule_btn_2_2.png
+SHA1-Digest: fjfdInALRhtV89hFeTPGFnGRWPQ=
+
+Name: assets/sound/male_voice_6_greeting_2.mp3
+SHA1-Digest: U1xZ3/vaqBR9XZQsFG5SxEQ7n7s=
+
+Name: assets/newtutorial/tutorial_china_basic_ani_3.png
+SHA1-Digest: MZfSUM2Xxi7h3dx2a/mOjT+v+pM=
+
+Name: assets/newlobby/menu_playad_btn_p.png
+SHA1-Digest: JQqE6xO0F4RLuvKWT0VaLToWXF8=
+
+Name: assets/newgame/result/result_font_win.png
+SHA1-Digest: MDqN2RzOOMJ2aQlf5wJLv/M/Yl4=
+
+Name: assets/newpopup/kakao_logout_btn_2.png
+SHA1-Digest: pd2ESmEti7x9EMwksP/nYcqZTcs=
+
+Name: assets/newlobby/rich_tab_1_2.png
+SHA1-Digest: qfnDgLnUc6CWOC9mxV3AeJODs+o=
+
+Name: res/drawable-hdpi-v4/btn_close_n.png
+SHA1-Digest: 2Uh+14n70MLsv7x32hMaqNk23lo=
+
+Name: res/color/wallet_primary_text_holo_light.xml
+SHA1-Digest: XCG6ZA68Lksked0Jcdc1YA7+rFs=
+
+Name: assets/newgame/result/result_font_lose_alone.png
+SHA1-Digest: uoSFgYnTe3UcEzbStjznfcNgus8=
+
+Name: assets/dicescene/dice/ani/diceani_00.png
+SHA1-Digest: SqSCFAAE8EQNI3kdREZ56wFHMS0=
+
+Name: assets/newgame/result/japan_oddsresult_bottom.png
+SHA1-Digest: 62O5qi08Vw6V2VujZPVzw49KNBQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: dYDfYdQeVCs4/1WeSohObo/Y42U=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: YA4050FPgpAFuw6xQI3jFSgIwVQ=
+
+Name: assets/newpractice/rich_rule_btn_4_3.png
+SHA1-Digest: Z3W02VG6/1GzHNi3o3o/LgJ2kP0=
+
+Name: assets/newgame/japan_multiui_result_back_lose.png
+SHA1-Digest: PKiR484/1yIXyCHqC6R/4eFpVR8=
+
+Name: assets/newlobby/menu_playad2_btn_n.png
+SHA1-Digest: nATEH4YNmQWjFKzcoQhUoj7CJvo=
+
+Name: assets/dicescene/dice/ani/diceani_02.png
+SHA1-Digest: OpKUJqZX+0HgEPcCBkMr+7IO720=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_sak6.png
+SHA1-Digest: 4F7xKPk5VAzvtGymkO4Fl6wgKZY=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_dong.png
+SHA1-Digest: G/0E4wkZiZLYs65YYq9MDD83YIo=
+
+Name: assets/newtutorial/tutorial_china_character_ani_2.png
+SHA1-Digest: 3i8zvIfKXZTgfij2NS4dyQaYpOY=
+
+Name: assets/select/tutorial_china_btn_1.png
+SHA1-Digest: FxbfLb5FryWvFTT6ipFmdJdmnac=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: KfT1DbEuXyhvG18n0yILeVsK0Vo=
+
+Name: assets/newmenu/myitem/pae_tab_3_1.png
+SHA1-Digest: uPaAWS0EKmK3UusCoGJXUdEzS2A=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_up_bg.png
+SHA1-Digest: 5xvnbIEppR2JooYVbSVg+1aHO8c=
+
+Name: assets/newpopup/avata_change_bt_2.png
+SHA1-Digest: PJ3yTPgGXJBvDTTr5y7ODxnZr+w=
+
+Name: assets/newgame/turnbutton/noselecttile_bg.png
+SHA1-Digest: EwnixIiwCYtK7dMxZzGYvJGJpxE=
+
+Name: assets/sound/paesound/voice_tong_1.mp3
+SHA1-Digest: 9b91aOxUQt1UAiXio1+kzKTv7ek=
+
+Name: assets/newgame/flower/userui_flower_button_03_1.png
+SHA1-Digest: DCQPnesXt1Ph0GMejdXQPCnUjAA=
+
+Name: assets/newpopup/popup_no_bt_1.png
+SHA1-Digest: HUJmQ3sLWADbERMiFhdcntVV7sI=
+
+Name: assets/newlobby/make_inviteroom_bt_n.png
+SHA1-Digest: z17cOLFbWPl9TFs2fvnJgbQzsO4=
+
+Name: res/layout-v17/unityads_view_video_play.xml
+SHA1-Digest: NtOndAMkTnIuWpc6HH3rxiXt4yA=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_vup_questtion.png
+SHA1-Digest: H70Aeoh1HQf/u1PlHpfvVXF0uk0=
+
+Name: assets/languagetext/Language_eng_helpgameplay.xml
+SHA1-Digest: PNTlXvt9nDOTB6QL9W/EPiZ5Qq0=
+
+Name: assets/newgame/fontcardnum/cardnumber_4.png
+SHA1-Digest: CEnEReDZ++Nr6Pwn78nrhGW5AI0=
+
+Name: assets/sound/male_voice_2_greeting_4.mp3
+SHA1-Digest: dZ4bjAiejbQSplwBdqu3d+PQUaw=
+
+Name: assets/sound/male_voice_3_hi_1.mp3
+SHA1-Digest: XEsR25UQ/XLqxcXeTqtbFR8RZv4=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_back2.png
+SHA1-Digest: P4yo7SqVNNBKnzWflyTXlbFEiOg=
+
+Name: assets/sound/paesound/voice_pung_buk.mp3
+SHA1-Digest: sAEYCusvVS7lUyXuUupz8rYLURU=
+
+Name: res/drawable-mdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: SQEZAdwkba0EmrQH7lrE5UvQbOY=
+
+Name: assets/newpopup/help_btn_2.png
+SHA1-Digest: er3OpO64FxOV2/TgeWEKbZonkQs=
+
+Name: assets/newpopup/setting_cancel_bt_p.png
+SHA1-Digest: L8St4wNQUL9K2ilRhaRWfhpIMug=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_front_bg2.pn
+ g
+SHA1-Digest: QhUbEJl7a13wQ+xaGHxfVWOZqdE=
+
+Name: assets/newpopup/setting_bt_n.png
+SHA1-Digest: 6c72lPEtO6iQ3MZ1Lp9bSbJTNRw=
+
+Name: assets/common/normal_box/normal_white_box_left_bottom.png
+SHA1-Digest: uSG6KUz2xwhfls0KEgYIe9gm+vI=
+
+Name: assets/common/end_btn_p.png
+SHA1-Digest: V0yHositUBl21YNnSU4cJrnTU8o=
+
+Name: assets/newmenu/shop/shop_gold_btn_1.png
+SHA1-Digest: wei7SFffTHUqFzJDyU1pT8nysKs=
+
+Name: assets/newgame/result_china_jokbo_2.png
+SHA1-Digest: nJpdLdH9f3bXGClHLMezTNH/FIw=
+
+Name: assets/newgame/game_china_bg_1.png
+SHA1-Digest: Fs/ep5ZhPPpizQ/kVZ0xorz9ciI=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_sak7.png
+SHA1-Digest: uKR8oel1LwjGYssANhu3Mva5Bwg=
+
+Name: res/drawable-hdpi-v4/logo.png
+SHA1-Digest: +y1Vioaf+8uaeGbGPgAgv/93XYQ=
+
+Name: assets/newgame/pae/tile_back/style_02/starttile_vdown.png
+SHA1-Digest: jKUj8vzLreGY1Y6oi52bnbJajF0=
+
+Name: assets/newgame/flower/userui_flower_button_04_2.png
+SHA1-Digest: QCBRHt5nMI29lvn8fG9MW3ecLuo=
+
+Name: assets/newgame/result/result_font_lose_alone2.png
+SHA1-Digest: kSY2tteYd4nGtlMc/IDS9+Pnkuc=
+
+Name: assets/newpopup/sound_setting.png
+SHA1-Digest: 8Osw0qQDoucsf4MpwPfwpYIH8dw=
+
+Name: assets/newgame/pae/tile_back/style_00/newchina/tile_hup_bg.png
+SHA1-Digest: uUQNINnbCW8IfiYc5waKznqwnc8=
+
+Name: assets/sound/GiveCard.mp3
+SHA1-Digest: kfzjcRQyOw7Ox/dxbISgPT2GGEc=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_man4.png
+SHA1-Digest: vvGhl9ukxZdQUerOw8e7K/NtwrY=
+
+Name: assets/titlenickname/level_icon_8.png
+SHA1-Digest: zqBtKaIGhRM0BX2TS06VY3dBU84=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_nam.png
+SHA1-Digest: I0M3v8U4iOyRWlDHOq+g8o7z3ZY=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_flower3.png
+SHA1-Digest: 8P7ecIJFQGiztxrnILADjdnFbi8=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_buk.png
+SHA1-Digest: pO4oos6EEatVWGr2kyEvryZjgRg=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_sak7.png
+SHA1-Digest: 7e9brVhLI+EwaFFnVIrz26BFQk4=
+
+Name: assets/common/black_back.png
+SHA1-Digest: QXt0ssU+MnvJcoz+w8VquhJH+5k=
+
+Name: assets/newgame/turnbutton_chi_bg_over.png
+SHA1-Digest: ankQeyRymp+sQVHrjufZrzGp+XA=
+
+Name: assets/newtutorial/tutorial_china_list_btn_1_1.png
+SHA1-Digest: a7rq07YkYcaCd9rZ/a4wiSC5u8M=
+
+Name: assets/sound/female_voice_1_greeting_3.mp3
+SHA1-Digest: Q7NAkhP4iyY8sju8mV5SI7nK/ZI=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: Tg8rG9qS6C3GGXqnPIbwhnHcScE=
+
+Name: assets/newgame/pae/tile_font/bigtile_font_rich.plist
+SHA1-Digest: z1geTFFDNwngNgNyBNDSpYxUQUw=
+
+Name: assets/newmenu/helpsub/help_05_02.png
+SHA1-Digest: IA3aMdCviT1zl5IoiPyWl4fsfgU=
+
+Name: assets/newtutorial/tutorial_rich.png
+SHA1-Digest: Ao235Di4ZqkJ71YQIpSyFS8RCTU=
+
+Name: assets/newgame/timer/multi_paetimer5.png
+SHA1-Digest: cOyhuvmMPL4CBSZe3fbP82/z/PA=
+
+Name: assets/newmenu/helpsub/help_07_02.png
+SHA1-Digest: Sr951lbMPPnZsvIvNCXTXO7J5d4=
+
+Name: assets/newmenu/ranking/majak_ranking_icon_none.png
+SHA1-Digest: jvh/eW2x+rE46nj5uycjs358hcs=
+
+Name: assets/newtitle/majak_back_img.png
+SHA1-Digest: DQwRsE6aqj35j+O6+yHBTrKAKSc=
+
+Name: assets/sound/10.mp3
+SHA1-Digest: Zoaqdi8QZlI/peqV/2m2RNNx2yo=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_hup_r_bg.png
+SHA1-Digest: ky21F64qS+S6F3AtWBR/Qr4zL5Q=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: alk9qCjovoayqfBmhKb0OSABN44=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: wv2dVvaU2YokwLE9rPy/vR71x8o=
+
+Name: assets/newgame/fontcardnum/cardnumber_1.png
+SHA1-Digest: S+6XABJSEHVHg6zbEHTHjKm4Uzk=
+
+Name: assets/newgame/gamebutton/invite_room_push_2.png
+SHA1-Digest: 0TbjzvKBy1jXxCkyFV0smngqBCs=
+
+Name: assets/newmenu/myitem/pae_tab_4_2.png
+SHA1-Digest: g2UULbXMTmMgR5dwQjIJL9oyMwU=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: PQepBgnG9/NfWmEsB0xZninuUKM=
+
+Name: assets/newpopup/go_shop_bt_2.png
+SHA1-Digest: oLT1MYzgbCpsAM+DFMv4rs7PBcg=
+
+Name: assets/sound/male_voice_3_greeting_5.mp3
+SHA1-Digest: iLN1mgNOIIcm0cfudeMhwVnGGH8=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_sak8.png
+SHA1-Digest: pCHN2bKs1I5Lj6JycF6Rk53xDTM=
+
+Name: assets/china_script_oddsview.xml
+SHA1-Digest: 12PLpqlVERX18ywNRRJcVIwB/2Q=
+
+Name: assets/select/select_china_majak_btn_5.png
+SHA1-Digest: m/KJz3FUAu63JENx8xhIslKxZw4=
+
+Name: assets/newlobby/rich_tab_2_1.png
+SHA1-Digest: Lf1rJwaH3NptbBMWWwk+6qYCdGA=
+
+Name: assets/newgame/gamebutton/close_bt_1.png
+SHA1-Digest: ZU1hAls290A+n0xhiJYt8DwanwY=
+
+Name: assets/sound/25.mp3
+SHA1-Digest: 77Ecpb97LncTbIUtyo+vAZjPLIs=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: f8NYPVOXcYBwuQSENH+eJEOJeV4=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_right_madeback.png
+SHA1-Digest: wyN67+RGse0odYuZgFgVfNdSAxo=
+
+Name: assets/newmenu/myitem/pae_tab_5_2.png
+SHA1-Digest: dmUXQg0nM7yRcCEq4RykoxbgrpY=
+
+Name: assets/sound/paesound/voice_sak_1.mp3
+SHA1-Digest: yPf8j8mvGltW/2h35+CZwE5n7I0=
+
+Name: assets/newpopup/callcenter_btn_p.png
+SHA1-Digest: +0E1i5krgcKJGleMDtb0bQGBGLY=
+
+Name: res/drawable-hdpi-v4/joystick_icon.png
+SHA1-Digest: YAOjNv09WA6c+sxtElN6vWUp0oU=
+
+Name: assets/common/next_bt_1.png
+SHA1-Digest: QAmMXlvplDyEEsMTvFFpNZgeUMI=
+
+Name: assets/newlobby/china_majakroon_list_1_1.png
+SHA1-Digest: yawRSECaL7sOKYtUK4rMgKRH0k0=
+
+Name: assets/newmenu/myitem/pae_tab_2_1.png
+SHA1-Digest: PM4KqzSBM1TGyrl3T+M1psGmTBM=
+
+Name: assets/sound/female_voice_2_greeting_1.mp3
+SHA1-Digest: 96P0Qr3bbeg69lKMlQ6+XFYKYi0=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: Cv+J7vU8p5tdCif6GMDKlPPRC6M=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_nam.png
+SHA1-Digest: 8+US9H5dcml+t5Gd7WFL/TFlWl4=
+
+Name: assets/newmenu/shop/shopitem_numfont_gold/shop_icon_gold_3.png
+SHA1-Digest: 2uQLPFcSYuk+CSd5CCa50qblfz0=
+
+Name: assets/newpopup/setting_on_btn_2.png
+SHA1-Digest: HbSalMk0u2xn0re0bWGhl49UTvo=
+
+Name: assets/newpractice/rich_rule_btn_1_3.png
+SHA1-Digest: Gx6LmRdncmenrlXTTrrQWv+zIhU=
+
+Name: assets/sound/male_voice_4_greeting_1.mp3
+SHA1-Digest: IuGVYV3rjGDkc8XiqNyqVArDPHY=
+
+Name: assets/sound/male_voice_5_greeting_2.mp3
+SHA1-Digest: Bqvssojc3wD9yuFaQO/54QBnU64=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: CAX452L2JZVHr6GVDyVIByIfBc8=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_tong8.png
+SHA1-Digest: Win4i1vmeneFl8/TQfTcfawyo2o=
+
+Name: assets/newgame/pae/tile_back/style_00/newjapan/tile_vup_questtio
+ n.png
+SHA1-Digest: Qme4f/ekmPCVdLtpNd/FWE77p34=
+
+Name: assets/newtutorial/tutorial_china_basic_ani_4.png
+SHA1-Digest: MZfSUM2Xxi7h3dx2a/mOjT+v+pM=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: BoLkfiIFe77i34exfP7BramG/ho=
+
+Name: assets/newtutorial/tutorial_common_list_btn_1_1.png
+SHA1-Digest: FNmloRHsOZ4b228iR7s302SJXtM=
+
+Name: assets/sound/male_voice_2_greeting_5.mp3
+SHA1-Digest: 8IqtT8jSIWc2RyJOkn03jYGGm4o=
+
+Name: assets/newmenu/shop/shop_icon_x.png
+SHA1-Digest: VPrZ6B+INYk0N1ZFik/Kg2GBFhM=
+
+Name: assets/newtutorial/tutorial_china_list_btn_1_2.png
+SHA1-Digest: 5u2Fxz88RAF6zBQZgyni0/cXtsg=
+
+Name: assets/newgame/result/majak_rich_result_hilight.png
+SHA1-Digest: N+TxcO9RAulRFQ9gr6bjZE+COf4=
+
+Name: assets/select/tutorial_china_btn_2.png
+SHA1-Digest: jJsQcIzvKuEp2sHr3POlYnPxmvk=
+
+Name: res/drawable/common_signin_btn_text_light.xml
+SHA1-Digest: gbL3UxH5sAJwZqS7rjNysKk6h90=
+
+Name: assets/newpopup/help_btn_1.png
+SHA1-Digest: cevKzaoxjqKYETEBAm3fujDeZ7Q=
+
+Name: assets/newgame/pae/tile/tile_hup/tile_hup_sak7.png
+SHA1-Digest: pA2ewKs9YbIs7tFw5FVG4XCI5pM=
+
+Name: assets/newgame/flower/userui_flower_button_06_2.png
+SHA1-Digest: a1LKgDELDW1taf23Eaybkqj/96U=
+
+Name: assets/newgame/game_china_bg_2.png
+SHA1-Digest: Jw3b73bTMJswYVKsG4tnhdAmp5s=
+
+Name: assets/newgame/pae/tile_back/style_01/tile_vup_bg2.png
+SHA1-Digest: qQFgeHwi69zZSVIY3UAzPoCLdaM=
+
+Name: assets/common/callcenter_btn_p.png
+SHA1-Digest: +0E1i5krgcKJGleMDtb0bQGBGLY=
+
+Name: assets/newtutorial/tutorial_china_character_ani_3.png
+SHA1-Digest: pOGoWt0Qt59KBmMQz/1e6nr+zK4=
+
+Name: assets/dicescene/dice/ani/diceani_03.png
+SHA1-Digest: X5arSyP4Dh+wneyJblC1zICEjTA=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: xa+o97ZNQDyD6tCp4L4gmqdoPrs=
+
+Name: assets/newgame/game_sun_img.png
+SHA1-Digest: QO8i9W3gC66v2dCYsIkoD4REFUk=
+
+Name: assets/newgame/pae/tile_back/style_03/tile_up_bg.png
+SHA1-Digest: tDHpCUnYqWaz9qw6UhGw//LLfT4=
+
+Name: res/layout-land/offerwall_item.xml
+SHA1-Digest: kGEq18cI8SgT5rsPkEs1iYGaV4Y=
+
+Name: assets/newpopup/avata_change_bt_1.png
+SHA1-Digest: jBpxk555Vh4wVE1892jEkjjCDcY=
+
+Name: assets/newlobby/china_character_2.png
+SHA1-Digest: pYK0vuq4c3SRZfPx5I9rJta4PZ0=
+
+Name: assets/newlobby/china_majakroon_list_1_2.png
+SHA1-Digest: asSLEWtnaizznySglM0kyQ2FrbY=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: T7jCCqaBHZydFrghJhlARmdI7xk=
+
+Name: assets/newgame/flower/userui_flower_button_03_2.png
+SHA1-Digest: hggBm7NIZMr6iYKrCUqGj3Ig+m0=
+
+Name: assets/sound/male_voice_6_slotwin.mp3
+SHA1-Digest: L5TQ5YDo8CtJWTI08VKCnZ30Po8=
+
+Name: assets/newgame/fontcardnum/cardnumber_3.png
+SHA1-Digest: FS537H9Ex2mrdLzbEDiBEBXeKJo=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_flower2.png
+SHA1-Digest: 5eHASyw6BNoJ550WpyVmV8Ry3vo=
+
+Name: assets/newlobby/menu_friend1_btn_n.png
+SHA1-Digest: MYu+XkM+k6gJJkDkQUofuc1s328=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_man3.png
+SHA1-Digest: CIIaCWn1x716DPQhDtPFwG89z+c=
+
+Name: assets/titlenickname/level_icon_9.png
+SHA1-Digest: ltZtZccTnAeYC+9bo1hOa9AnmP8=
+
+Name: assets/newgame/pae/tile/rich_tile_front/tile_front_sak9.png
+SHA1-Digest: GNE33vbNXKqEvf7lJ99N+w11TiM=
+
+Name: assets/newgame/flower/userui_flower_button_04_1.png
+SHA1-Digest: JPza98jG/yAi7xxX9Bygi84QFGI=
+
+Name: assets/newtitle/majak_title2.png
+SHA1-Digest: i7fkMu3nvQdQJ+MLm7wuz1Yru8c=
+
+Name: assets/newgame/timer/multi_paetimer4.png
+SHA1-Digest: ze1TlfKq0aFYyfLepjMWTHyO/Y8=
+
+Name: assets/newmenu/helpsub/help_05_01.png
+SHA1-Digest: W/mi+BLM87PDCQWJP3QqhBlZsN8=
+
+Name: assets/newpopup/make_cancel_bt_p.png
+SHA1-Digest: 1WCduvRQI1e10GMaBOOvKFLmGns=
+
+Name: assets/newpopup/join_textbox.png
+SHA1-Digest: iKJwRCIxT+Vg0kL1oYn+1oWAOZI=
+
+Name: assets/newlobby/japan_character_4.png
+SHA1-Digest: VPEcZ0V9LOnuLlxJKQ3SazTZG/s=
+
+Name: assets/sound/7.mp3
+SHA1-Digest: P8XEEBjpB4kuIyj4xJ+ytkP5ro0=
+
+Name: assets/sound/11.mp3
+SHA1-Digest: Hms35xep0ILN+QJx9n1mV1Ty1u8=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_sak8.png
+SHA1-Digest: 4y/Rl6AR0zHTDNEVCrFSGE0YZgI=
+
+Name: assets/newmenu/myitem/pae_tab_3_2.png
+SHA1-Digest: y5ur2wQI0Dy/fbv63XVtSbIs7tk=
+
+Name: assets/newgame/richmark/richmark_down.png
+SHA1-Digest: eMn6/UXDH6NoUq3WLwfcwzIvJ20=
+
+Name: assets/newgame/flower/userui_flower_button_01_1.png
+SHA1-Digest: QSMXIn+r5B+xxh7+oKjfnw1jbJ0=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_tong8.png
+SHA1-Digest: aHbaNK9OAL3blFy5TVyN5Qg37kY=
+
+Name: assets/newgame/richmark/richmark_left_ready.png
+SHA1-Digest: RTlqHyBOA5/yQVVxg+qzbuojcKI=
+
+Name: assets/newmenu/item/china_item.png
+SHA1-Digest: J3BIV/l3eV6TzkiZurRP2NP753E=
+
+Name: assets/sound/male_voice_3_greeting_4.mp3
+SHA1-Digest: lWh31EDzTobXuOP52o9uVF8DWyU=
+
+Name: res/drawable-hdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: Qt6sVzAEEKilEQe9vyt8o/vXVH8=
+
+Name: assets/newgame/majak_talk_icon2.png
+SHA1-Digest: 5acHr9F1NYl7McKzzrqiFPpvyV4=
+
+Name: assets/common/netmsg_bg.png
+SHA1-Digest: KjNB1iBIggG6+bE6riJyXdYoS9w=
+
+Name: res/drawable/common_signin_btn_icon_dark.xml
+SHA1-Digest: Qdkzp8ohC1F5CKHzUZuIZLQMDbw=
+
+Name: assets/newpopup/go_shop_bt_1.png
+SHA1-Digest: CPbmc5KzxKqzfD6tNMh777IvTDg=
+
+Name: assets/sound/female_voice_1_greeting_1.mp3
+SHA1-Digest: TFXyUZJBLbkHPvh6D3iT9DC5L7g=
+
+Name: assets/sound/male_voice_4_greeting_2.mp3
+SHA1-Digest: SoFdU7uGlaWbIYhFXOwwTzMD/yk=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_sak8.png
+SHA1-Digest: xOfSO/kQIy2p4XeY7UmRIsSggMc=
+
+Name: assets/newgame/pae/tile/rich_tile_vup/tile_vup_tong9.png
+SHA1-Digest: 2ijsq/QBCriCnliUJfXKghn5Qi4=
+
+Name: assets/newmenu/shop/shopitem_numfont_gold/shop_icon_gold_2.png
+SHA1-Digest: QW+OLRfTONhY16RyNeVrjAoVi9w=
+
+Name: assets/sound/26.mp3
+SHA1-Digest: drLiWpXADw0O7JutdXbMuujzaGs=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: +qORW9oS7s5/oY5Z1R4KkQ+aJ1g=
+
+Name: assets/newtutorial/tutorial_rich_list_btn_1_2.png
+SHA1-Digest: 8DyX/Q/koPHr76oUuUJ4Qwu7QJ4=
+
+Name: assets/newgame/flower/userui_flower_button_05_2.png
+SHA1-Digest: KLSjjA780jBfrd2AOv/EVCGiEMw=
+
+Name: assets/newgame/pae/tile_back/style_02/tile_up_bg.png
+SHA1-Digest: 0SmD7H2fA9XdiR3ZjcQlmS9hGP0=
+
+Name: assets/newpopup/kakao_id.png
+SHA1-Digest: muS7eberzNAjrQmJoFxIre1izJs=
+
+Name: assets/newgame/majak_talklist_select_btn_n.png
+SHA1-Digest: JZnghOmT6ByAkj/Hcfzk0/pioaU=
+
+Name: assets/newgame/flower/userui_flower_button_02_1.png
+SHA1-Digest: 8Tt/k1HajqvK6Mhvnc5spkoWUZg=
+
+Name: assets/newmenu/help/close_btn_n.png
+SHA1-Digest: 3lVmP5xyfFolDFNln6ZkoKYsEq0=
+
+Name: assets/newmenu/myitem/pae_list_bg.png
+SHA1-Digest: s3WJTmOprhC1g4XL28ayJeCwpBM=
+
+Name: assets/sound/paesound/voice_sak_2.mp3
+SHA1-Digest: 46UnseD8ccnh36jn/rJcoui73NM=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_dark
+ .9.png
+SHA1-Digest: KfT1DbEuXyhvG18n0yILeVsK0Vo=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: YEFVlKZ9K2ratbVOnhEhJOrSJ6g=
+
+Name: assets/sound/female_voice_3_slotwin.mp3
+SHA1-Digest: uGUkg4X0DSir8fcMXef0B+wPhUA=
+
+Name: assets/newtutorial/tutorial_china_character_ani_4.png
+SHA1-Digest: pOGoWt0Qt59KBmMQz/1e6nr+zK4=
+
+Name: assets/newgame/pae/tile/tile_vup/tile_vup_red_sak5.png
+SHA1-Digest: WfNqJ7uxzhVyoIQM1Wex/Z8MRX0=
+
+Name: assets/newmenu/shop/money_list_1.png
+SHA1-Digest: XhEA+MtHMDq5DJkA/BNLeYBuLto=
+
+Name: assets/sound/male_voice_5_greeting_1.mp3
+SHA1-Digest: vYHU7syPTRYV0e+JvGHohSWsmVA=
+
+Name: assets/newpopup/ad_majak_player_bt_2.png
+SHA1-Digest: tyJslLvkjcCBSShC3C+vXGAI9Oo=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: hqxe2Ap9MZsAqBPDoV+yim7NXFM=
+
+Name: assets/newgame/game_arrow_2.png
+SHA1-Digest: yUZ15it5Qxsd8tWtvXO/KXbkRQo=
+
+Name: assets/newgame/pae/tile/tile_front/tile_front_tong9.png
+SHA1-Digest: AoAGd56XrtdxXKt4EZ7DDw+LETE=
+
+Name: assets/newlobby/china_character_3.png
+SHA1-Digest: k9OV28f2BgufYDV4BKNV2MbXhv8=
+
+Name: assets/common/numfont/numfont001.plist
+SHA1-Digest: JLDXAnufQv4xleIvjsuij5liFCU=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: r5BaJcm8YInShTypnaU/gf6UKTQ=
+
+Name: assets/newmenu/myitem/pae_tab_1_2.png
+SHA1-Digest: xl4BHKFW5kl7SZqlBog4+u57zcE=
+
+Name: assets/languagetext/script_help_dialog_kor.xml
+SHA1-Digest: E26N53moFbYQxJ/bY3MS6w6YhBQ=
+
+Name: assets/newmenu/myitem/pae_shop_go_bt_2.png
+SHA1-Digest: goR2h6wsd95e1vxsWG/lYimaReU=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: XfiPEQDAz6Ng5Q70xPZblJiqGT8=
+
+Name: assets/sound/Pae_throw.mp3
+SHA1-Digest: kfzjcRQyOw7Ox/dxbISgPT2GGEc=
+
+Name: assets/newgame/result_font_lose_pay.png
+SHA1-Digest: 9pWhwi9A9RJoE0cx56s1DtGITR4=
+
+Name: assets/sound/male_voice_1_greeting_6.mp3
+SHA1-Digest: +H6Kq2Z9LTRUDUOCFnJkxMtkF2Q=
+
+Name: assets/newgame/result_textbox.png
+SHA1-Digest: fuMPrexa/Xqq7VzcNgzRAIIvHnc=
+

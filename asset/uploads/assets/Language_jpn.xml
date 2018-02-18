@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fontdataroot>
+	
+  <jpn>
+    <title>インター囲碁</title>
+    <welcome>ようこそインター囲碁へ</welcome>
+    <samsepan>三回戦</samsepan>
+
+    <level0>無級</level0>
+    <level1>級</level1>
+    <level2>段</level2>
+    <competition>大会</competition>
+
+    <colorblack>黒</colorblack>
+    <colorwhite>白</colorwhite>
+
+    <notice>お知らせ</notice>
+    <systemmsg>システムエラー</systemmsg>
+
+
+    <list4>	級	</list4>
+    <list5>	段	</list5>
+    <list6>	勝	</list6>
+    <list7>	負	</list7>
+    <list8>	番部屋	</list8>
+    <list9>	勝利	</list9>
+    <list10>	敗北	</list10>
+    <list11>	様が入場しました	</list11>
+    <list12>	様が退場しました	</list12>
+    <list13>	様が改めて入場しました	</list13>
+    <list14>	様の接続が切れました	</list14>
+    <list15>	しばらくお待ち下さい	</list15>
+    <list16>	ゲームを始めます	</list16>
+    <list17>	様が棄権しました	</list17>
+    <list18>	前の画面へ	</list18>
+    <list19>	メインへ	</list19>
+    <list20>	ログイン	</list20>
+    <list21>	AI	</list21>
+    <list22>	オンライン対戦	</list22>
+    <list23>	ゲームスタート	</list23>
+    <list24>	待ったをする　	</list24>
+    <list25>	再対局	</list25>
+    <list26>	退場	</list26>
+    <list27>	ゲームランキング	</list27>
+    <list28>	勝手　	</list28>
+    <list29>	勝率	</list29>
+    <list30>	すぐ入場	</list30>
+    <list31>	空き部屋へ	</list31>
+    <list32>	ID  	</list32>
+    <list33>	パスワード	</list33>
+    <list34>	IDとパスワードを入力して下さい	</list34>
+    <list35>	入力不可 	</list35>
+    <list36>	入力不可の文字	</list36>
+    <list37>	ゲームを終了しますか	</list37>
+    <list38>	はい	</list38>
+    <list39>	いいえ	</list39>
+    <list40>	人	</list40>
+    <list41>		</list41>
+    <list42>	しばらくお待ち下さい	</list42>
+    <list43>	現在サーバーの点検中です	</list43>
+    <list44>	サーバーの点検中	</list44>
+    <list45>	接続されていません	</list45>
+    <list46>	接続のエラー	</list46>
+    <list47>	現在接続中です	</list47>
+    <list48>	強制終了しましたらしばらく待ってから再接続して下さい	</list48>
+    <list49>	接続中のID	</list49>
+    <list50>	回	</list50>
+    <list51>	しばらくしてご利用下さい。	</list51>
+    <list52>	エラー	</list52>
+    <list53>	IDとパスワードの長さを減らして下さい	</list53>
+    <list54>	サーバーのバージョンが合わない為接続できません。プログラムを更新して下さい	</list54>
+    <list55>	非接続の状態	</list55>
+    <list56>	接続が切れたのでメインへ移動します	</list56>
+    <list57>	入場不可	</list57>
+    <list58>	ゲーム部屋に入場出来ません	</list58>
+    <list59>	定員の超過による待機	</list59>
+    <list60>	退場しますか	</list60>
+    <list61>	結果	</list61>
+    <list62>	白の勝利です	</list62>
+    <list63>	赤の勝利です	</list63>
+    <list64>	黒の勝利です	</list64>
+    <list65>	引き分けです	</list65>
+    <list66>	番	</list66>
+    <list67>	警告	</list67>
+    <list68>	お知らせ	</list68>
+    <list69>	システムエラー	</list69>
+    <list70>	着手	</list70>
+    <list71>	ボードゲーム	</list71>
+    <list72>	引き分け	</list72>
+    <list73>	インター囲碁	</list73>
+    <list74>	次から控え室へすぐ入場	</list74>
+    <list75>	ベティング	</list75>
+    <list76>	形勢判断	</list76>
+    <list77>	その他のメニュー	</list77>
+    <list78>	部屋を退室	</list78>
+    <list79>	投了する	</list79>
+    <list80>	地計算申請	</list80>
+    <list81>	一手休み	</list81>
+    <list82>	再対局申請	</list82>
+    <list83>	置いてみる	</list83>
+    <list84>	検討の完了	</list84>
+    <list85>	無料充電	</list85>
+    <list86>	マイページ	</list86>
+    <list87>	サーバ移動	</list87>
+    <list88>	マネー順	</list88>
+    <list89>	棋力順	</list89>
+    <list90>	部屋の番号順	</list90>
+    <list91>	観戦者順	</list91>
+    <list92>	進行中のベティング	</list92>
+    <list93>	プロの対局のみ	</list93>
+    <list94>	入場する	</list94>
+    <list95>	ゲスト入場	</list95>
+    <list96>	会員登録	</list96>
+    <list97>	AI 対局	</list97>
+    <list98>	対局する	</list98>
+    <list99>	申請中	</list99>
+    <list100>	重複チェック	</list100>
+    <list101>	利用規約	</list101>
+    <list102>	ゲーム終了	</list102>
+    <list103>	ログアウト	</list103>
+    <list104>	ゲーム退会	</list104>
+    <list105>	サウンドの設定	</list105>
+    <list106>	タッチ時すぐ着手	</list106>
+    <list107>	環境設定	</list107>
+    <list108>	案内	</list108>
+    <list109>	対局の結果	</list109>
+    <list110>	キャンセル	</list110>
+    <list111>	確認	</list111>
+    <list112>	更新	</list112>
+    <list113>	自動	</list113>
+    <list114>	中止	</list114>
+    <list115>	棋譜の鑑賞	</list115>
+    <list116>	日付	</list116>
+    <list117>	黒	</list117>
+    <list118>	白	</list118>
+    <list119>	結果	</list119>
+    <list120>	私の棋譜	</list120>
+    <list121>	プロの棋譜	</list121>
+    <list122>	障害が発生してサーバーの変更が出来ません。	</list122>
+    <list123>	接続の失敗	</list123>
+    <list124>	エラー	</list124>
+    <list125>	新級数	</list125>
+    <list126>	総戦績	</list126>
+    <list127>	最大連勝	</list127>
+    <list128>	最大連敗	</list128>
+    <list129>	保有マネー	</list129>
+    <list130>	保有里芋	</list130>
+    <list131>	さんが勝ちました。	</list131>
+    <list132>	中押勝	</list132>
+    <list133>	時間勝	</list133>
+    <list134>	反則勝	</list134>
+    <list135>	障害勝	</list135>
+    <list136>	対局の無効	</list136>
+    <list137>	通知	</list137>
+    <list138>	地	</list138>
+    <list139>	有利	</list139>
+    <list140>	すぐに使用里芋	</list140>
+    <list141>	残った里芋	</list141>
+    <list142>	ようこそインター囲碁へ	</list142>
+    <list143>	対局者	</list143>
+    <list144>	対局を開始します	</list144>
+    <list145>	さんが一手休みました。	</list145>
+    <list146>	相手が一手休みました。	</list146>
+    <list147>	再対局の申請が入りました。	</list147>
+    <list148>	再対局がキャンセルになりました。	</list148>
+    <list149>	個使用	</list149>
+    <list150>	応答時間のオーバー	</list150>
+    <list151>	現在に形勢判断が進行中です。	</list151>
+    <list152>	一手以上進行して下さい。	</list152>
+    <list153>	対局の相手がありません。	</list153>
+    <list154>	再対局の不可	</list154>
+    <list155>	再対局の申請をお願いします。	</list155>
+    <list156>	秒	</list156>
+    <list157>	一手休みますか。	</list157>
+    <list158>	投了しますか。	</list158>
+    <list159>	相手の地計算の申請を承諾しますか。	</list159>
+    <list160>	相手が地計算の処理を選択中	</list160>
+    <list161>	申請がキャンセルになりました。	</list161>
+    <list162>	相手が申請をキャンセルしました。	</list162>
+    <list163>	里芋が足りないです。	</list163>
+    <list164>	購入しますか。	</list164>
+    <list165>	置く場所があるので地計算の申請が出来ません。	</list165>
+    <list166>	自動地計算が行われます。	</list166>
+    <list167>	地計算の処理を待機中	</list167>
+    <list168>	形勢判断をしますか。	</list168>
+    <list169>	ゲストは形勢判断が見れません。	</list169>
+    <list170>	黒の秒読みを始めます。	</list170>
+    <list171>	白の秒読みを始めます。	</list171>
+    <list172>	置けない場所です。	</list172>
+    <list173>	着手禁止	</list173>
+    <list174>	対局中はログアウト出来ません。	</list174>
+    <list175>	対局中はゲームを終了出来ません。	</list175>
+    <list176>	ログアウトの失敗	</list176>
+    <list177>	ゲーム終了の失敗	</list177>
+    <list178>	ログアウトしますか。	</list178>
+    <list179>	ゲームを終了しますか。	</list179>
+    <list180>	控え室	</list180>
+    <list181>	対局中の状況ではサーバー移動が出来ません。	</list181>
+    <list182>	サーバーの変更不可	</list182>
+    <list183>	ゲストです。	</list183>
+    <list184>	ゲストはAI対局が出来ません。	</list184>
+    <list185>	対局不可	</list185>
+    <list186>	対局の申請中はAI対局は出来ません。	</list186>
+    <list187>	ゲストは対局申請が出来ません。	</list187>
+    <list188>	申請不可	</list188>
+    <list189>	対局室またはAI対局ページを終了後に申請して下さい。	</list189>
+    <list190>	すぐにAI対局が始まります。	</list190>
+    <list191>	ポイントが足りなくて入場出来ません。	</list191>
+    <list192>	ポイント不足	</list192>
+    <list193>	ゲームルームに入場出来ません。	</list193>
+    <list194>	入場不可	</list194>
+    <list195>	里芋が足りなくてAI対局が出来ません。	</list195>
+    <list196>	午前	</list196>
+    <list197>	午後	</list197>
+    <list198>	棋譜を鑑賞しますか。	</list198>
+    <list199>	里芋が足りなくて棋譜鑑賞が出来ません。	</list199>
+    <list200>	里芋を購入して下さい。	</list200>
+    <list201>	里芋が足りないです。	</list201>
+    <list202>	棋譜鑑賞を終了しますか。	</list202>
+    <list203>	置き数	</list203>
+    <list204>	制限時間	</list204>
+    <list205>	手	</list205>
+    <list206>	無級	</list206>
+    <list207>	大会	</list207>
+    <list208>	序盤	</list208>
+    <list209>	中盤	</list209>
+    <list210>	後盤	</list210>
+    <list211>	終盤	</list211>
+    <list212>	連勝中	</list212>
+    <list213>	無効	</list213>
+    <list214>	定先	</list214>
+    <list215>	互先	</list215>
+    <list216>	目半	</list216>
+    <list217>	子の置き碁	</list217>
+    <list218>	接続が切れてログインの画面に移動します。	</list218>
+    <list219>	未接続の状態	</list219>
+    <list220>	存在しないIDです。	</list220>
+    <list221>	会員ではない方は会員登録をして下さい。	</list221>
+    <list222>	申し訳ありません。人数がオーバーして接続できません。しばらくして利用して下さい。	</list222>
+    <list223>	接続制限	</list223>
+    <list224>	使用停止中のIDです。	</list224>
+    <list225>	ユーザーの情報入力	</list225>
+    <list226>	ゲーム接続	</list226>
+    <list227>	接続試行中	</list227>
+    <list228>	ニックネーム／棋力の設定	</list228>
+    <list229>	PC版で使用する棋力を入力して下さい。	</list229>
+    <list230>	ニックネームを入力して下さい。	</list230>
+    <list231>	モバイル級数は１級から始まります。	</list231>
+    <list232>	使用可能なニックネームです。	</list232>
+    <list233>	このニックネームはすでに使用されています。	</list233>
+    <list234>	ニックネームを入力して下さい。	</list234>
+    <list235>	２～８文字以内で入力して下さい。	</list235>
+    <list236>	ニックネームの重複チェックをして下さい。	</list236>
+    <list237>	確認の要請	</list237>
+    <list238>	ウォン	</list238>
+    <list239>	万	</list239>
+    <list240>	億	</list240>
+    <list241>	兆	</list241>
+    <list242>	個	</list242>
+    <list243>	待機中	</list243>
+    <list244>	進行中	</list244>
+    <list245>	対局の終了	</list245>
+    <list246>	対局が終了しました。	</list246>
+    <list247>	応答時間のオーバー	</list247>
+    <list248>	対局室	</list248>
+    <list249>	すぐに対局が始まります。	</list249>
+    <list250>	AI	</list250>
+    <list251>	棋譜鑑賞	</list251>
+    <list252>	分	</list252>
+    <list253>	着点数	</list253>
+    <list254>	認証の失敗	</list254>
+    <list255>	IDあるいはパスワードが正しくありません。 </list255>
+    <list256>	ゲスト	</list256>
+    <list257>	対局が無効になりました。	</list257>
+    <list258>	取った石 	</list258>
+    <list259>	コミ	</list259>
+    <list260>	里芋	</list260>
+    <list261>	区間	</list261>
+    <list262>	再対局をしますか。	</list262>
+    <list263>	地計算の申請をしますか。	</list263>
+    <list264>	AI対局をしますか。	</list264>
+    <list265>	人気順	</list265>
+    <list266>	部屋の番号順	</list266>
+    <list267>	ベティング対局	</list267>
+    <list268>	プロの対局のみ	</list268>
+    <list269>	地計算勝ち	</list269>
+    <list270>	スマートフォンゲーム三回戦リリース！	</list270>
+    <list271>	アプリで出会う新感覚のゲームポータル三回戦！	</list271>
+    <list272>	対局室 ソート	</list272>
+    <list273>	サーバー	</list273>
+    <list274>	移動	</list274>
+    <list275>		</list275>
+    <list276>	個を使いました。	</list276>
+    <list277>		</list277>
+    <list278>	手以上の場合に使えます。	</list278>
+    <list279>		</list279>
+    <list280>	子の置き碁	</list280>
+    <list281>	黒	</list281>
+    <list282>	白	</list282>
+    <list283>		</list283>
+    <list284>	置き直し	</list284>
+    <list285>	置いてみる	</list285>
+    <list286>	稲妻ゲーム	</list286>
+    <list287>	連败中	</list287>
+    <list288>	対局室に入場しました。	</list288>
+    <list289>	稲妻ゲームは5分30秒の1回対局です。	</list289>
+    <list290>	地計算状況になると自動的に	</list290>
+    <list291>	一手休みボタンが活性化になります。	</list291>
+    <list292>	地計算が可能な状況になりました。	</list292>
+    <list293>	対局を仕上げて一手休みボタンを押すと	</list293>
+    <list294>	自動計算状況へ進みます。	</list294>
+    <list295>	自動地計算モードです。	</list295>
+    <list296>	無意味な着手を打つと自動計算で	</list296>
+    <list297>	対局が終了します。	</list297>
+    <list298>	最後の秒読みです。	</list298>
+    <list299>	☆商店	</list299>
+    <list300>	＄6	</list300>
+    <list301>	＄12	</list301>
+    <list302>	＄24	</list302>
+    <list303>	＄35	</list303>
+    <list304>	＄60	</list304>
+    <list305>	購入	</list305>
+    <list306>	里芋チャージ	</list306>
+    <list307>	購入処理に失敗しました。	</list307>
+    <list308>	里芋チャージ完了	</list308>
+    <list309>	個をチャージしました。	</list309>
+    <list310>	稲妻ゲームは	</list310>
+    <list311>	分	</list311>
+    <list312>	秒の	</list312>
+    <list313>	回対局です。	</list313>
+    <list314>	現在私の戦績	</list314>
+    <list315>	連勝 	</list315>
+    <list316>	連勝戦績を続きますか。	</list316>
+    <list317>	消費里芋	</list317>
+    <list318>	記録が続きます。	</list318>
+    <list319>	帳付け里芋を使いますか。	</list319>
+    <list320>	注意事項	</list320>
+    <list321>	不足分だけ帳付けで使います。	</list321>
+    <list322>	帳付け里芋を払う前までは対局及び一部機能が制限されます。	</list322>
+    <list323>	里芋は商店を通じて購入出来ます。	</list323>
+    <list324>	帳付け	</list324>
+    <list325>	現在帳付け里芋がある為対局を進行出来ません。	</list325>
+    <list326>	棋力 順位	</list326>
+    <list327>	連勝 順位	</list327>
+    <list328>	棋譜 / 順位	</list328>
+    <list329>	棋譜鑑賞 / 順位	</list329>
+    <list330>	順位	</list330>
+    <list331>	ニックネーム	</list331>
+    <list332>	棋力	</list332>
+    <list333>	ニックネームの変更	</list333>
+    <list334>	棋力／戦績の初期化	</list334>
+    <list335>	対局中には相当アイテムを使えません。	</list335>
+    <list336>	棋力と戦績を初期化しますか。	</list336>
+    <list337>	棋力は1級（50）に変更します。	</list337>
+    <list338>	棋力と戦績が初期化されました。	</list338>
+    <list339>	ニックネームを変更しますか。	</list339>
+    <list340>	ニックネームが変更されました。	</list340>
+    <list341>	アバター	</list341>
+    <list342>	アバター購入が完了しました。購入したアバターは控え室で確認できます。	</list342>
+    <list343>	アバターを選択した後購入ボタンをタッチして下さい。	</list343>
+    <list344>	持ってる里芋が足りない為アバターを購入出来ません。	</list344>
+    <list345>	変更	</list345>
+    <list346>	ヘルプ	</list346>
+    <list347>	閉める	</list347>
+
+
+  </jpn>
+  
+  
+  
+
+</fontdataroot>
+
+

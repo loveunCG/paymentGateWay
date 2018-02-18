@@ -1,0 +1,15656 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+		<list0>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list196</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 14 </totalcount>
+
+			<info0>
+
+						<index> 27 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 27 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 27 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 28 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 28 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 28 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 29 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 29 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 29 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 30 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 30 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 30 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 42 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 42 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list197 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 352 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list0>
+
+	<list1>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list194</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 14 </totalcount>
+
+			<info0>
+
+						<index> 31 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 31 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 31 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 32 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 32 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 32 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 33 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 33 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 33 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 42 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 42 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 42 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 42 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 42 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list195 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 352 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list1>
+
+	<list2>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list192</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 10 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 11 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 12 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 10 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 10 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 10 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 11 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 11 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 11 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 14 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 14 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 14 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 32 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 32 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 10 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 10 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 10 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 12 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 12 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 12 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 32 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 32 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 32 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 16 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 16 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 16 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 14 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 14 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 14 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 14 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 14 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 32 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 32 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 32 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 10 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 11 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 12 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 11 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 11 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 11 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 12 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 12 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list193 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 546 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list2>
+
+	<list3>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list190</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 0 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 0 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 0 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 1 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 2 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 3 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 5 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 6 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 7 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 8 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 8 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 8 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 4 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 4 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 9 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 9 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 9 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 10 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 11 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 12 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 14 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 15 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 16 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 17 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 17 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 17 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 13 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 13 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 18 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 18 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 18 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 19 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 20 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 21 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 23 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 24 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 25 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 26 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 26 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 26 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 22 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 22 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list191 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 546 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list3>
+
+	<list4>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list188</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list189 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 312 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list4>
+
+	<list5>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list186</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 0 </index>
+
+						<x> 114 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 0 </index>
+
+						<x> 183 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 1 </index>
+
+						<x> 261 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 1 </index>
+
+						<x> 329 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 2 </index>
+
+						<x> 407 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 2 </index>
+
+						<x> 476 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 3 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 3 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 4 </index>
+
+						<x> 701 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 4 </index>
+
+						<x> 771 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 5 </index>
+
+						<x> 847 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 5 </index>
+
+						<x> 916 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 6 </index>
+
+						<x> 994 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 6 </index>
+
+						<x> 1063 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 10 </index>
+
+						<x> 114 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 10 </index>
+
+						<x> 183 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 11 </index>
+
+						<x> 261 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 11 </index>
+
+						<x> 329 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 12 </index>
+
+						<x> 407 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 12 </index>
+
+						<x> 476 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 13 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 13 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 14 </index>
+
+						<x> 701 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 14 </index>
+
+						<x> 771 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 15 </index>
+
+						<x> 847 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 15 </index>
+
+						<x> 916 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 16 </index>
+
+						<x> 994 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 16 </index>
+
+						<x> 1063 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 20 </index>
+
+						<x> 114 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 20 </index>
+
+						<x> 183 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 21 </index>
+
+						<x> 261 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 21 </index>
+
+						<x> 329 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 22 </index>
+
+						<x> 407 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 22 </index>
+
+						<x> 476 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 23 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 23 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 24 </index>
+
+						<x> 701 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 24 </index>
+
+						<x> 771 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 25 </index>
+
+						<x> 847 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 25 </index>
+
+						<x> 916 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 26 </index>
+
+						<x> 994 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 26 </index>
+
+						<x> 1063 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list187 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 546 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list5>
+
+	<list6>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list184</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 0 </index>
+
+						<x> 142 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 8 </index>
+
+						<x> 211 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 9 </index>
+
+						<x> 280 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 17 </index>
+
+						<x> 348 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 18 </index>
+
+						<x> 417 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 26 </index>
+
+						<x> 485 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 27 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 28 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 29 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 30 </index>
+
+						<x> 760 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 31 </index>
+
+						<x> 829 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 32 </index>
+
+						<x> 897 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 33 </index>
+
+						<x> 966 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 33 </index>
+
+						<x> 1035 </x>
+
+						<y> 248 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 0 </index>
+
+						<x> 142 </x>
+
+						<y> 373 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 0 </index>
+
+						<x> 211 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 8 </index>
+
+						<x> 280 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 9 </index>
+
+						<x> 348 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 17 </index>
+
+						<x> 417 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 18 </index>
+
+						<x> 485 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 26 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 27 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 28 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 29 </index>
+
+						<x> 760 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 30 </index>
+
+						<x> 829 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 31 </index>
+
+						<x> 897 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 32 </index>
+
+						<x> 966 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 33 </index>
+
+						<x> 1035 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 0 </index>
+
+						<x> 142 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 8 </index>
+
+						<x> 211 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 9 </index>
+
+						<x> 280 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 17 </index>
+
+						<x> 348 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 18 </index>
+
+						<x> 417 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 26 </index>
+
+						<x> 485 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 27 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 28 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 28 </index>
+
+						<x> 691 </x>
+
+						<y> 498 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 29 </index>
+
+						<x> 760 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 30 </index>
+
+						<x> 829 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 31 </index>
+
+						<x> 897 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 32 </index>
+
+						<x> 966 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 33 </index>
+
+						<x> 1035 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list185 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 858 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list6>
+
+	<list7>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list180</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 0 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 0 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 0 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 8 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 8 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 8 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 9 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 9 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 9 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 26 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 26 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 26 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 17 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 17 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 9 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 9 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 9 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 18 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 18 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 18 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 26 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 26 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 26 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 0 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 0 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 0 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 8 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 8 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 26 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 26 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 26 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 0 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 0 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 0 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 17 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 17 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 17 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 18 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 18 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 18 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 9 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 9 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list181 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list7>
+
+	<list8>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list178</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 27 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 27 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 27 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 28 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 28 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 28 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 29 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 29 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 29 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 23 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 24 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 25 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 30 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 30 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 21 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 22 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 23 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 28 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 28 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 28 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 29 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 29 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 29 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 30 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 30 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 30 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 27 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 27 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 3 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 4 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 5 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 27 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 27 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 27 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 28 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 28 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 28 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 30 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 30 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 30 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 29 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 29 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list179 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list8>
+
+	<list9>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list174</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 27 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 27 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 27 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 28 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 28 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 28 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 31 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 31 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 31 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 32 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 32 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 32 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 30 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 30 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 30 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 30 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 30 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 29 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 29 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 29 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 28 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 28 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 28 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 33 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 33 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 33 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 27 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 27 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 27 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 27 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 27 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 29 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 29 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 29 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 30 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 30 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 30 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 31 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 31 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 31 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 32 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 32 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list175 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 546 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list9>
+
+	<list10>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list172</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list173 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 390 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list10>
+
+	<list11>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list152</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 0 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 1 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 2 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 3 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 3 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 3 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 6 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 6 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 6 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 6 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 7 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 8 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 4 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 4 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 9 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 9 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 9 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 10 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 11 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 12 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 13 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 13 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 13 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 15 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 16 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 17 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 14 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 14 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 18 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 18 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 18 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 20 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 20 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 20 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 21 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 22 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 23 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 24 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 24 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 24 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 26 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 26 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list153 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 546 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list11>
+
+	<list12>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list106</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 0 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 1 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 2 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 3 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 3 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 3 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 5 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 6 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 7 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 28 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 28 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 28 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 32 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 32 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 33 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 33 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 33 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 14 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 14 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 14 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 15 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 16 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 17 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 9 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 9 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 9 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 29 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 29 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 22 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 23 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 24 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 31 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 31 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 31 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 26 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 26 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 26 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 27 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 27 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 27 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 21 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 21 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list107 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list12>
+
+	<list13>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list32</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 0 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 1 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 2 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 0 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 1 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 2 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 19 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 20 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 21 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 19 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 20 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 21 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 27 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 27 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 11 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 12 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 13 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 11 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 12 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 13 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 21 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 22 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 23 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 21 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 22 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 23 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 13 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 13 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 4 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 5 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 6 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 4 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 5 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 6 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 23 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 24 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 25 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 23 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 24 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 25 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 31 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 31 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list33 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list13>
+
+	<list14>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list96</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 0 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 1 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 2 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 8 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 8 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 8 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 9 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 10 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 11 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 24 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 25 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 26 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 26 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 26 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 9 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 9 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 9 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 18 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 19 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 20 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 24 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 25 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 26 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 15 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 16 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 17 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 0 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 0 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 18 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 19 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 20 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 0 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 0 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 0 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 6 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 7 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 8 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 24 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 25 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 26 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 9 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 9 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list97 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list14>
+
+	<list15>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list176</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 31 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 31 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 31 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 32 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 32 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 32 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 0 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 1 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 2 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 23 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 24 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 25 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 33 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 33 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 21 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 22 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 23 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 33 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 33 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 33 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 31 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 31 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 31 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 11 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 12 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 13 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 32 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 32 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 3 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 4 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 5 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 32 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 32 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 32 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 33 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 33 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 33 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 23 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 24 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 25 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 31 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 31 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list177 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list15>
+
+	<list16>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list162</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list163 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 312 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list16>
+
+	<list17>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list160</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 0 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 0 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 0 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 8 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 8 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 8 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 9 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 9 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 9 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 26 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 26 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 26 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 28 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 28 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 9 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 9 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 9 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 18 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 18 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 18 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 27 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 27 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 27 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 28 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 28 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 28 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 31 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 31 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 26 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 26 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 26 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 0 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 0 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 0 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 17 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 17 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 17 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 18 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 18 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 18 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 32 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 32 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list161 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list17>
+
+	<list18>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list158</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 0 </index>
+
+						<x> 114 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 0 </index>
+
+						<x> 183 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 3 </index>
+
+						<x> 261 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 3 </index>
+
+						<x> 329 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 14 </index>
+
+						<x> 407 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 14 </index>
+
+						<x> 476 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 22 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 22 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 26 </index>
+
+						<x> 701 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 26 </index>
+
+						<x> 771 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 28 </index>
+
+						<x> 847 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 28 </index>
+
+						<x> 916 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 31 </index>
+
+						<x> 994 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 31 </index>
+
+						<x> 1063 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 7 </index>
+
+						<x> 114 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 7 </index>
+
+						<x> 183 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 8 </index>
+
+						<x> 261 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 8 </index>
+
+						<x> 329 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 11 </index>
+
+						<x> 407 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 11 </index>
+
+						<x> 476 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 15 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 15 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 25 </index>
+
+						<x> 701 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 25 </index>
+
+						<x> 771 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 27 </index>
+
+						<x> 847 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 27 </index>
+
+						<x> 916 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 29 </index>
+
+						<x> 994 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 29 </index>
+
+						<x> 1063 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 4 </index>
+
+						<x> 114 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 4 </index>
+
+						<x> 183 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 13 </index>
+
+						<x> 261 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 13 </index>
+
+						<x> 329 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 15 </index>
+
+						<x> 407 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 15 </index>
+
+						<x> 476 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 28 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 28 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 30 </index>
+
+						<x> 701 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 30 </index>
+
+						<x> 771 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 31 </index>
+
+						<x> 847 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 31 </index>
+
+						<x> 916 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 32 </index>
+
+						<x> 994 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 32 </index>
+
+						<x> 1063 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list159 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list18>
+
+	<list19>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list140</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 0 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 1 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 2 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 3 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 4 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 5 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 6 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 7 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 8 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 13 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 14 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 15 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 42 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 42 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 9 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 10 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 11 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 12 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 13 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 14 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 15 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 16 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 17 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 22 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 23 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 24 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 42 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 42 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 4 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 4 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 4 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 18 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 19 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 20 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 21 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 22 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 23 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 24 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 25 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 26 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 42 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 42 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list141 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list19>
+
+	<list20>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list132</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 1 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 1 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 1 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 10 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 10 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 10 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 19 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 19 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 19 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 13 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 14 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 15 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 24 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 24 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 10 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 11 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 12 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 14 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 14 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 14 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 23 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 23 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 23 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 5 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 5 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 5 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 13 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 13 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 4 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 4 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 4 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 24 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 24 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 24 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 6 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 6 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 6 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 15 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 15 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 15 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 7 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 7 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list133 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list20>
+
+	<list21>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list130</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list131 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list21>
+
+	<list22>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list114</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 1 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 2 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 3 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 10 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 11 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 12 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 19 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 20 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 21 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 13 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 14 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 15 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 24 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 24 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 10 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 11 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 12 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 14 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 15 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 16 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 23 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 24 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 25 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 5 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 6 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 7 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 13 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 13 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 4 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 4 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 4 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 21 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 22 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 23 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 3 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 4 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 5 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 12 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 13 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 14 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 7 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 7 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list115 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 546 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list22>
+
+	<list23>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list108</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 1 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 1 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 1 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 10 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 10 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 10 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 23 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 23 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 23 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 29 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 29 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 29 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 32 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 32 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 33 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 33 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 33 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 21 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 21 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 21 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 5 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 5 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 5 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 14 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 14 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 14 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 29 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 29 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 0 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 0 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 0 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 26 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 26 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 26 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 4 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 4 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 4 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 27 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 27 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 27 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 31 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 31 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list109 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 624 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list23>
+
+	<list24>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list34</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 0 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 1 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 2 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 8 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 8 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 8 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 9 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 10 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 11 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 27 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 27 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 27 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 26 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 26 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 9 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 9 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 9 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 18 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 19 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 20 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 28 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 28 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 28 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 15 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 16 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 17 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 30 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 30 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 18 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 19 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 20 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 0 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 0 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 0 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 6 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 7 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 8 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 24 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 25 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 26 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 31 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 31 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list35 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list24>
+
+	<list25>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list78</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 1 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 1 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 1 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 10 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 11 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 12 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 2 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 3 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 4 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 13 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 14 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 15 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 24 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 24 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 10 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 11 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 12 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 21 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 22 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 23 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 14 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 15 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 16 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 22 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 23 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 24 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 13 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 13 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 4 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 4 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 4 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 21 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 22 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 23 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 4 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 5 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 6 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 11 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 11 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 11 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 7 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 7 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list79 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list25>
+
+	<list26>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list86</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 1 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 2 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 3 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 5 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 6 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 7 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 12 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 13 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 14 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 23 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 24 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 25 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 42 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 42 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 10 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 11 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 12 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 14 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 15 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 16 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 12 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 13 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 14 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 22 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 23 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 24 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 42 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 42 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 3 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 4 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 5 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 21 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 22 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 23 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 6 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 7 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 8 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 15 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 16 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 17 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 42 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 42 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list87 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list26>
+
+	<list27>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list70</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 42 </totalcount>
+
+			<info0>
+
+						<index> 0 </index>
+
+						<x> 117 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info0>
+
+			<info1>
+
+						<index> 1 </index>
+
+						<x> 186 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info1>
+
+			<info2>
+
+						<index> 2 </index>
+
+						<x> 255 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info2>
+
+			<info3>
+
+						<index> 0 </index>
+
+						<x> 336 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info3>
+
+			<info4>
+
+						<index> 1 </index>
+
+						<x> 404 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info4>
+
+			<info5>
+
+						<index> 2 </index>
+
+						<x> 473 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info5>
+
+			<info6>
+
+						<index> 19 </index>
+
+						<x> 554 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info6>
+
+			<info7>
+
+						<index> 19 </index>
+
+						<x> 623 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info7>
+
+			<info8>
+
+						<index> 19 </index>
+
+						<x> 691 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info8>
+
+			<info9>
+
+						<index> 13 </index>
+
+						<x> 773 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info9>
+
+			<info10>
+
+						<index> 14 </index>
+
+						<x> 841 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info10>
+
+			<info11>
+
+						<index> 15 </index>
+
+						<x> 910 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info11>
+
+			<info12>
+
+						<index> 27 </index>
+
+						<x> 991 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info12>
+
+			<info13>
+
+						<index> 27 </index>
+
+						<x> 1060 </x>
+
+						<y> 264 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info13>
+
+			<info14>
+
+						<index> 1 </index>
+
+						<x> 117 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info14>
+
+			<info15>
+
+						<index> 1 </index>
+
+						<x> 186 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info15>
+
+			<info16>
+
+						<index> 1 </index>
+
+						<x> 255 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info16>
+
+			<info17>
+
+						<index> 11 </index>
+
+						<x> 336 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info17>
+
+			<info18>
+
+						<index> 12 </index>
+
+						<x> 404 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info18>
+
+			<info19>
+
+						<index> 13 </index>
+
+						<x> 473 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info19>
+
+			<info20>
+
+						<index> 11 </index>
+
+						<x> 554 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info20>
+
+			<info21>
+
+						<index> 12 </index>
+
+						<x> 623 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info21>
+
+			<info22>
+
+						<index> 13 </index>
+
+						<x> 691 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info22>
+
+			<info23>
+
+						<index> 22 </index>
+
+						<x> 773 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info23>
+
+			<info24>
+
+						<index> 23 </index>
+
+						<x> 841 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info24>
+
+			<info25>
+
+						<index> 24 </index>
+
+						<x> 910 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info25>
+
+			<info26>
+
+						<index> 13 </index>
+
+						<x> 991 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info26>
+
+			<info27>
+
+						<index> 13 </index>
+
+						<x> 1060 </x>
+
+						<y> 388 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info27>
+
+			<info28>
+
+						<index> 4 </index>
+
+						<x> 117 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info28>
+
+			<info29>
+
+						<index> 4 </index>
+
+						<x> 186 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info29>
+
+			<info30>
+
+						<index> 4 </index>
+
+						<x> 255 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info30>
+
+			<info31>
+
+						<index> 12 </index>
+
+						<x> 336 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info31>
+
+			<info32>
+
+						<index> 12 </index>
+
+						<x> 404 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info32>
+
+			<info33>
+
+						<index> 12 </index>
+
+						<x> 473 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info33>
+
+			<info34>
+
+						<index> 23 </index>
+
+						<x> 554 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info34>
+
+			<info35>
+
+						<index> 24 </index>
+
+						<x> 623 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info35>
+
+			<info36>
+
+						<index> 25 </index>
+
+						<x> 691 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info36>
+
+			<info37>
+
+						<index> 23 </index>
+
+						<x> 773 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info37>
+
+			<info38>
+
+						<index> 24 </index>
+
+						<x> 841 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info38>
+
+			<info39>
+
+						<index> 25 </index>
+
+						<x> 910 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 1 </option>
+
+			</info39>
+
+			<info40>
+
+						<index> 31 </index>
+
+						<x> 991 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info40>
+
+			<info41>
+
+						<index> 31 </index>
+
+						<x> 1060 </x>
+
+						<y> 513 </y>
+
+						<scale> 0.9 </scale>
+
+						<option> 0 </option>
+
+			</info41>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list71 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 601 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list27>
+
+	<list28>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list14</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list15 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list28>
+
+	<list29>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list16</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list17 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list29>
+
+	<list30>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list18</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list19 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list30>
+
+	<list31>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list20</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list21 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list31>
+
+	<list32>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list40</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list41 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list32>
+
+	<list33>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list42</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list43 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list33>
+
+	<list34>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list38</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list39 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 390 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list34>
+
+	<list35>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list36</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list37 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 936 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list35>
+
+	<list36>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list10</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list11 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list36>
+
+	<list37>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list12</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list13 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list37>
+
+	<list38>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list24</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list25 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list38>
+
+	<list39>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list26</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list27 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list39>
+
+	<list40>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list22</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list23 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list40>
+
+	<list41>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list28</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list29 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list41>
+
+	<list42>
+
+				<bgfilename> popup_help_back01.png </bgfilename>
+
+			<title>
+
+				<nameindex>list30</nameindex>
+
+				<x> 575 </x>
+
+				<y> 69 </y>
+
+				<fontsize> 44 </fontsize>
+
+			</title>
+
+		<cardinfo>
+
+				<totalcount> 0 </totalcount>
+
+		</cardinfo>
+
+		<explanation>
+
+					<totalcount> 1 </totalcount>
+
+			<info0>
+
+						<nameindex> list31 </nameindex>
+
+						<x> 584 </x>
+
+						<y> 211 </y>
+
+						<w> 1200 </w>
+
+						<h> 470 </h>
+
+						<fontsize> 34 </fontsize>
+
+			</info0>
+
+		</explanation>
+
+			<closebutton>
+
+				<x> 1057 </x>
+
+				<y> 66 </y>
+
+			</closebutton>
+
+	</list42>
+
+</root>
+

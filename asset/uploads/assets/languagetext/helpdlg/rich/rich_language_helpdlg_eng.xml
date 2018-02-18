@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fontdataroot>
+  <eng>
+    <list4>	Flower Tile( Bonus 1 )	</list4>
+    <list5>	Each tile carved with Chinese word of Spring(or Summer、Autumn、Winder、Plum、Orchid、Bamboo、Chrysanthemum) will award you one point when you succeed in Hu. </list5>
+    <list6>	Bloom ( Bonus 2 )	</list6>
+    <list7>	If you get a flower tile matched your wind. You get  bonus scores.	</list7>
+    <list8>	Four Flower Tile ( Bonus 4 )	</list8>
+    <list9>	if Player get four flower tiles, ( (plum), (orchid), (Chrysanthemum), (bamboo) ).	</list9>
+    <list10>	Four Season Tile ( Bonus 4 )	</list10>
+    <list11>	if Player get four season tiles, ( (spring), (summer), (fall), (winter) )	</list11>
+    <list12>	Self-drawn ( China Rule 1 )	</list12>
+    <list13>	Going out (making mahjong) with a fresh tile picked from the wall.</list13>
+    <list14>	Chicken Hand( China Rule 8  )	</list14>
+    <list15>	A Hand that would otherwise earn 0 points (excluding the Flower Tiles).	</list15>
+    <list16>	Tile Hog( China Rule 2  )	</list16>
+    <list17>	Using all four of a single suit tile, without using them as a Kong.	</list17>
+    <list18>	Single Wait ( China Rule 1  )	</list18>
+    <list19>	Waiting solely for a tile to form a pair. Not valid if waiting for more than one tile (for example, holding 1-2-3-4 and waiting on the 1 and 4).	</list19>
+    <list20>	Closed Wait( China Rule 1  )	</list20>
+    <list21>	Waiting solely for a tile whose number is "inside" (in the middle) to form a chow. Not valid if waiting for more than one tile. Not valid if the closed wait is combined with other waits.	</list21>
+    <list22>	Edge Wait ( China Rule 1  )	</list22>
+    <list23>	Waiting solely for a 3 to form a 1-2-3 chow, or solely for a 7 to form a 7-8-9 chow. Not valid if waiting for more than one tile. Not valid if the edge wait is combined with any other waits.	</list23>
+    <list24>	Rich( Local Rule 4  )	</list24>
+    <list25>	Player can get if he call [Rich].	</list25>
+    <list26>	Prevalent Wind( China Rule 2  )	</list26>
+    <list27>	A Pung or Kong of the Wind Tile corresponding to the current Prevalent Wind. ( not overlap title : Pung of Terminals or Honors  )	</list27>
+    <list28>	Seat Wind ( China Rule 2  )	</list28>
+    <list29>	A Pung or Kong of the Wind Tile corresponding to the player's Seat position at the table. (Dealer is East; proceeding counter-clockwise from the Dealer, other players' seats are South, West, North.) ( not overlap title : Pung of Terminals or Honors   )	</list29>
+    <list30>	Concealed Hand ( China Rule 2  )	</list30>
+    <list31>	Having a concealed Hand (no melded sets) and winning by discard.	</list31>
+    <list32>	Fully Concealed Hand( China Rule 4  )	</list32>
+    <list33>	A Hand that a player completes without any melds, and wins by Self-Draw.	</list33>
+    <list34>	Melded Hand( China Rule 6  )	</list34>
+    <list35>	Every set in the hand (chow, pung, kong, and pair) must be completed with tiles discarded by other players. All sets must be exposed, and the player goes out on a single wait off another player.  ( not overlap title : Single Wait   ) 	</list35>
+    <list36>	Robbing the Kong( China Rule 8  )	</list36>
+    <list37>	Winning off the tile that somebody adds to a melded pung (to create a Kong).   ( not overlap title : Last Tile   )  </list37>
+    <list38>	Out with Replacement Tile( China Rule 8  )	</list38>
+    <list39>	Going out (making mahjong) on the replacement tile drawn after achieving a kong (not on a Flower replacement). When a Flower Tile is taken after Konging, and upon winning on the Flower replacement, points for Self-Drawn may be added (but Out With Replacement Tile does not apply in this case). ( win after Hidden KONG ) ( not overlap title : Self-drawn   )	</list39>
+    <list40>	Last Tile Claim( China Rule 8  )	</list40>
+    <list41>	Going out (making Mahjong) off the discard which is the last tile in the game.	</list41>
+    <list42>	Last Tile Draw( China Rule 8  )	</list42>
+    <list43>	Going out (making Mahjong) on a pick of the very last tile of the wall. ( not overlap title : Self-drawn   )	</list43>
+    <list44>	rich at first ( Local Rule 32 )	</list44>
+    <list45>	This rule is from japan mahjong.  when First Player call Rich at first turn without KONG.	</list45>
+    <list46>	human's winner ( Local Rule 48 )	</list46>
+    <list47>	This rule is from japan mahjong.  when First Player win by getting at first turn with KONG. or when Other Player win by receiving other's.	</list47>
+    <list48>	land's winner ( Local Rule 64 )	</list48>
+    <list49>	This rule is from japan mahjong.  when Player except East win by getting at first turn.	</list49>
+    <list50>	heaven's winner( Local Rule 88 )	</list50>
+    <list51>	This rule is from japan mahjong.  when East Player win at first turn without KONG.	</list51>
+    <list52>	one or nine pair( Local Rule 1 )	</list52>
+    <list53>	if last pair tile number is 1 or 9 Number at winning.	</list53>
+    <list54>	two-five or eight pair ( Local Rule 1 )	</list54>
+    <list55>	if last pair tile number is 2, 5 or 8 Number at winning.	</list55>
+    <list56>	No honor ( China Rule 1  )	</list56>
+    <list57>	A Hand formed entirely of suit tiles, without Winds or Dragons.	</list57>
+    <list58>	One Voided Suit ( China Rule 1  )	</list58>
+    <list59>	A Hand that uses tiles from only two of the three suits (it lacks any tiles from one of the three suits).	</list59>
+    <list60>	Melded Kong  ( China Rule 1  )	</list60>
+    <list61>	A Kong that was claimed from another player or promoted from a melded pung.	</list61>
+    <list62>	Pung of Terminals or Honors ( China Rule 1  )	</list62>
+    <list63>	A Pung or Kong of Ones, Nines, or Winds. (A dragon pung scores 2 points.)	</list63>
+    <list64>	Two Terminal Chows ( China Rule 1  )	</list64>
+    <list65>	Chows of 1-2-3 and 7-8-9 in the same suit. </list65>
+    <list66>	Short Straight ( China Rule 1  )	</list66>
+    <list67>	Two chows in the same suit that run consecutively after one another to make a six-tile straight.	</list67>
+    <list68>	Mixed Double Chow ( China Rule 1  )	</list68>
+    <list69>	Two chows of the same numbers but in different suits.	</list69>
+    <list70>	Pure Double Chow ( China Rule 1  )	</list70>
+    <list71>	Two identical chows in the same suit.	</list71>
+    <list72>	Mixed strait  ( Local Rule 2  )	</list72>
+    <list73>	if Player have 123,456,789 three CHOW by all other type number tile. ( not overlap title : Mixed Double Chow )	</list73>
+    <list74>	no joker in hand ( Local Rule 2  )	</list74>
+    <list75>	if Player have not Joker Tile at winning .	</list75>
+    <list76>	2 mixed Shifted 3 Chows ( Local Rule 4  )	</list76>
+    <list77>	when three CHOW of other type number tile increase by 1 or 2 like 123,234,345 or 123,345,567.	</list77>
+    <list78>	All Simples( China Rule 2  )	</list78>
+    <list79>	A Hand formed without Terminal or Honor Tiles.  ( not overlap title : No honor  ) 	</list79>
+    <list80>	Concealed Kong ( China Rule 2  )	</list80>
+    <list81>	Created when four identical tiles, all self-drawn, are declared as a Kong.	</list81>
+    <list82>	Two Concealed Pungs ( China Rule 2  )	</list82>
+    <list83>	Two Pungs achieved without melding.	</list83>
+    <list84>	Double Pung( China Rule 2  )	</list84>
+    <list85>	Two Pungs (or Kongs) of the same number in two different suits.	</list85>
+    <list86>	All Chows ( China Rule 2  )	</list86>
+    <list87>	A hand consisting of all chows, with no Honors. </list87>
+    <list88>	Dragon Pung( China Rule 2  )	</list88>
+    <list89>	A Pung or Kong of Dragon Tiles.	</list89>
+    <list90>	Mixed Shifted 3 pungs( Local Rule 4 )	</list90>
+    <list91>	if player have three PUNG with continued number by two type number tile.	</list91>
+    <list92>	Mixed Shifted 4 Chows ( Local Rule 4 )	</list92>
+    <list93>	if player have four CHOW increased 1 or 2 like 123,234,345,456 or 123,345,567,789 by all type number tile. ( not overlap title : 2 mixed Shifted 3 Chows  ) 	</list93>
+    <list94>	Two Melded Kongs( China Rule 4  )	</list94>
+    <list95>	A Hand that includes two Melded Kongs. (One Melded Kong and one Concealed Kong are 6 points).( not overlap title : Melded Kong )	</list95>
+    <list96>	Outside Hand ( China Rule 4  )	</list96>
+    <list97>	A Hand that includes terminals and honors in each set, including the pair.	</list97>
+    <list98>	Mixed Shifted 4 pungs( Local Rule 6 )	</list98>
+    <list99>	if player have four PUNG with continued number by all type number tile.  ( not overlap title : Mixed Shifted 3 pungs  )</list99>
+    <list100>	Two Dragons Pungs( China Rule 6 )	</list100>
+    <list101>	Two Pungs (or kongs) of Dragon tiles.  ( not overlap title : Dragon Pung  ) </list101>
+    <list102>	All Types( China Rule 6  )	</list102>
+    <list103>	A Hand in which each of the five sets (pungs, kongs, chows, pairs) is composed of a different type of tile (Characters, Bamboos, Dots, Winds, and Dragons). </list103>
+    <list104>	Mixed Shifted Chows( China Rule 6  )	</list104>
+    <list105>	Three Chows, one in each suit, each shifted up one number from the last. ( not overlap title : 2 mixed Shifted 3 Chows  )	</list105>
+    <list106>	Half Flush( China Rule 6  )	</list106>
+    <list107>	A Hand formed by tiles from any one of the three suits, in combination with Honor tiles.	</list107>
+    <list108>	All Pungs( China Rule 6  )	</list108>
+    <list109>	A Hand formed by four Pungs (or Kongs) and one pair. ( not overlap title : Outside Hand   )	</list109>
+    <list110>	Two Concealed Kongs( China Rule 6  )	</list110>
+    <list111>	A Hand that includes two Concealed Kongs.  ( not overlap title :  Two Concealed Pungs, Concealed kong )	</list111>
+    <list112>	Mixed Shifted Pungs( China Rule 8  )	</list112>
+    <list113>	Three Pungs (or kongs), one in each suit, each shifted up one number from the last.	</list113>
+    <list114>	Mixed Triple Chow( China Rule 8 )	</list114>
+    <list115>	Three Chows of the same numerical sequence, one in each suit. ( not overlap title :  Mixed Double Chow  )	</list115>
+    <list116>	Reversible Tiles( China Rule 8 )	</list116>
+    <list117>	A Hand created entirely with those tiles which are vertically symmetrical, which means the carved designs look the same if you turn them upside-down. These tiles are the 1,2,3,4,5,8, and 9 Dots, the 2,4,5,6,8, and 9 Bams, and the White Dragon.. ( not overlap title : One Voided Suit   )	</list117>
+    <list118>	Mixed Straight( China Rule 8 )	</list118>
+    <list119>	A Straight (tiles 1 through 9) formed by chows from all three suits.	</list119>
+    <list120>	Big Three Winds( China Rule 12 )	</list120>
+    <list121>	A Hand that includes one pung (or kong) of each of the three winds.. ( not overlap title : Pung of Terminals or Honors   )		</list121>
+    <list122>	Lower Five( China Rule 12 )	</list122>
+    <list123>	A Hand created with suit tiles 1 through 4. ( not overlap title : No honor   )	</list123>
+    <list124>	Upper Five( China Rule 12 )	</list124>
+    <list125>	A Hand created with suit tiles 6 through 9. ( not overlap title : No honor   )	</list125>
+    <list126>	Knitted Straight( China Rule 12 )	</list126>
+    <list127>	A special Straight which is formed not with standard chows but with 3 different Knitted sequences. For example, 1-4-7 of Dots, 2-5-8 of Characters, and 3-6-9 of Bamboos - but not necessarily in the order in this example. </list127>
+    <list128>	Lesser Honors and Knitted Tiles( China Rule 12 )	</list128>
+    <list129>	Formed by single honors, and singles of suit tiles belonging to separate Knitted sequences. (for example, 1-4-7 of Bamboo, 2-5-8 of Characters, and 3-6-9 of Dots - each of the 3 suits must belong to a different Knitted sequence, but not necessarily in this order) ( not overlap title : All Types, Single Wait, Fully Concealed Hand, Outside Hand , Self-Drawn  ) 	</list129>
+    <list130>	Three Concealed Pungs( China Rule 16 )	</list130>
+    <list131>	Three Concealed Pungs or Kongs (achieved without melding).	</list131>
+    <list132>	Triple Pung( China Rule 16 )	</list132>
+    <list133>	Three Pungs (or Kongs) of the same number in each suit. ( not overlap title : Double Pung   ) 	</list133>
+    <list134>	All Fives( China Rule 16 )	</list134>
+    <list135>	A Hand in which every set (chow, pung, kong, pair) includes the number “5”. ( not overlap title : All Simples   )	</list135>
+    <list136>	Pure Shifted Chows( China Rule 16 )	</list136>
+    <list137>	Three Chows in one suit, each shifted either one or two numbers up from the last, but not a combination of both. </list137>
+    <list138>	Three-Suited Terminal Chows( China Rule 16 )	</list138>
+    <list139>	A Hand consisting of 1-2-3 and 7-8-9 in one suit (Two Terminal Chows), 1-2-3 and 7-8-9 in another suit, and a pair of fives in the remaining suit.. ( not overlap title : Mixed Double Chow, Two Terminal Chows, No honor,  All Chows )	</list139>
+    <list140>	Pure Straight( China Rule 16 )	</list140>
+    <list141>	A Hand using one each of all the numbers 1 through 9 from any one suit, forming three consecutive chows.  ( not overlap title : Two Terminal Chows, Mixed Double Chow, Short Straight  ) </list141>
+    <list142>	Lower Tiles( China Rule 24 )	</list142>
+    <list143>	A Hand consisting entirely of 1, 2, and 3 tiles. ( not overlap title : No honor   )	</list143>
+    <list144>	Middle Tiles( China Rule 24 )	</list144>
+    <list145>	A Hand consisting entirely of 4, 5, and 6 tiles. ( not overlap title : All Simples   )	</list145>
+    <list146>	Upper Tiles( China Rule 24 )	</list146>
+    <list147>	A Hand consisting entirely of 7, 8, and 9 tiles.	( not overlap title : No honor   ) </list147>
+    <list148>	Pure Shifted Pungs( China Rule 24 )	</list148>
+    <list149>	Three Pungs or Kongs of the same suit, each shifted one up from the last.  ( not overlap title : Pure Triple Chow   )	</list149>
+    <list150>	Pure Triple Chow( China Rule 24 )	</list150>
+    <list151>	Three chows of the same numerical sequence and in the same suit. ( not overlap title : Pure Shifted Pungs, Pure Double Chow   )	</list151>
+    <list152>	Full Flush( China Rule 24 )	</list152>
+    <list153>	A Hand formed entirely of a single suit. ( not overlap title : No honor   )	</list153>
+    <list154>	All Even Pungs( China Rule 24 )	</list154>
+    <list155>	A Hand formed with Pungs or Kongs of 2, 4, 6, and 8 tiles, with pair of the same.  ( not overlap title : All Pungs, All Simples  ) 	</list155>
+    <list156>	Greater Honors and Knitted Tiles( China Rule 24 )	</list156>
+    <list157>	Formed by seven single honors and singles of suit tiles belonging to separate Knitted sequences (for example, 1-4-7 of Bamboos, 2-5-8 of Characters, and 3-6-9 of Dots).  ( not overlap title : All Types, Single Wait, Fully Concealed Hand, Outside Hand , Self-Drawn  ) </list157>
+    <list158>	Seven Pairs( China Rule 24 )	</list158>
+    <list159>	A Hand formed by seven Pairs. ( not overlap title : Single Wait, Fully Concealed Hand, Outside Hand, Tile Hog, one or nine pair, two-five or eight pair , Self-Drawn )	</list159>
+    <list160>	All Terminals and Honors( China Rule 32 )	</list160>
+    <list161>	The Pair(s), Pungs or Kongs are all made up of 1 or 9 Number Tiles and Honor Tiles ( not overlap title : All Pungs, Outside Hand, Pung of Terminals or Honors  ) </list161>
+    <list162>	Three Kongs( China Rule 32 )	</list162>
+    <list163>	A hand containing three Concealed Kongs. (Points for concealment may be added). ( not overlap title : Two Concealed kongs, Two Melded Kongs, Concealed kong, Melded Kong )	</list163>
+    <list164>	Four Pure Shifted Chows( China Rule 32 )	</list164>
+    <list165>	Four chows in one suit, each shifted up 1 or 2 numbers from the last, but not a combination of both. ( not overlap title : Three Pure Shifted Chows, Short Straight  )	</list165>
+    <list166>	Four Pure Shifted Pungs( China Rule 48 )	</list166>
+    <list167>	Four Pungs (or Kongs) in the same suit, each shifted one up from the last. ( not overlap title : Pure Triple Chow, All Pungs  )	</list167>
+    <list168>	Quadruple Chow( China Rule 48 )	</list168>
+    <list169>	Four chows of the same continuous number sequence in the same suit. ( not overlap title : Pure Triple Chow, Pure Shifted Pungs, Pure Double Chow, Tile Hog  ) </list169>
+    <list170>	Pure Terminal Chows( China Rule 64 )	</list170>
+    <list171>	A hand consisting of two each of the lower and upper terminal Chows in one suit only, and a pair of fives in the same suit. (this only) ( not overlap title : Seven Pairs, Full Flush, Two Terminal Chows, All Chows, One Voided Suit, Pure Double Chow, No honor )	</list171>
+    <list172>	Four Concealed Pungs( China Rule 64 )	</list172>
+    <list173>	A hand that includes four Concealed Pungs or Kongs (achieved without melding). ( not overlap title : Three Concealed Pungs, Concealed Hand, All Pungs, Self-Drawn  ) </list173>
+    <list174>	All Honor( China Rule 64 )	</list174>
+    <list175>	The pair(s), Pungs or Kongs are all made up of Honor Tiles. ( not overlap title : All Pungs, Outside Hand, Pung of Terminals or Honors  )	</list175>
+    <list176>	Little Three Dragons( China Rule 64 )	</list176>
+    <list177>	A hand that includes two Pungs or Kongs of the Dragon Tiles, and a pair of the third Dragon. ( not overlap title : Dragon Pung, Two Dragons  )	</list177>
+    <list178>	Little Four Winds( China Rule 64 )	</list178>
+    <list179>	A hand that includes three Pungs or Kongs of Wind Tiles, and a pair of the fourth Wind. ( not overlap title : Three Winds, Pung of Terminals or Honors  )	</list179>
+    <list180>	All Terminals( China Rule 64 )	</list180>
+    <list181>	The pair(s), Pungs or Kongs are all made up of 1 or 9 Number Tiles, without Honor Tiles. ( not overlap title : All Pungs, All Terminals and Honors, Triple Pung, Double Pung, No honor, Pung of Terminals or Honors ) </list181>
+    <list182>	Joker kong( Local Rule 88 )	</list182>
+    <list183>	A KONG made with Joker Tile.	</list183>
+    <list184>	Thirteen orphans( China Rule 88 )	</list184>
+    <list185>	A hand created by singles of any 12 of the 1, 9, and Honor tiles, along with a pair of the 13th. ( not overlap title : All Types, Single Wait, Fully Concealed Hand, Outside Hand, Self-Drawn )	</list185>
+    <list186>	Seven Shifted Pairs( China Rule 88 )	</list186>
+    <list187>	A hand formed by seven pairs of the same suit, each shifted one up from the last. ( not overlap title : Full Flush, Seven Pairs, Single Wait, Fully Concealed Hand, Outside Hand, one or nine pair, two-five or eight pair, Self-Drawn  )	</list187>
+    <list188>	Four quads( China Rule 88 )	</list188>
+    <list189>	Any hand that includes four kongs. They may be concealed or melded.. ( not overlap title : Three Kongs, Two Concealed kongs, Two Melded Kongs, Concealed kong, Melded Kong )	</list189>
+    <list190>	Nine gates( China Rule 88 )	</list190>
+    <list191>	this only.  Holding the 1,1,1,2,3,4,5,6,7,8,9,9,9 tiles in any one of the suits, creating the nine-sided wait of 1,2,3,4,5,6,7,8,9. ( not overlap title : Full Flush, Pung of Terminals or Honors, Self-Drawn )	</list191>
+    <list192>	All green( China Rule 88 )	</list192>
+    <list193>	A hand in which the chows, pungs and pair(s) are made up solely of "green" tiles: 2 Bam, 3 Bam, 4 Bam, 6 Bam, 8 Bam, and Green Dragon.  ( not overlap title : Full Flush )	</list193>
+    <list194>	Big three dragons( China Rule 88 )	</list194>
+    <list195>	Pungs or Kongs of all three Dragon Tiles. ( not overlap title : Dragon Pung, Two Dragons )	</list195>
+    <list196>	Big four winds( China Rule 88 )	</list196>
+    <list197>	Pungs or Kongs of of all four Wind Tiles. ( not overlap title : Prevalent Wind, Seat Wind, Three Winds, All Pungs, Pung of Terminals or Honors )	</list197>
+    <list198>	Honor wind ( Local Rule 108 )	</list198>
+    <list199>	Four winds kong or pung and a green dragon tile pair. (this only) ( not overlap title : All Honor, Big four winds, Little Four Winds, Three Winds, Prevalent Wind, Seat Wind,  All Pungs, Outside Hand, Pung of Terminals or Honors )</list199>
+    <list200>	situation of winning with 3WAN or 4WAN	</list200>
+    <list201>	situation of wiinning with 1WAN ro 3WAN	</list201>
+    <list202>	Last Tile ( China Rule 4 )	</list202>
+    <list203>	Winning on a tile that is the last of its kind. (It must be clear to all players based on the discards and exposures.)	</list203>
+    <list204>	Big melded kong	</list204>
+    <list205>	Small melded kong	</list205>
+    <list206>	Other Concealed Kong Display	</list206>
+    <list207>	My Concealed Kong Display	</list207>
+    <list208>	World Mahjong	</list208>
+    <list209>	This is new type mahjong that MasterGames co,ltd made. 	</list209>
+    <list210>	Kukpyo Mahjong 	</list210>
+    <list211>	This is Chinese Official Mahjong that chinese goverment made.	</list211>
+    <list212>	No Score Rule	</list212>
+    <list213>	This is for beginner. Player can win the game just by getting 1 point.	</list213>
+    <list214>	8 Score Rule	</list214>
+    <list215>	Player must get 8 scores to win. this is most fun rule in chinese mahjong.	</list215>
+    <list216>	Joker Tile Rule	</list216>
+    <list217>	a traditional chinese mahjong don't use Joker tile. but our game use joker tile to have fun.	</list217>
+    <list218>	Auto First Player Change Rule	</list218>
+    <list219>	if a game finished. First Player change to next seat automatically.	</list219>
+    <list220>	Draw Game Multiply Rule	</list220>
+    <list221>	if a game draw. the next game score will be doubled automatically.	</list221>
+    <list222>	First Open Tile Bonus	</list222>
+    <list223>	if Player get a first tile Pung. Player can get bonus scores.	</list223>
+    <list224>	Joker Multiply Rule	</list224>
+    <list225>	if Player have any joker tile at lose game. Player will pay double money each joker tile.	</list225>
+    <list226>	Continues Call Bonus	</list226>
+    <list227>	if Player call ( Chi, Pung, Kong, Win ) before his turn arrive after calling. he can get bonus scores.	</list227>
+    <list228>	Four Flower	</list228>
+    <list229>	Four Season	</list229>
+    <list230>	Winning situation with 1 Man or 4 Man tile	</list230>
+
+
+    <list240>	아이템 조합에 대해서	</list240>
+    <list241>	게임, 미션 또는 상점을 통해 획득한 아이템을 가지고 추가로 게임머니를 획득할 수 있는 보너스 시스템입니다.  </list241>
+    <list242>	아이템 합성에 대해서	</list242>
+    <list243>	특정한 패가 부족할 경우 아이템 합성을 통해서 획득할 수 있습니다. </list243>
+    <list244>	미션에 대해서	</list244>
+    <list245>	게임이외에 금액을 획득할 수 있는 미션이 다양하게 준비되어 있습니다.  </list245>
+    <list246>	랭킹에 대해서	</list246>
+    <list247>	랭킹은 금주의 랭킹과 전체랭킹으로 나누어집니다.  </list247>
+
+    <list250> Four Wind Throw[四風連打]: if All Player throw same Wind tile at first turn. </list250>
+    <list251> Four Player Rich[四家立直] : if All Player Call [Rich].</list251>
+    <list252> Three Player Win [三家和] : if Three Players win at the same time by receiving one player's.</list252>
+    <list253> after a drawgame. next game score is multiplied by 2, 3, 4 continuously.</list253>
+    <list254> The reason Joker Tile use next tile of First Open Tile is why use 4 tiles for JOKER completely. </list254>
+    <list255> This is rule for beginners. if you get used, we recommand to play [ 8 score rule ].</list255>
+    <list256> Our Game is added some japan rule and bonus mission for fun on original. </list256>
+    <list257> The Original Chinese Mahjong don't use Joker Tile, but use in our game. </list257>
+    <list258> Because of Player must get 8 score to win, Playing is more difficult and  Strategic. so sometimes it have no winner.  </list258>
+    <list259> After learning from [no score rule], if you want to get The Mahjong's real fun, we recommand to play [8 score rule]. </list259>
+
+    <list260> 아이템으로 주어진 14개의 패를 사용하여 12점이상의 족보를 완성하면 해당 족보점수에 레벨별로 금액을 지급합니다. </list260>
+    <list261> 14개의 조합에는 한 아이템당 4개만 사용할 수 있습니다. 추천조합 버튼을 누르시면 자동으로 현재 가진 아이템으로 가장 높은 점수를 낼 수 있는 조합으로 패를 채울 수 있습니다. </list261>
+    <list262> 족보에 따라 빈자리가 발생하면 임의의 다른 패를 클릭해서 넣으시면 됩니다. 꽃패는 조합에서 사용할 수 없습니다.   </list262>
+    <list263> 일반적으로 패는 혼패 > 삼원패 > 풍패 > 수패 의 순으로 레벨이 주어집니다. </list263>
+    <list264> 수패는 더하기 빼기를 이용하여 다른 수패를 만들어 낼수 있습니다. 자패는 동일한 자패를 사용하여 없는 자패를 만들어 내거나 삼원패로 업그레이드 할 수 있습니다. 패의 합성에 꽃패를 추가하면 상위 레벨의 패로 업그레이드 될 확률을 높여줍니다.  </list264>
+    <list265> 삼원패의 경우 3개의 패를 모두 합쳐 합성할 경우 혼패가 됩니다. 그외의 다양한 합성규칙이 있으니 직접 찾아보세요. </list265>
+    <list266> 게임을 통해서 족보를 얻으면 해당 횟수만큼 별이 쌓이고 해당 미션에서 별이 모두 쌓이면 레벨에 따라 보상금과 아이템을 받을 수 있습니다. </list266>
+    <list267> 대회를 통해 레벨이 오르면 새로운 미션 페이지가 추가됩니다.  </list267>
+    <list268> 금주의 랭킹은 1주단위로 정해지며 매주 월요일날 초기화 됩니다. 전체 랭킹은 머니랭킹과 고수랭킹으로 나누어집니다.</list268>
+    <list269> 고수랭킹은 금주의 랭킹에서 1위부터 3위까지는 각각 10,5,3점이 주어지고 4위부터 10위까지는 각 1점이 주어집니다. 매주마다 주어진 점수가 합산되어 랭킹이 정해집니다. </list269>
+
+    
+    <list270>HOME PAGE</list270>
+    <list271>www.mastergames.co.kr</list271>
+    <list272>MAIL ADDRESS</list272>
+    <list273>master@mastergames.co.kr</list273>
+    <list274>마스터 게임즈 정보</list274>
+
+    <list280> No Win just JOKER[混牌流局]: though you have just JOKER tile, if you don't make [Win Score].</list280>
+
+  </eng>
+  
+</fontdataroot>
+
+

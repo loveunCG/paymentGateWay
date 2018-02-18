@@ -1,0 +1,284 @@
+@import url("http://fonts.googleapis.com/earlyaccess/nanumgothic.css");
+@charset "UTF-8";
+
+/* reset css */
+header,footer,section,article,aside,nav,hgroup,details,menu,figure,figcaption{display:block}
+html,body,ul,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,p,menu,legend {margin:0;padding:0}
+img,video,audio,object,embed,iframe{ height:auto; }
+ul,li {list-style:none; margin-bottom:0;}
+img{border:0}
+input{margin:0; padding:0; vertical-align:middle; }
+input[type="file"]{border:1px solid #bbb;}
+input[type="checkbox"],
+input[type="radio"]{vertical-align:sub; *vertical-align:-1px; margin:0; margin-right:5px;}
+select{height:20px; padding:0; margin:0; vertical-align:middle; font-family:'돋움', Dotum; border:1px solid #707070}
+textarea{border:1px solid #fff; outline:none;}
+table { border-collapse:collapse; border-spacing:0; }
+x:-moz-any-link, x:default  { /* FireFox 3 */
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+a, a:link, a:hover, a:focus {color: #777; text-decoration: none;}
+html,body {	height: 100%; width:100%; }
+body { position:relative; font-size:12px; font-family:'Nanum Gothic', '나눔고딕', 'Malgun Gothic', '맑은고딕', '돋움', Dotum; line-height:1; *line-height:1.2;}
+button{border:0; margin:0; padding:0; line-height:1; cursor:pointer; font-family:'Nanum Gothic', '나눔고딕';}
+small{font-size:11px;}
+body{
+    min-width:1280px;
+}
+.highlightLink{
+    color:#d00e31 !important;
+    text-decoration: underline !important;
+    cursor: pointer;
+}
+/* icon */
+.ico{
+    position:relative;
+    display:inline-block;
+    vertical-align: middle;
+    margin-right:5px;
+    background: url('../img/ico_splites.png') no-repeat;
+}
+.ico.appStore{
+    width:134px;
+    height:39px;
+}
+.ico.googlePlay{
+    width:134px;
+    height:39px;
+    background-position-x:-145px;
+}
+.ico.driver{
+    width:57px;
+    height:71px;
+    background-position-y: -51px;
+}
+.ico.fleet{
+    width:76px;
+    height:71px;
+    background-position:-73px -51px;
+}
+#header{
+    position:absolute;
+    z-index:2;
+    width:100%;
+    border-bottom: 1px solid #4a4a4a;
+}
+#header > ul{
+    height:58px;
+    background:linear-gradient(#494949, #3a3a3a);
+    padding:10px 20px 6px 20px;
+}
+#header > ul > li{
+    float:right;
+}
+#header > ul > li:first-child{
+    float:left;
+    padding-left:10px;
+}
+#header > ul > li > a{
+    font-size: 24px;
+    padding: 5px 10px;
+    color:#b9b9b9;
+    text-decoration: none;
+}
+
+#header > ul > li > a:hover{
+    color:#eee;
+}
+#header > ul > li h1{
+    margin:0;
+}
+#header > ul > li h1 button{
+    vertical-align: 11px;
+}
+#header > ul > li h1 a{
+    display:inline-block;
+    width:185px;
+    height:35px;
+    background:url('../img/logo_white.png') no-repeat;
+}
+
+#contents{
+    position: relative;
+}
+#contents.signUp{
+    background:url('../img/bg_load.jpg') no-repeat;
+    background-size:cover;
+    overflow:hidden;
+    min-height:100%;
+}
+
+
+/* footer style */
+#footer{
+    position:fixed;
+    bottom:1px;
+    text-align: center;
+    width: 100%;
+    background-color:#fff;
+}
+#footer .appDownload{
+    padding:15px 0;
+}
+#footer .agreeUrl a{
+    display: inline-block;
+    margin-left: 10px;
+    padding-left: 10px;
+    border-left: 1px solid #ccc;
+    line-height: 10px;
+    color: #565656;
+    font-size: 14px;
+}
+#footer .agreeUrl a:first-child{
+    border-left:0;
+    margin-left:0;
+    padding-left:0;
+}
+#footer > p{
+    padding:5px 0 15px 0;
+    color:#bdbdbd;
+}
+
+
+/* signUpWrap */
+.signUpWrap{
+    position:relative;
+    top:59px;
+    text-align:center;
+    margin-bottom: 200px;
+}
+.signUpWrap > dl{
+    display:inline-block;
+    margin-top:50px;
+    width:680px;
+    background-color:#fff;
+    border:1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+}
+.signUpWrap > dl > dt{
+    padding: 15px 20px 5px 30px;
+    color:#5c5c5c;
+    font-size:24px;
+    text-align:left;
+    border-bottom:1px solid #ccc;
+}
+.signUpWrap > dl > dt span i.driver{
+    background-size: 140px;
+    width: 28px;
+    height: 36px;
+    background-position-y: -26px;
+}
+.signUpWrap > dl > dt span i.fleet{
+    background-size: 140px;
+    width: 39px;
+    height: 36px;
+    background-position: -36px -27px;
+}
+.signUpWrap > dl > dd{
+    padding:20px 30px 30px 30px;
+    text-align: left;
+}
+.signUpWrap > dl > dd label{
+    display:block;
+    cursor:pointer;
+}
+.signUpWrap > dl > dd label a{
+    color:#d00e31;
+    text-decoration: underline;
+}
+/* select type */
+.signUpWrap > dl > dd.selectType{
+    margin:30px;
+    padding:0;
+    border:1px solid #ccc;
+    border-radius: 8px;
+    overflow:hidden;
+    text-align: center;
+}
+.signUpWrap > dl > dd.selectType p{
+    float:left;
+    width:50%;
+    padding:30px;
+    background-color:#f1f1f1;
+    cursor:pointer;
+}
+.signUpWrap > dl > dd.selectType p:hover{
+    background-color:#dfdfdf;
+}
+.signUpWrap > dl > dd.selectType p.select{
+    background-color:#ccc;
+}
+.signUpWrap > dl > dd.selectType p:first-child{
+    border-right:1px solid #ccc;
+}
+.signUpWrap > dl > dd.selectType p > span{
+    display:block;
+    color:#989898;
+}
+.signUpWrap > dl > dd.selectType p > i + span,
+.signUpWrap > dl > dd.selectType p > span small{
+    font-size:18px;
+    color:#d00e31;
+    padding:15px 0 10px 0;
+}
+
+/* select type selected */
+.signUpWrap > dl > dd.selectType.on{
+    height:90px;
+}
+.signUpWrap > dl > dd.selectType.on p{
+    padding:15px 25px;
+    text-align:left;
+}
+.signUpWrap > dl > dd.selectType.on p span{
+    display: inline-block;
+    color:#5c5c5c;
+    word-break: break-all;
+    width: 130px;
+    vertical-align: middle;
+    padding-top: 0;
+}
+.signUpWrap > dl > dd.selectType.on p span:last-child{
+    display:none;
+}
+.signUpWrap > dl > dd.selectType.on p .driver,
+.signUpWrap > dl > dd.selectType.on p .fleet{
+    background-size:220px;
+    background-position-y: -38px;
+}
+.signUpWrap > dl > dd.selectType.on p .fleet{
+    background-position-x: -56px;
+}
+.signUpWrap .carrierDetails{
+    padding-bottom:20px;
+}
+.signUpWrap .carrierDetails > p:first-child{
+    font-size:20px;
+    color:#d00e31;
+}
+.signUpWrap .successSignUp{
+    text-align:center;
+}
+.signUpWrap .successSignUp h4{
+    padding-bottom:10px;
+}
+.form-group{
+    margin-bottom: 5px;
+}
+.progressBar{
+    position:fixed;
+    width:100%;
+    height:100%;
+    z-index:10000;
+    background:rgba(255,255,255,0.5);
+}
+.progressBar img{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -100px;
+    margin-top: -100px;
+}
